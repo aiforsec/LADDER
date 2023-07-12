@@ -1,0 +1,8 @@
+
+
+
+
+
+****************************************          Parameters{'pretrained_model': 'roberta-base', 'lr': 5e-06, 'batch_size': 16, 'epoch': 30, 'dropout': 0.5, 'fine_tune': True}
+Namespace(batch_size=16, cuda=True, dataset='data/entity_extraction', decay=0, dropout=0.5, epoch=30, fine_tune=True, freeze_bert=False, gradient_clip=-1, lr=5e-06, lstm_dim=-1, name='entity_recognition', pretrained_model='roberta-base', save_path='logs/entity_extraction/1667411627', seed=1, sequence_length=256)
+

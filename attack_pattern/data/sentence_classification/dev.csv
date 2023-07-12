@@ -1,0 +1,121 @@
+text	label
+The control of the RP re-encounter probability finds a direct application to improve the performance of chemical devices.	1
+Here, we show how a simple-to-implement control scheme highly enhances the sensitivity of a model chemical magnetometer by up to two orders of magnitude.	1
+The basic idea behind a chemical magnetometer is that, since a change in the magnetic field modifies the amount of singlet products, one can reverse the reasoning and measure the chemical yield to estimate B.	1
+Intuitively, the magnetic sensitivity is high when a small change in the magnetic field intensity produces large effects on the singlet yield.	1
+Formally, it is defined as:(2)Λs(B)≡∂Φs(B)∂B=∫0∞pre(t)gs(B,t)dt,with gs(B,t)≡∂fs(B,t)∂B being the instantaneous magnetic sensitivity.	1
+The functional form of fs(B,t)=Sρel(t)S strongly depends on the specific realization of the radical pair, in particular on the number of the surrounding nuclear spins.	1
+Here, we consider a radical pair in which the first electron spin is devoid of hyperfine interactions, while the second electron spin interacts isotropically with one spin-1 nucleus, e.g.	1
+nitrogen.	1
+In the context of the chemical compass (i.e.	1
+when the task is determining the magnetic field direction through anisotropic hyperfine interactions), an analogous configuration (with only one spin-1/2 nucleus) has been proposed [3], and numerically characterized [8], as being optimal: Additional nuclear spins would perturb the intuitive ‘reference and probe’ picture.	1
+The Hamiltonian then simplifies to H=-γeB(S1(z)+S2(z))+|γe|αS→2·I→, where α is the isotropic hyperfine coupling.	1
+Half metallic ferromagnets (HMF) have attracted enormous interest due to their applications in spintronic devices [1].	1
+Dilute magnetic semiconductors (DMSs) are considered to be the best materials to show half metallicity.	1
+These materials have two components, one being a semiconducting material with diamagnetic properties while the other is a magnetic dopant such as transition metal having un-paired d electrons [2].	1
+The major advantage of these materials is utilization of electron's spin as information carrier since advanced functionalities in spintronic devices can be viable by the use of spin degree of freedom along with the charge of electrons [3].	1
+The major issue regarding the applicability of these materials is to enhance the Curie temperature above room temperature.	1
+That's why the research interest shifted towards large band gap materials.	1
+A lot of work has been reported on DMSs with different II–VI and III–V semiconductors as host material such as, ZnS, CdS, GaN, ZnO, ZnSe, ZnTe, TiO2, SnO2 [4–12].	1
+It has been known [9,14,18,22] that the fragmentation processes in polyatomic molecules induced by an intense ultrafast laser field can sometimes exhibit sensitive dependence on the instantaneous phase characteristics of the laser field.	1
+Depending on the change in sign the chirped laser pulses, fragmentation could be either enhanced or suppressed [14,18,22].	1
+Controlling the outcome of such laser induced molecular fragmentation with chirped femtosecond laser pulses has brought forth a number of experimental and theoretical effects in the recent years.	1
+However, efforts are continuing for a specific fragment channel enhancement, which is difficult since it also is a function of the molecular system under study [20,22–24].	1
+Here we report the observation of a coherently enhanced fragmentation pathway of n-propyl benzene, which seems to have such specific fragmentation channel available.	1
+We found that for n-propyl benzene, the relative yield of C3H3+ is extremely sensitive to the phase of the laser pulse as compared to any of the other possible channels.	1
+In fact, there is almost an order of magnitude enhancement in the yield of C3H3+ when negatively chirped pulses are used, while there is no effect with the positive chirp.	1
+Moreover, the relative yield of all the other heavier fragment ions resulting from interaction of the strong field with the molecule is not sensitive to the sign of the chirp, within the noise level.	1
+The dynamics of various physical phenomena, such as the movement of pendulums, planets, or water waves can be described in a variational framework.	1
+The development of variational principles for classical mechanics traces back to Euler, Lagrange, and Hamilton; an overview of this history can be found in [1,19].	1
+This approach allows to express all the dynamics of a system in a single functional – the Lagrangian – which is an action integral.	1
+Hamiltonian mechanics is a reformulation of Lagrangian mechanics which provides a convenient framework to study the symmetry properties of a system.	1
+This is expressed by Noether's theorem which establishes the direct connection between the symmetry properties of Hamiltonian systems and conservation laws.	1
+When one approximates the system numerically, it is advantageous to preserve the Hamiltonian structure also at the discrete level.	1
+Given that Hamiltonian systems are abundant in nature, their numerical approximation is therefore a topic of significant relevance.	1
+The formulation in Table 1 was derived by an empirical approach and led to a non-classical glass matrix.	1
+[4] took a more systematic approach to such glass-ceramic wasteforms.	1
+These wasteforms were targeted at Hanford K-basin sludges and the immobilisation of the primary waste stream from production of molybdenum-99 at the Australian Nuclear Science and Technology Organisation site in Sydney respectively.	1
+the intended crystalline phase was the closely related titanate pyrochlore, CaUTi2O7.	1
+The glass matrix was formulated such that the trivalent species in the glass network, boron and aluminium, were charge compensated on a molar basis by sodium.	1
+The stoichiometric composition of the glass in this wasteform was Na2AlBSi6O16.	1
+This glass provides a method by which the glass composition can be varied systematically.	1
+Given that the initial observations inferred an important role played by alumina, it was decided to prepare a suite of zirconolite glass-ceramics in which the glass matrix was defined by Na2Al1+xB1–xSi6O16 to investigate the role played by glass composition in controlling crystalline phase stability.	1
+The x=1 end member gives the mineral albite, NaAlSi3O8.	1
+The melting point of albite is 1120°C [5] and the composition cools to a glass at the cooling rates that occur during a HIP cycle.	1
+From the available phase diagrams, [6] no boron analogue for albite was shown, and the liquidus estimated from the relevant phase diagram is 1100–1200°C.	1
+No phase diagrams for the quaternary system Na2O–Al2O3–B2O3–SiO2 could be found.	1
+The Statistical Associating Fluid Theory (SAFT) is a well-developed perturbation theory used to describe quantitatively the volumetric properties of fluids.	1
+The fundamental difference between the versions is in the underlying intermolecular potential employed to describe the unbounded constituent particles.	1
+Hard spheres, square well fluids, LJ fluids, argon, alkanes have all been employed as reference fluids in the different incarnations of SAFT.	1
+For the purpose of this work we will center on a particular version of the SAFT EoS, i.e.	1
+the SAFT-VR Mie recently proposed by Laffitte et al.	1
+[54] and expanded into a group contribution approach, SAFT-γ, by Papaioannou et al.	1
+This particular version of SAFT provides a closed form EoS that describes the macroscopical properties of the Mie potential [56], also known as the (m,n) potential; a generalized form of the LJ potential (albeit predating it by decades).	1
+The Mie potential has the form(1)ϕ(r)=Cεσrλr−σrλawhere C is an analytical function of the repulsive and attractive exponents, λa and λr, respectively, σ is a parameter that defines the length scale and is loosely related to the average diameter of a Mie bead; ɛ defines the energy scale and corresponds to the minimum potential energy between two isolated beads; expressed here as a ratio to the Boltzmann constant, kB.	1
+The Mie function, as written above, deceivingly suggests that four parameters are needed to characterize the behaviour of an isotropic molecule, however the exponents λa and λr are intimately related, and for fluid phase equilibria, one needs not consider them as independent parameters [57].	1
+Accordingly, we choose herein to fix the attractive exponent to λa=6 which would be expected to be representative of the dispersion scaling of most simple fluids and refer from here on to the repulsive parameter as λ=λr.	1
+In addition, the prediction of solar cell’s temperature is very important for the electrical characterisation of CPV modules.	1
+(2014) reviewed various methods for the calculation of the cell temperature in High Concentrator PV (HCPV) modules.	1
+The first two categories are based on direct measurements of CPV modules in indoor or outdoor experimental setups and presented the highest degree of accuracy (Root Mean Square Error (RMSE) 1.7–2.5K).	1
+(2014) calculate the cell temperature at open-circuit conditions.	1
+Methods that predict the cell temperature at maximum power point (MPP) operation offer a more realistic approach since they include the electrical energy generation of the solar cells (i.e.	1
+The temperatures used in this work are not very different from the ones achievable in present devices, such that the results can be extrapolated to them.	0
+Carter et al.	0
+However, as has been known since shortly after its inception, correct results are not guaranteed  [11–16].	0
+5h represents 5 okta transitions and is considered an appropriate duration for the slight propensity to shift towards an increased okta to be represented, Fig.	0
+[55].	0
+However, Edeling et al.	0
+Information is disseminated in real time and contains global details about how congested the roads are.	0
+Most of the methods reviewed by Rodrigo et al.	0
+We remark that the accuracy of the approximation deteriorate if the transformation composition TQ−1∘TR is not smooth [34].	0
+Human factor induced defects proved to have little impact – less than 10% of the cases could be attributed to operation errors.	0
+and Zhang et al.	0
+Whittle et al.	0
+[3] and Zhang et al.	0
+Historically, the interest in accurate measurement of DNI started decades ago.	0
+Refs.	0
+Also, {Φn}n∈IN is constructed to be orthogonal with respect to LR, not LQ.	0
+However, Fig.	0
+Fernández et al.	0
+Most connections are welded.	0
+With reference to Fig.	0
+These situations are illustrated in Fig.	0
+14 compares the mean velocity obtained from both models with the experimental data.	0
+8 demonstrates the diurnal transition differences.	0
+It is sensitive to any kind of surface defects, chemical variations, and residual stress [13,17].	0
+At high burn-ups, i.e.	0
+One category of studies look at how either local information (only about the neighbours) or global information (about the entire network) affects the global network performance.	0
+[23,25]).	0
+The whole issue of instrument geometry vs. circumsolar irradiance was complex and confusing at the time because different makes and models of instruments had differing geometries.	0
+The remainder of our discussion proceeds as follows.	0
+The process occurs over an extended period of time under a continuously applied load that is below the yield stress of the material [5,41,42].	0
+This is a challenging but attractive venue for future research.	0
+Ångström (1961) and Ångström and Rohde (1966) later contributed to the same topic, followed years later by Major (1973, 1980).	0
+[9,10]).	0
+Similarly, Ratti et al.	0
+16 and 17.	0
+The potential simplifies to(2)ϕ(r)=λλ−6λ66/(λ−6)εσrλ−σr6	0
+Moreover, in Ref.	0
+Manufacturing defects mostly dealt with welding related problems and deviation from the design documentation during post-weld heat treatment.	0
+In the work of Carter et al.	0
+9 was performed.	0
+(2012), are performed.	0
+5am is considered the cut-off because it is a typical sunrise in the summer for the applied study locations.	0
+The chosen mapping is by no means unique, as one can postulate parameter sets that fulfil other requisites, such as being “universal” across the entire homologous series [119] or correlated to the critical properties [125].	0
+A certain degree of parameter degeneracy in terms of overall performance is expected as a consequence of the conformal nature of the EOS description [132].	0
+Rodrigo et al.	0
+real operating conditions); Yandt et al.	0
+The methods were categorised based on: (1) heat sink temperature, (2) electrical parameters and (3) atmospheric parameters.	0
+40 to ca.	0
+The reader is referred to several reviews on the topic which describe the various stages of its development and the multiple versions available [50–53].	0
+The analysed chemical composition is given in Table 3.	0
+400μm.	0
+For instance, Poxson et al.	0
+The experimental issues related to the measurement of DNI are discussed in Section 3.2.	0
+Finally in Section 5 we present some conclusions of our study and discuss future extensions and applications of the work.	0
+Structural properties are well reproduced by all models (Table 2), but the significant improvement of our potential stands in the elastic constants which relate to how the system responds to stress.	0
+(9)), for a system of finite number of particles.	0
+11.	0
+(2014b) based on heat sink temperature with absolute RMSE 0.55–1.44K.	0
+Three main causes for failure were identified, namely, fatigue, corrosion and the presence of manufacturing defects.	0
+Li et al.	0

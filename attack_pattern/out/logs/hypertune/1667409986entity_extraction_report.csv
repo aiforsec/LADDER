@@ -1,0 +1,1 @@
+counter,seed,lr,batch_size,epoch,sequence_length,gradient_clip,test_acc,f1,precision,recall,test_acc_avg,save_path

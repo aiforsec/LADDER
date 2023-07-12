@@ -1,0 +1,411 @@
+text	label
+In summary, we have shown that one can describe the experimental data of the HERMES Collaboration for hadron attenuation on nuclei without invoking any changes in the fragmentation function due to gluon radiation.	1
+In our dynamical studies, that include the most relevant FSI, we employ only the ‘free’ fragmentation function on a nucleon and attribute the hadron attenuation to the deceleration of the produced (pre-)hadrons due to FSI in the surrounding medium.	1
+We find that in particular the z-dependence of RMh is very sensitive to the interaction cross section of leading prehadrons and can be used to determine σlead.	1
+The interaction of the leading prehadrons during the formation time could be interpreted as an in-medium change of the fragmentation function, which however could not be given in a closed form.	1
+The extracted average hadron formation times of τf≳0.3 fm/c are compatible with the analysis of antiproton attenuation in p+A reactions at AGS energies [17].	1
+In an upcoming work we will investigate in detail the spectra for different particle species (π±,K±,p,p̄) to examine, if the formation times of mesons and antibaryons are about equal.	1
+In addition we will improve our model to describe the primary photon–nucleon reaction below the PYTHIA threshold of W⩾4 GeV.	1
+Though, in this Letter we have constructed the Born–Infeld black holes in the presence of a cosmological constant and discussed their thermodynamical properties, many issues however still remain to be investigated.	1
+We know that Reissner–Nordström AdS black holes undergo Hawking–Page phase transition.	1
+This transition gets modified as we include Born–Infeld corrections into account.	1
+Furthermore, in the context of brane world cosmology, it was found that a brane moving in a Reissner–Nordström AdS background generates non-singular cosmology [14].	1
+However, as shown in [15], the brane always crosses the inner horizon of the bulk geometry, creating an instability.	1
+It would be interesting to study cosmology on the brane when it is moving in the charged black hole backgrounds that we have constructed.	1
+Note that since these charged holes does not have inner horizon for certain range of parameters, we may generate non-singular cosmology without creating the instabilities that we have just mentioned.	1
+Geomagnetic jerks are conspicuous yet poorly understood phenomena of Earth’s magnetic field, motivating investigations of their morphology and the theory behind their origins.	1
+Jerks are most commonly defined by their observed form at a single observatory as ‘V’ shapes in a single component of the geomagnetic secular variation (SV), the first time derivative of the main magnetic field (MF).	1
+The times of the gradient changes, which separate linear trends of several years, have associated step changes in the second time derivative of the MF (secular acceleration (SA)) and impulses in the third time derivative.	1
+The ‘V’ shape SV definition of jerks includes an implicit expectation of a ‘large’ magnitude step change in the gradient without definition of this scale or its threshold value other than the basic need for it to be observable in the data above the highly variable background noise.	1
+Jerks can be described by their amplitude, that is, the difference in the gradients of the two linear SV segments about a jerk, A=a2-a1, where a2 is the gradient after the jerk and a1 is the gradient before the jerk.	1
+This measure is essentially the best fit SA change across a jerk.	1
+Jerk amplitude is thus positive for a positive step in SA and negative for a negative step.	1
+Here we do not consider spatial extent in our definition and refer to individual features in one field component of a given observatory time series as a single jerk.	1
+It has long been known that cardiovascular signals contain a number of oscillatory components that are not exactly periodic.	1
+To put it differently, their periods (frequencies) fluctuate with time.	1
+For example, heart rate variability (HRV) has in itself provided a major topic of discussion.	1
+We introduce one of the statistical approaches to HRV in Section 3.	1
+However, in order to understand the variability of the cardiovascular system, discussion of a single source is insufficient because the cardiovascular system is composed of many different physiological components (subsystems) and it is the effects of their mutual interaction that combine to produce HRV.	1
+This is demonstrated in Section 4, revealed by results obtained using the wavelet transform.	1
+In Section 5, we discuss the cardio-respiratory interaction in terms of phase synchronization.	1
+To set the scene for these later discussions, we summarize the basic principles of phase dynamics in Section 2.	1
+For readers who are unfamiliar with the physiological aspects of the research, we provide Appendices A on the cardiovascular system and B on how measurements of cardiovascular signals are conducted.	1
+Appendix C provides details of the statistical methods used in the group data analyses.	1
+Recently, fundamental (thermophysical property) research on ionic clathrate hydrates has experienced remarkable growth, particularly over the last ten years [21–30].	1
+Previously, beginning with the first paper on unusual hydrates of tetrabutylammonium salts in 1940 [31], a number of studies could be found on ionic clathrate hydrates (hereafter, semiclathrate hydrates) [32–35] before the unified terminology semiclathrate hydrate was generally accepted.	1
+Semiclathrate hydrates have been attracting increased attention because of their promising applications as phase change materials for refrigeration systems and in gas capture and storage [36–41].	1
+In addition, there is interesting speculation that semiclathrate hydrate may be regarded as a representative substance for the study of thermal conductivity in clathrate hydrate in general.	1
+This is because: (1) it can reduce characterization problems as a solid sample, since semiclathrate hydrate is formed around ambient temperature under atmospheric pressure and is easy to handle; (2) accurately measuring the thermal conductivity of semiclathrate hydrates, which have many similarities to clathrate hydrates, may make possible a deeper understanding of the unique (anomalous) behavior of the thermal conductivity of clathrate hydrates; and (3) currently, there are no experimental studies on the thermal conductivity of semiclathrate hydrates.	1
+The propagation of unsteady disturbances in ducts of slowly-varying geometry, such as those typical of an aeroengine, can be successfully modelled using a multiple scales approach.	1
+From the first application [1] of multiple-scales analysis to sound propagation in ducts of rectangular and circular cross section without mean flow, more recent developments have extended the method to cases with uniform mean flow [2], mean swirling flow [3], ducts of arbitrary cross section [4] (with uniform mean flow) and strongly curved ducts [5].	1
+The multiple-scales approach has a number of distinct advantages over full numerical methods as it is ideally suited to handle higher frequencies and the computational complexity is only marginally more than calculating the eigenmodes inside a straight parallel duct.	1
+The accuracy and usefulness of the multiple scales approach has been validated against finite-element methods [6] for realistic aeroengine configurations and acoustic frequencies [7,8].	1
+After all micro elements reach a relaxed steady-state, measurements are obtained using a cumulative averaging technique to reduce noise.	1
+Each micro element is divided into spatially-oriented bins in the y-direction in order to resolve the velocity and shear-stress profiles.	1
+Velocity in each bin is measured using the Cumulative Averaging Method (CAM) [24], while the stress tensor field is measured using the Irving–Kirkwood relationship [25].	1
+A least-squares polynomial fit to the data is performed, which helps reduce noise further.	1
+The fit produces a continuous function that avoids stability issues arising from supplying highly fluctuating data to the macro solver.	1
+A least-squares fit is applied to an Nth order polynomial for the velocity profile in the core region, and an Mth order polynomial for the velocity profile in the constrained region:(16)〈ui,core〉=∑k=1Nbk,iyi′(N−k),for 0⩽yi′⩽hcore, and(17)〈ui,cs〉=∑k=1Mck,iyi″(M−k),for 0⩽yi″⩽hcs, where bk,i and ck,i are the coefficients of the polynomials used in the core micro region and constrained region respectively.	1
+An estimate of the new slip velocity uB for input to the macro solution (6) is taken directly from the compressed wall micro-element solution (16), at yi′=0.	1
+Absorption events through the charged current reactions (2)νe+40Ar→e−+40K∗andν̄e+40Ar→e++40Cl∗.	1
+There is some uncertainty in predicting e−(e+) event rates for these processes which arise due to the nuclear model dependencies of the absorption cross section and the treatment of the Coulomb distortion of electron (positron) in the field of the residual nucleus.	1
+The nuclear absorption cross section for the charged current neutrino reactions in 40Ar relevant to supernova neutrino energies was first calculated by Raghavan [10] and Bahcall et al.	1
+[11] for Fermi transitions leading to isobaric analogue state (IAS) at 4.38 MeV in 40K∗.	1
+[12] used a shell model to calculate the Fermi and Gamow–Teller transitions.	1
+In these calculations Fermi function F(Z,Ee) was used to take into account the Coulomb effects.	1
+[13] make use of a calculation by Martinez-Pinedo et al.	1
+[14] who use a shell model for Fermi and Gamow–Teller transitions and a continuum random phase approximation (CRPA) for forbidden transitions to calculate the absorption cross sections.	1
+In this calculation the Coulomb distortion of the produced electron is treated with a hybrid model where a Fermi function is used for lower electron energies and modified effective momentum approximation (MEMA) for higher electron energies [14–17].	1
+[18] have measured the Fermi and Gamow–Teller transition strengths leading to excited states up to 6 MeV in 40K∗ and obtained the neutrino absorption cross section for supernova neutrinos in 40Ar.	1
+The algorithm allows the modelling of plasmas of arbitrary degeneracy under the binary collision approximation.	1
+It uses a numerical interpolation of the inverse cumulative density function of the Fermi–Dirac distribution to initialise simulation particles, and collisions are subject to Pauli blocking.	1
+It is not appropriate in the limit of very strong coupling because the plasma theory which the Monte Carlo code is based on breaks down.	1
+The strong coupling limit corresponds to lnΛ≲3, with lnΛ the Coulomb logarithm [10].	1
+The code is designed for lnΛ>3 in collisional plasmas with a non-negligible level of degeneracy.	1
+It is noted that Monte Carlo techniques with degenerate capabilities have been developed for studying transport in semi-conductors [11] but no such method exists for fully-ionised plasmas.	1
+The test cases confirm that the high-order discretisation retains exponential convergence properties with increasing geometric and expansion polynomial order if both the solution and true surface are smooth.	1
+Errors are found to saturate when the geometric errors, due to the parametrisation of the surface elements, begin to dominate the temporal and spatial discretisation errors.	1
+For the smooth solutions considered as test cases, the results show that this dominance of geometric errors quickly limits the effectiveness of further increases in the number of degrees of freedom, either through mesh refinement or higher solution polynomial orders.	1
+Increasing the order of the geometry parametrisation reduces the geometric error.	1
+The analytic test cases presented here use a coarse curvilinear mesh; for applications, meshes are typically more refined in order to capture features in the solution and so will better capture the geometry and consequently reduce this lower bound on the solution error.	1
+If the solution is not smooth, we do not expect to see rapid convergence.	1
+In the case that the solution is smooth, but the true surface is not, then exponential convergence with P and Pg can only be achieved if, and only if, the discontinuities are aligned with element boundaries.	1
+However, if discontinuities lie within an element, convergence will be limited by the geometric approximation, since the true surface cannot be captured.	1
+In the cardiac problem, we consider both the true surface and solution to be smooth.	1
+In this paper, however, we prefer the simpler ‘framed’ cell employed by Hadjiconstantinou and Patera [16], where the shear stress is generated by constraining the velocity in a ‘frame’ rather than by modifying the shape of the box.	1
+The framed cell is periodic, but we cannot simply calculate the average stress in the whole box because the presence of an external buffer would produce spurious results.	1
+There are other methods to calculate the stress tensor such as the method of planes [32], the volume-average approach [26,14], or the method derived from the Schweitz virial relation [25], but, in general, we must choose between a complicated computational cell (i.e.	1
+Lees–Edwards cell) and simplifying the calculation of the momentum flux, or a simple cell (i.e.	1
+framed cell) and complicating the calculation of the momentum flux.	1
+The new method we propose here does not need the direct calculation of the flux, so it avoids this issue altogether: we can use the framed cell and, at the same time, avoid the calculation of the IK equation.	1
+Multi-phase flows are common, in fact quite general, in environmental and industrial processes.	1
+Broadly these may be modelled as continuous problems where phases are mixed (e.g.	1
+oil–water homogenisation [36], sediment transport [18]) or interface problems where phases are distinct and interact at the interface (e.g.	1
+gas-assisted injection moulding [21], liquid jet breakup [40]).	1
+In some cases flows start as interface problems but as mixing occurs at the interface they become effectively continuous, at least locally.	1
+Air entrainment, perhaps due to wave breaking, is an obvious example.	1
+We consider here two-phase interface problems where the interface remains distinct and the density difference is high, e.g.	1
+air and water, and where one phase may be considered incompressible.	1
+The interface is transient and may become highly distorted and interconnected.	1
+Such problems have been tackled with mesh-based methods using periodic (or adaptive) re-meshing or additional phase tracking functions [40].	1
+Spark plasma sintering (SPS) is a relatively new sintering-based technique [17] in which the powder to be consolidated is loaded into an electrically and thermally conductive graphite mould and a large DC pulsed current (1000–5000A) is applied under a uniaxial pressure.	1
+When current passes through the graphite mould (and the powder if it is electrically conductive), the powder is heated both from the outside (the mould acts as a heating element) and inside (due to Joule heating from the intrinsic electrical resistance of the powder material).	1
+SPS is characterised by very fast heating (up to 2000°C/min) and cooling rates and short holding times (minutes) to achieve near theoretical density [17].	1
+Thus SPS occupies a very different time–temperature–density space in powder consolidation maps when compared with conventional methods, such as hot pressing sintering and HIP with ramp rate of 50–80°C/min and a few hours holding time.	1
+Although SPS has been studied for a rapidly growing number of materials [17], there are only a small number of studies on the fabrication and microstructural characterisation of ODS steels processed by SPS, briefly reviewed below.	1
+The iron ore may be extracted from blocks of 25×25×12meter3 located at three consecutive mining benches of 12meter height.	1
+For this case study, ten equally probable scenarios of iron content, phosphorous, silica, aluminum and LOI are used to quantify the joint uncertainty in the characteristics of the iron ore deposit considered and are the input to the SSTPS formulation proposed in the previous section.	1
+The simulated scenarios available were provided and generated using the stochastic simulated technique detailed in Boucher and Dimitrakopoulos (2012).	1
+4 shows 3 scenarios of iron ore content as well as the corresponding conventional and single estimated (average) representation of iron content (Fe2O3%) for the upper bench.	1
+In total, 734 blocks from 3525 to 21,150 tonnes, with Fe2O3 from 54.59% to 60.63%, P from 0.02% to 0.04%, SiO2 from 3.10% to 8.58%, Al2O3 from 0.53% to 1.88% and LOI from 8.75% to 11.75% are available.	1
+Modeling or approximating high dimensional, computationally-expensive problems faces an exponentially increasing difficulty, the “curse of dimensionality”.	1
+This paper proposes a new form of high dimensional model representation (HDMR) by utilizing the support vector regression (SVR), termed as adaptive SVR-HMDR, to conquer this dilemma.	1
+The proposed model could reveal explicit correlations among different input variables of the underlying function which is unknown or expensive for computation.	1
+Taking advantage of HDMR's hierarchical structure, it could alleviate the exponential increasing difficulty, and gain satisfying accuracy with small set of samples by SVR.	1
+Numerical examples of different dimensionality are given to illustrate the principle, procedure and performance of SVR-HDMR.	1
+An inherent problem of the phase-space discretisation is the spurious separation of energy into the discretised bins.	1
+This is called the “Garden Sprinkler Effect” and has been extensively studied in [48,49,20].	1
+(In the Boltzmann transport community this is known as the ray effect.)	1
+To showcase this effect in the angular dimension, a large spatial domain (4000km×4000km) is simulated, with a monochromatic wave propagating over a long distance in deep water (d=10000m).	1
+For the spatial discretisation a structured triangle mesh is used, with an element edge length of 67km (Fig.	1
+The initial wave field, located 500km from the lower and left side has a Gaussian distribution in space, with a significant wave height of Hs=2.5m and a standard deviation of 150km (Fig.	1
+The simulation is time-dependent and runs for 5 days with a time-step of 600s.	1
+Under these experimental conditions, the observed dynamics has to occur where the probe laser induces the reactions resulting in further ionization [30].	1
+The two-step decay model [26] was applied to explain the above-mentioned fragmentation of DCPD to CPD, shown in Figure 8a.	1
+The fitting of the rise and decay components of the transients were done by Matlab® programming using the curve fitting Levenberg–Marquardt algorithm.	1
+The best fit decay constants for the biexponential decay components of C10H12+ ion signal is τ1=35fs and τ2=240fs, while that for C5H6+ ion signal is τ1=36fs and τ2=280fs, respectively.	1
+These decay constants conform to the previously reported time constants of norbornene and norbornadiene [22,23].	1
+The transients of the reaction fragment C5H6+ are sufficiently different from that of the parent ion C10H12+ indicating that we are studying the distinct dynamics of the neutrals and not that of the parent ion fragmentation [24].	1
+Applying laser control principles under such experimental circumstances also confirms that we are controlling the product yield of C5H6+, resulting from the photochemical reaction of DCPD.	1
+A popular choice is to couple a set of quadrature points with an equal number of nodal Lagrange polynomials defined at the same points, leading to a collocation method.	1
+There are many examples of this throughout the literature, both in terms of the more traditionally utilised continuous Galerkin (CG) and discontinuous Galerkin (DG) formulations, as well as newer extensions such as the flux reconstruction (FR) technique as presented by Huynh [23].	1
+In collocation methods, while most linear operators can be exactly integrated in this setting depending on the choice of quadrature, integrals of nonlinear terms typically incur numerical error.	1
+However, the computational efficiencies that can be attained through the use of a collocation formulation, especially given the presence of a diagonal mass matrix, often outweigh the numerical error that is incurred.	1
+For mixtures described by an equation of state, this calculation amounts to simultaneously solving the condition of thermal, mechanical and diffusive equilibria (equality of chemical potential) amongst two fluid phases for each component of the mixture.	1
+The analytical nature of this calculation lends itself to a reasonably rapid solution by numerical methods.	1
+In its most common form, the composition and temperature are fixed and the pressures at either the bubble or the dew point are recursively calculated.	1
+The reader is referred to the excellent textbooks that describe the common algorithms employed [80–82].	1
+The quality of the result is obviously limited by the accuracy of the EoS to faithfully represent fluid mixtures.	1
+Room temperature powder X-ray diffraction (XRD) was performed on a PANalytical Empyrean diffractometer.	1
+The obtained XRD patterns were analysed with STOE Win XPOW software in order to determine phase purity, the crystal structure and the cell parameters of the samples.	1
+Thermogravimetric analysis (TGA) was performed using a Netzsch STA 449C instrument equipped with Proteus thermal analysis software.	1
+The TGA studies were carried out under reducing conditions (5% H2/Ar) from room temperature to 900°C, in order to determine the weight change of the perovskite during the reduction.	1
+The microstructure of the samples' surface was analysed using a JEOL JSM-6700 field emission 74 scanning electron microscope (FEG-SEM).	1
+The total conductivity of the samples was measured using a conventional four-terminal method.	1
+Bar samples were prepared by calcination at 1300°C for 1h.	1
+Gold wire contacts were attached to the bars, which then were cured at 850°C for 1h.	1
+The conductivity of the samples was measured under a redox cycle at 900°C.	1
+Low oxygen partial pressure was achieved by using a continuous flow of 5% H2/Ar.	1
+The aim of this note is nothing more than to bring both approaches on equal footing and to relax the assumptions under which the results of [11,13] have been derived using the first approach.	1
+More concretely, we generalize the one-loop partition functions, as derived in [11,13] for levels being odd, to the case of even levels.	1
+Moreover, on the level of partition functions we implement additional dressings of the world-sheet parity symmetry and identify them with the dressings introduced in [12] in the crosscap state approach.	1
+We will end up with a collection of very explicit and general one-loop partition functions and tadpole cancellation conditions covering simple current extensions of all 168 Gepner models with additional dressings of the parity symmetry.	1
+In fact providing a compact collection of the main relevant formulas for constructing supersymmetric Gepner model orientifolds was one of the motivations for writing this Letter.	1
+We hope that these expressions turn out to be useful for a systematic search for Standard-like models respectively for providing a statistical ensemble in the spirit of [29].	1
+We prove the uniqueness of the supersymmetric Salam–Sezgin (Minkowski)4×S2 ground state among all non-singular solutions with a four-dimensional Poincaré, de Sitter or anti-de Sitter symmetry.	1
+We construct the most general solutions with an axial symmetry in the two-dimensional internal space, and show that included amongst these is a family that is non-singular away from a conical defect at one pole of a distorted 2-sphere.	1
+These solutions admit the interpretation of 3-branes with negative tension.	1
+Microhardness can be related to other macroscopic mechanical properties such as yield stress, σ, and elastic modulus, E, both derived from compression testing.	1
+For work-hardened metals, Tabor derived a direct proportionality between hardness and compressive yield stress: H≈3σ [20].	1
+However, it was soon realized that Tabor's relationship only applies to materials that exhibit full plasticity [9,10].	1
+Deviations from this relationship have been reported for a number of metals, glasses and polymers where the elastic strains are non-negligible [9].	1
+Hence, the different expressions describing the correlation of hardness with conventional macroscopic mechanical properties rely on the validity of the above-mentioned elasto-plastic models.	1
+In this way, hardness and yield stress no longer hold direct proportionality but their relationship depends on the specific material properties, such as Poisson's ratio and elastic modulus [9,11–13].	1
+It has been shown that these elasto-plastic models not only satisfactorily explain an H/σ ratio of ≈2 for a number of polyethylene materials of different nature, but also theoretically account for the range of H/E ratios experimentally determined [21].	1
+Gamma titanium aluminides are a family of low density, high performance alloys with the potential to replace current Ni-base superalloys used in the production of aero-engine components.	1
+Investment casting is one of the most economical methods to produce titanium and titanium aluminide alloy products, increasing the components' integrity and mechanical properties, whilst reducing material waste and machining cost [1].	1
+Titanium aluminides are difficult to process mainly due to the low fluidity of the TiAl alloy around its melting temperature [2].	1
+Due to the high affinity of elements such as oxygen, nitrogen etc., titanium and its alloys can easily interact with mould materials during the investment casting process, resulting in an interaction hardened layer being generated at the metal surface [3,4].	1
+This hardened layer contains a large amount of dissolved oxygen, and it is very brittle and susceptible to crack generation and propagation [5].	1
+Assuming a constant cell electrical conversion efficiency of 15%, a constant fraction of the incident solar radiation would be dissipated by the solar cell for each solar radiation intensity level.	1
+From Table 2, it can be seen that for the worst scenario when the ambient temperature was 50°C with natural convection only, the predicted cell electrical conversion efficiency would have reduced to approximately 8% rather than the 15% assumed.	1
+To correct for this effect the apparent insolation level should be modified using the following formula:(3)Iact=I×0.850.85+dηwhere Iact is the actual incident solar radiation intensity, dη is solar cell efficiency difference between the initially assumed 15% and final calculated cell efficiency based on measured cell temperature.	1
+Correlation of charm-quark–charm-antiquark in γp scattering are calculated in the kt-factorization approach.	1
+We apply different unintegrated gluon distributions (uGDF) used in the literature.	1
+The CCFM uGDF developed recently by Kwieciński et al.	1
+Predictions and perspectives for the HERA energies are presented.	1
+The above discussion summarizes the state of the art related to impacts and interpretations of communication latency between RT simulators.	1
+In the thermo-electric co-simulation example in [35], the time constant is larger in the thermal simulation than that of power system simulation.	1
+Thus the communication latency will not significantly affect the accuracy of co-simulation.	1
+In [36], the co-simulation is performed using resources at the same location without synthetically introduced delays, which means the communication latency between RT simulators is ignored.	1
+In [37], the authors have mentioned the communication latency as an important factor in the distributed simulation and that its effect on simulation stability will be studied as future work.	1
+An in-depth research about the role of communication latency and mitigation measure for geographically distributed RT simulations is identified as a technical gap and addressed in this paper.	1
+We deal with the intensity scattered by a random mixture of deuterated/hydrogenated PE chains.	1
+The algorithm used by us to evaluate the Kratky plots by sets of parallel polymer stems is very simplified.	1
+We checked it to be adequate in the reciprocal coordinate range under investigation [0<q(=4πsinθ/λ)≤0.25Å−1] comparing the results with more precise calculations.	1
+The scattering centres are identified with pseudo-atoms repeating after a constant distance of 1.27Å along straight lines coinciding with the stem axes, 100 scattering centres being placed on each stem; the scattering by atoms belonging to chain folds is neglected.	1
+The parallel stem axes are disposed according to a hexagonal setting – a rough approximation to the monoclinic, pseudo-hexagonal structure of PE – and the scattering centres have the same axial coordinates in all the stems.	1
+Defining an integer i going from 1 to the total number ns·100 of scattering centres, we have (q<1) [9](1A)q2·I(q)=C·(bH−bD)2∑i=1ns·100∑j=1ns·1004πqsin(q·dij)dij;dij2=Δij2+(zj−zi)2;q=2πsinθλwhere bH, bD respectively are the scattering lengths of hydrogen and deuterium, dij is the distance between C atoms, 2θ is the diffraction angle and λ the wavelength.	1
+The i-th C atom coordinate along the stem axis is zi and Δij is the distance between the stem axes where the atoms i and j belong.	1
+For all the stems we have the same set of zi coordinates.	1
+(1A) is extended to all the stems of the crystalline domain, see Figs.	1
+The α-ω-aminohexylcarbamate derivative of cyanocobalamin was prepared using a method described previously [18].	1
+Briefly, solid CDI (260mg, 0.32mmol) was added to cyanocobalamin (1.0g, 0.148mmol) previously dissolved in anhydrous dimethyl sulfoxide.	1
+The mixture was stirred for up to 2h at 30°C, followed by the addition of dry 1,6-hexanediamine (314mg, 0.54mmol) and stirring of the mixture at room temperature over 24h.	1
+The mixture was poured into ethyl acetate (30ml) and left to stand.	1
+Following centrifugation and decanting of the supernatant, the residue was sonicated for 5min in acetone (50ml).	1
+The resulting precipitate was filtered and the solid washed in acetone.	1
+The crude product was purified by silica column chromatography (45% v/v 2-propanol, 30% v/v n-butanol, 2% v/v ammonia and 25% v/v water) followed by lyophilisation.	1
+Video-oculography (VOG) is one of eye movement measurement methods.	1
+A key problem of VOG is to accurately estimate the pupil center.	1
+Then a pupil location method based on morphology and Canny algorithm was proposed for a WIFI-based VOG system which was developed our latest work.	1
+Moreover, a healthy volunteer was introduced to do sinusoidal tracking test to evaluate the pupil location method.	1
+Experimental results showed that the method could well trace eye movement and meet the anticipated results with stimulation.	1
+Isogeometric analysis (IGA) is a numerical simulation method which is directly based on the NURBS-based representation of CAD models.	1
+It exploits the tensor-product structure of 2- or 3-dimensional NURBS objects to parameterize the physical domain.	1
+Hence the physical domain is parameterized with respect to a rectangle or to a cube.	1
+Consequently, singularly parameterized NURBS surfaces and NURBS volumes are needed in order to represent non-quadrangular or non-hexahedral domains without splitting, thereby producing a very compact and convenient representation.The Galerkin projection introduces finite-dimensional spaces of test functions in the weak formulation of partial differential equations.	1
+In particular, the test functions used in isogeometric analysis are obtained by composing the inverse of the domain parameterization with the NURBS basis functions.	1
+Consequently, numerical methods for the solution of partial differential equations cannot be applied properly.We discuss the regularity properties of the test functions.	1
+For one- and two-dimensional domains we consider several important classes of singularities of NURBS parameterizations.	1
+For specific cases we derive additional conditions which guarantee the regularity of the test functions.	1
+In addition we present a modification scheme for the discretized function space in case of insufficient regularity.	1
+It is also shown how these results can be applied for computational domains in higher dimensions that can be parameterized via sweeping.	1
+Experimental studies of the dynamics of individual carbon atoms in graphene have been empowered by the recent progress in aberration-corrected transmission electron microscopy (AC-TEM) capable of sub-Ångstrom resolution.	1
+The examples include AC-TEM observations of the formation and annealing of Stone–Wales defects [1], edge reconstruction [2,3] and formation of a large hole in graphene sheet from a single vacancy defect [3].	1
+The AC-TEM has been also exploited in visualization in real time of the process of self-assembly of graphene nanoribbons from molecular precursors [4,5] and formation of nanometre size hollow protrusion on the nanotube sidewall [6].	1
+This is one aim of this study.	0
+the length of a long channel network), simultaneously.	0
+A process describes the activities and relationships among them.	0
+Each task has designated role of executors.	0
+2 and 10 for examples.	0
+A further refinement of the Conrad et al.	0
+Govers et al.	0
+This is however not always possible.	0
+New observables are suggested for future studies.	0
+As expected, all the physical information can be read off entirely from the various amplitudes.	0
+Some of the techniques described are potentially applicable to other types of codes, for example, Particle-In-Cell (PIC) codes.	0
+Fig.	0
+Casazza et al.	0
+During the experiment, the sample was observed and imaged using a primary beam energy of 20kV and an Everhart–Thornley secondary electron detector.	0
+Most users are typing on the keyboard that came with their phone.	0
+is explicitly discrete.	0
+It is of considerable interest to note from the outset that, due to the forward transport of information in time, it is always possible to consider a set of finite time intervals, whereby the solution at the end of any such interval will act as the initial data for the next one.	0
+see Ref.	0
+The results of this exercise are shown in Fig.	0
+Sekoguchi and Mori (1997) and Sawai et al.	0
+Each has its own advantages and disadvantages and the specific testing method should be selected based on the particular application.	0
+Chinese art stresses Expression, Force and Qi.	0
+At the GP the elastic and viscous components of the complex modulus, G′ and G″, respectively scale in oscillatory frequency, ω, as G′(ω)∼G″(ω)∼ωα where α is termed the stress relaxation exponent [15].	0
+Bidwell et al.	0
+This method has been since extended by Conrad et al.	0
+Following this Andersson et al.	0
+The coil power (PC) was fixed at 1000W, while the bias power (PB) was varied between 0 and 30W.	0
+8.	0
+Cochran [13] showed that in this case(12)(u¯′,v¯′)=w¯∞(u¯,v¯)asη→∞,where w∞=-2∫0∞u¯dη.	0
+We choose an approach similar to that first advocated by Feldman and Cousins [27].	0
+The latter element type is defined by 16 support points with 8 points being coincident with the nodes and 8 additional points in the element interior.	0
+Weights correspond to the relative proportion of cell phone plans by operator in the sample (0.3534 for HT, 0.3212 for Vip, and 0.3254 for Tele2).	0
+X-ray analysis was superimposed to the luminescence for a better visualization of the tumors.	0
+This contribution, which can be regarded as an extension of the methods developed in [23], presents several novel aspects over similar approaches proposed in the literature.	0
+For all calculations periodic boundary conditions and constant volume are used.	0
+The preliminary surveillance experiments show a good performance.	0
+[17].	0
+Intermediate situations are more difficult to assess.	0
+We intend to report on our investigation of that problem in future work.	0
+Two features of this rotated conformation are interesting.	0
+[38–40].)	0
+The sum in Eq.	0
+In Ref.	0
+The variability within an ecosystem can be as large as between different ecosystem, i.e.	0
+4).	0
+Since these models are asymptotically free and strongly coupled in the infrared, their quantum properties are not straightforward to determine.	0
+gives a good description of the data.	0
+This phase was completed in 2005.	0
+11(b)).	0
+For this system the design was undertaken by Mott MacDonald.	0
+This implies that variations in layer thickness through the stack are the main source of the reduced reflectivity in comparison to the model.	0
+(5).	0
+For this reason, we will focus on the probability that the walker is on the target vertex at the end of the walk.	0
+[26] and Sia et al.	0
+1b).	0
+This work updates a previous review of Zhao and Liu (2010) on this topic, with more detailed synthesis of all the available information.	0
+In contrast to this result, it was shown in Ref.	0
+The total number of experiments in this setup is 19, which were processed for 20min each.	0
+Angulo et al.	0
+At 600°C one isothermal test, having an exposure time of 1000h, has been performed to date.	0
+A key part of this problem is that an inspector only has access to data from a small inspected area.	0
+Alekseenko et al.	0
+The predicted results show that Chinese financial systemic risk is on the rise in the first three quarters and higher than the peak of 2008; financial systemic risk start to decline since the fourth quarter.	0
+Thus, the GP may be identified as the instant where the G′ and G″ scale in frequency according to identical power laws [15], behaviour corresponding to attainment of a frequency independent phase angle, δ(=atan(G″/G′)).	0
+2B).	0
+We show that the lagged scheme is unconditionally stable and give an optimal a priori error bound for it.	0
+This form of design leads humans back to a better state of living, i.e.	0
+1(b), i.e.	0
+Various approaches have been tried to compute such wave functions.	0
+[3].	0
+However, for simplicity the basal normal or c direction has been taken as being parallel to the normal direction.	0
+1).	0
+The importance of the “parallel” configuration is disclosed.	0
+Furthermore, the fact that some of the more interesting features of the phase diagram are close to the critical points of the mixture, make these calculations particularly challenging for all but the most optimized and force-fitted of models.	0
+Nowadays, many tools dedicated for this purpose are available and can be purchased as a complete set (e.g.	0
+Simulation results show the effectiveness of the proposed method.	0
+The work has focussed on their creep strengths due to its intended application at high temperature.	0
+In Wu et al.	0
+However, there are no P's which are pure (ss¯).	0
+(See also de Gosson [3] for a further discussion.)	0
+Many programs exist to recalculate wt% data into formula unit cations.	0
+We hope to carry out a detail study on this issue in the future.	0
+A comprehensive list of applications can be found in  [8].	0
+These results are valid for all considered types of network tariffs, although investment slightly differs across those regimes.	0
+2.	0
+In addition, the presence of cracks and trenches in the top surface may also reduce the measured reflectivity further.	0
+There are also actual results.	0
+After that, the searches will be terminated if the system energy does not drop within a further 10 steps.	0
+There are three reasons for this.	0
+[16].	0
+A-Alamry et al.	0
+However, such information is rarely available a priori.	0
+The parity is more controversial.	0
+Detailed information about the material and the stamp fabrication can be found in our earlier paper [16].	0
+4.	0
+However, it is not without its faults.	0
+2) [83].	0
+in Ref.	0
+2.2, where the role of primary and secondary eigencurves is discussed from the perspective introduced in [9].	0
+[16,19,20].)	0
+Each bubble is continued for a minimum of 10,000 steps.	0
+Other programs are mineral specific e.g.	0
+The number of experiments conducted was reduced by selecting the four most important parameters for variation, Table 1 while the remaining parameters were kept constant.	0
+For more details about the technique we refer to our previous studies [9,10].	0
+1(d)).	0
+The results of our calculations are compared with very recent experimental results from the FOCUS Collaboration.	0
+Moreover, each algorithm has several parameters.	0
+The area considered is bounded by the limits of the given volume of production in the long-term first year production schedule provided.	0
+[6] for the details.)	0
+11(a)).	0
+The first way is very simple (Section  4).	0
+[17,18]).	0
+Finally, the overall hedonic price index is calculated as the weighted average of firm-level indices.	0
+(2009).	0
+Eigenvalues of random matrices, which exhibit characteristic correlations, correspond to an intermediate situation between these two extremes.	0
+This requirement is an important difference to the nonlocal model which is designed to produce both mesh size independent load–displacement curves and strain profiles.	0
+We believe that the implications of this observation have not been clearly emphasised in the literature, as attested by the absence of any debate about it in recent works.	0
+We demonstrate the applicability and expressiveness of our approach and notation, and discuss their strengths and weaknesses.	0
+[5].	0
+The methods evaluated by Wu et al.	0
+If no site-specific information is available, it can be used as a first approximation for other ecosystems as well.	0
+For continuous characteristics, direct averages are used; for binary characteristics, the proportions of cell phone plans containing the feature are used.	0
+A new approach for modeling this function is proposed herein.	0
+Finally, another important research direction is the development of other efficient solution approaches.	0
+A particular weakness relates to noise in the pressure field since a small perturbation in the local density will yield a large variation in the local pressure.	0
+One feature of the physical problem is that it is purely dissipative, or entropy increasing, as all natural relaxational phenomena are.	0
+The model incorporates investment decisions of the transmission system operator and private firms in expectation of an energy-only market and cost-based redispatch.	0
+At selected time intervals, a specimen was removed from the batch for examination before the high temperature exposure continued for the remainder of the batch.	0
+In a recent paper Bueno et al.	0
+It is shown that along each segment the motion is classical (negligible quantum potential), and that it follows that the quantum path may be decomposed into a sequence of segments along each of which the classical action is a minimum.	0
+Nature and Man in One.	0
+2.3, where eigencurves are shown to feature irregular oscillations for problems strongly dominated by either convection or diffusion.	0
+E et al.	0
+Sec.	0
+The oxidising atmosphere used was laboratory air at a pressure of 266Pa.	0
+We start by outlining the motivation, structure and content of the review.	0
+This is the opposite of the prediction of Ref.	0
+Malshe et al.	0
+[19]), the breadth of experiments that can be carried out with a single machine is also one of the techniques attractions.	0
+Information on normal vectors and curvature can be obtained.	0
+(For applications to B→K∗γ∗, see Refs.	0
+More recently Alekseenko et al.	0
+Since the pressure has a pronounced effect on etch characteristics, the pressure (p) was varied between 20 and 40mTorr.	0
+The first contribution is calculated analytically [27].	0
+This idea goes back to a series of papers by Millar in the 1960s, starting with  [2].	0
+12.	0
+In the Newtonian case this relationship becomes singular, this is due to the fact that when n=1 the functions u¯ and v¯ decay exponentially.	0
+(See Ref.	0
+For further information see the original paper of Huynh  [2].	0
+Also, it is non-destructive under many circumstances.	0
+The theory covers the practically very important case of nonsmooth initial data and right hand side.	0
+However, research is focused primarily on the effect of the data loss during the communication and how to mitigate it [34].	0
+Based on the results in Fig.	0
+The experiments in the design were carried out in random order.	0
+Many parametrizations assume separability of the dependence on the longitudinal momentum fraction and transverse momentum which is very unlikely since the two momenta are coupled in the kinetic energy operator.	0
+Childs et al.	0
+This possibility is the subject of ongoing investigations.	0
+As Hachisuka points out, the accumulated density estimates converge to an unbiased solution in the limit.	0
+In general, the harmonic prediction for the crossover temperature between two minima is(4)kBTxo=V1−V2ln((o2ν¯2κ)/(o1ν¯1κ)),from Eq.	0
+19–22).	0
+[7].	0
+A number of solutions for all of these tasks have been proposed in the literature.	0
+Subsequently, Ryan et al.	0
+a one-phase formulation).	0
+This uncertainty is reflected in the error quoted in the table.	0
+1.	0
+Making changes to input data in this way is a cheap, quick and easy way to improve user experience.	0
+while here the real part could be determined.	0
+The method of Refs.	0
+As these are performed concurrently with the standard recalculations, no additional time is needed to perform uncertainty propagation.	0
+In the case of singular parameterizations, however, some of the resulting test functions do not necessarily fulfill the required regularity properties.	0
+6.	0
+8 and the figures in Table 1 in the supplementary materials.	0
+1c).	0
+are extremely long, relative to their cross-section).	0
+Later Ormand et al.	0
+the channel height, h) approaches the molecular mean free path, λ [1,2].	0
+Finally, the substrate chuck temperature (T) was controlled between 10 and 50°C.	0
+Experimental results are presented.	0
+In particular, this problem occurred under the conditions that prediction horizons are 6 h as shown in Fig.	0
+Those keyboards have advantages, limitations and quirks.	0
+Further calculations by Camellone et al.	0
+The O2 flow rate (QO2) was keep constant at 99sccm, while the SF6 flow rate (QSF6) was varied between 0 and 20sccm.	0
+In their work, they neglected long-range force (van der Waals attraction) to accelerate computation.	0
+(3).	0
+The technique has several strengths that make it ideally suited for such studies.	0
+This is virtually impossible for a π0, and so we always use a ρ0.	0
+3.	0
+To cope with this problem, Wu et al.	0
+However, the method has already significantly adapted to the breathing pattern in T2, i.e.	0
+[27].	0
+Its mean direction is 30° with an angular distribution of cos2⁡(θ) and a frequency of 0.1Hz.	0
+In practice, this high sound speed places a limitation on the maximum permissible time-step size through the Courant–Friedrichs–Lewy (CFL) constraint.	0
+can be measured here.	0
+However, these approaches can be time-consuming to implement and prone to errors in surface representation [50] or mass conservation [34].	0
+In addition, the computational complexity and is scalable and robust.	0
+a channelʼs height), as well as over the largest characteristic scale of the geometry (e.g.	0
+In a recent work Bhattacharya et al.	0
+I also could not resist mentioning another wild speculation [10].	0
+That demonstrates the power of this simple and straight-forward approach.	0
+However, since the contribution from η′ and ϕ is small, the overall effect is less important.	0
+(1).	0
+We need the local stress in the core region, but this complicates the Oij term in Eq.	0
+The energy dissipated as heat from the cell would thus be 7% higher.	0
+In QCD the integrability remains only in a small sector of the quasi-partonic operators [13].	0

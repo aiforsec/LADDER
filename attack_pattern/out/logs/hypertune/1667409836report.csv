@@ -1,0 +1,1 @@
+counter,seed,lr,batch_size,epoch,dropout,fine_tune,test_acc,f1,test_acc_avg,f1_avg,save_path

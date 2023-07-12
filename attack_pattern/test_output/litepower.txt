@@ -1,0 +1,52 @@
+use hidden spreadsheets and VBA macros to drop their first stage implant
+execute arbitrary code sent by the attackers on the infected machine
+sent spear-phishing emails , luring the victims to open a malicious Microsoft Excel/Word document
+uses formulas in hidden spreadsheets or cells that execute macro 4.0 commands
+tailored the decoy contents to the targeted victims
+using logos and themes relevant to the targeted company
+using trending topics from their region
+Sample VBS dropper Excel and Word documents , and executable
+Exploitation , installation and persistence
+will execute a series of formulas placed in a hidden column
+hide the main spreadsheet that requested the user to “ enable editing ”
+unhide a secondary spreadsheet that contains the decoy , to avoid raising suspicion
+run formulas from a third spreadsheet with hidden columns
+Check if a mouse is present
+save a VBS stager to % ProgramData % \winrm.vbs
+set up registry keys for persistence
+write an embedded PowerShell snippet to a predefined filename that varies between
+add a Class ID in the current user registry hive
+effectively invoke the malicious VBS script any time a program or script references “
+Registry keys used for COM hijacking
+Registry keys used for COM hijacking
+writes a PowerShell one-liner wrapped with VB code temporarily into % ProgramData %
+download and deploy further malware
+LitePower PowerShell implant
+LitePower PowerShell implant
+connect with the embedded C2 domain using predefined HTTP settings such as a unique User-Agent
+parses the output and invokes it using IEX
+sleeps for a random number of seconds between 60 and 100 after each attempt to reach the C2
+C2 communications using
+payloads containing system commands are sent back to the victim in the form of PowerShell functions through HTTP GET requests
+sent back as HTTP POST requests to the C2 server
+conducts system reconnaissance to assess the AV software installed and the user privilege
+creation of a legitimate scheduled task to trigger “ Scripting.Dictionary ” COM programs
+referencing SLMGR.VBS to trigger WINRM.VBS through COM hijacking
+referencing SLMGR.VBS to trigger WINRM.VBS through COM hijacking
+volumeserialnumber List local disk drives
+:Administrator Check if current user has admin privileges
+checks for possible backdoors installed as services
+checks for the registry keys added for COM hijacking
+lists all hotfixes installed
+takes system screenshots and saves them to % AppData % before sending them to the C2 via a POST request
+Command and control
+listens for incoming HTTPS connections on several ports and uses common names seen on other C2 domains
+deploying Visual Basic Script ( VBS )
+potentially delivered through spear phishing
+highlighting the status condition , IEX invocation and 60-100 sleep function
+highlighting the status condition , IEX invocation and 60-100 sleep function
+highlighting the status condition , IEX invocation and 60-100 sleep function
+highlighting the status condition , IEX invocation and 60-100 sleep function
+Malicious documents and droppers
+Class IDs in registry
+PDB paths

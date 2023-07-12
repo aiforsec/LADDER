@@ -1,0 +1,8 @@
+
+
+
+
+
+****************************************          Parameters{'model': 'bert-base-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}
+Namespace(batch_size=16, cuda=True, dataset='data/sentence_classification', decay=0.0, dropout=0.5, epoch=20, fine_tune=True, lr=5e-06, model='bert-base-uncased', save_path='logs/sentence_classification/1667409836', seed=1, task='atk-pattern')
+

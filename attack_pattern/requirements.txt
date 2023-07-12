@@ -1,0 +1,10 @@
+numpy
+transformers==v3.1.0
+tqdm
+torch
+sklearn
+spacy
+torchtext
+pandas
+nltk
+sentence_transformers

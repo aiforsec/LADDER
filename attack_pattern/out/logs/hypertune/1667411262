@@ -1,0 +1,25 @@
+
+
+
+
+
+****************************************          Parameters{'model': 'bert-base-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}
+Namespace(batch_size=16, cuda=True, dataset='data/sentence_classification', decay=0.0, dropout=0.5, epoch=20, fine_tune=True, lr=5e-06, model='bert-base-uncased', save_path='logs/sentence_clas/1667411262', seed=1, task='atk-pattern')
+
+Training results: Hypertuning(Params={'model': 'bert-base-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}, test_acc=0.6772727272727272, f1=0.7279693486590038)
+
+
+
+
+****************************************          Parameters{'model': 'bert-large-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}
+Namespace(batch_size=16, cuda=True, dataset='data/sentence_classification', decay=0.0, dropout=0.5, epoch=20, fine_tune=True, lr=5e-06, model='bert-large-uncased', save_path='logs/sentence_clas/1667411334', seed=1, task='atk-pattern')
+
+
+
+Exception occurred for configuration: {'model': 'bert-large-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 11.91 GiB total capacity; 10.85 GiB already allocated; 21.19 MiB free; 10.87 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+
+
+
+****************************************Results:[Hypertuning(Params={'model': 'bert-base-uncased', 'lr': 5e-06, 'batch_size': 16, 'epoch': 20, 'dropout': 0.5, 'fine_tune': True}, test_acc=0.6772727272727272, f1=0.7279693486590038)]
+
+****************************************

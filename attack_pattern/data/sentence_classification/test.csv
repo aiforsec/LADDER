@@ -1,0 +1,221 @@
+text	label
+We consider cosmological consequences of a conformal-invariant formulation of Einstein's General Relativity where instead of the scale factor of the spatial metrics in the action functional a massless scalar (dilaton) field occurs which scales all masses including the Planck mass.	1
+Instead of the expansion of the universe we obtain the Hoyle–Narlikar type of mass evolution, where the temperature history of the universe is replaced by the mass history.	1
+We show that this conformal-invariant cosmological model gives a satisfactory description of the new supernova Ia data for the effective magnitude–redshift relation without a cosmological constant and make a prediction for the high-redshift behavior which deviates from that of standard cosmology for z>1.7.	1
+Measuring and analysing the hold time of the CPA pill allows the thermal boundary resistance within the pill to be assessed; the thermal boundary dictates the actual temperature of the CPA crystals in comparison to the temperature of the cold finger, which is maintained at a constant temperature by a servo control program.	1
+17 shows the temperature profile during the recycling of the CPA pill and subsequent operation at 200mK.	1
+During the hold time, the servo control program maintained the CPA pill temperature to within a millikelvin.	1
+It is expected that microkelvin stability can be achieved with fast read-out thermometry (which was not available at the time of testing but which will be used for the mKCC), as this would allow for temperature control on much faster (millisecond) timescales than the current (approximately 1s) thermometry readout used.	1
+This figure demonstrates that changes in the measure of bitumen content create sizable differences in the stiffness modulus of asphaltic samples that include waste glass cullet.	1
+As the percentage of glass increases, the measure of the stiffness modulus of modified asphalt increases too.	1
+But with pass of optimum measure of glass the stiffness modulus of asphaltic samples decrease.	1
+This trend in total of percentages of bitumen content is existing.	1
+Due to that waste glass cullet has no suction; the trend does not extend to measuring the stiffness modulus of asphaltic samples including waste glass cullet with different percentage of bitumen content.	1
+Glass particles do not absorb any bituminous material, so it is necessary to decrease the bitumen content with the addition of glass cullet.	1
+2 and the results of the Marshall tests, the optimum bitumen measures decrease significantly in samples that include higher percentages of waste glass cullet.	1
+As the percentage of optimum bitumen content is 1% more in samples without waste glass cullet in comparison with saphaltic samples that include 20% waste glass cullet.	1
+The stiffness modulus of asphaltic samples that include waste glass cullet increased due to additional interlocking between the aggregate and the angularity of particles of glass cullet content.	1
+The increase in the intrusive friction angle because of the glass particles’ increased angularity is the main reason for the addition of the stiffness modulus of asphaltic samples that include waste glass cullet.	1
+But as the percentage of glass content reaches greater than 15%, the particles’ abundance cause slip these particles on together.	1
+The stiffness modulus of samples decreases as the percentage of glass cullet increases.	1
+The variations in the stiffness modulus of asphaltic samples that include different percentages of waste glass cullet at different temperature are shown in Fig.	1
+Myocardial electrical propagation can be simulated using the monodomain or bidomain PDEs [5,6].	1
+Due to its capacity to represent complex geometries with ease, approximations are often obtained using the finite element method (FEM) to discretise the PDEs in space on realistic cardiac geometry meshes; this results in very large (up to forty-million degrees of freedom (DOF) for human heart geometries) systems of linear equations which must be solved many thousands of times over the course of even a short simulation.	1
+Thus, they are extremely computationally demanding, presenting taxing problems even to high-end supercomputing resources.	1
+This computational demand means that effort has been invested in developing efficient solution techniques, including work on preconditioning, parallelisation and adaptivity in space and time [7–12].	1
+In this study, we investigate the potential of reducing the number of DOF by using a high-order polynomial FEM [13–15] to approximate the monodomain PDE in space, with the goal of significantly improving simulation efficiency over the piecewise-linear FEM approach commonly used in the field [16–19].	1
+For schemes where the polynomial degree p of the elements is adjusted according to the error in the approximation, this is known as the finite element p-version.	1
+In the Total Focusing Method (TFM) the beam is synthetically focused at every point in the target region [7] as follows.	1
+After obtaining the FMC data, the target region, which is in the x–z plane in 2D (Fig.	1
+1), is discretized into a grid.	1
+The signals from all elements in the array are then summed to synthesize a focus at every point in this grid.	1
+Linear interpolation of the time domain signals is necessary since they are discretely sampled.	1
+The intensity of the TFM image ITFM at any point (x,z) is given by:(10)ITFM(x,z)=|∑HTR(1c((xT−x)2+z2+(xR−x)2+z2))|forallT,Rwhere HTR(t) is the Hilbert transform of a signal uTR(t) in the FMC data, xT is the x-position of the transmitting element (T) and xR is the x-position of the receiving element (R).	1
+The summation is carried out for all possible transmitter–receiver pairs and therefore uses all the information captured with FMC.	1
+This algorithm is referred to as ‘conventional TFM’ in this paper.	1
+The measurements presented here provide evidence for the existence of di-cluster structures in 10–12,14Be.	1
+Certainly, if the breakup process samples the overlap between the wavefunctions of the ground state and the excited states, the first-chance cluster breakup cross-sections, shown in Fig.	1
+4(a), indicate that the xHe+A−xHe cluster structure does not decrease over the mass range A=10, 12 and 14.	1
+Given also that the decay energy threshold increases with mass number, the present data may even indicate a slight increase in clustering.	1
+The breakup cross-sections also appear to demonstrate that these nuclei possess a stronger structural overlap with an α–Xn–α configuration, although the reaction mechanics by which this final state is reached may be complex.	1
+That is to say that the dominant structural mode of the neutron rich isotopes may be identified with two alpha-particles plus valence neutrons.	1
+These comprehensive measurements of the neutron-removal and cluster breakup for the first time provide experimental data whereby the structure of the most neutron-rich Be isotopes can be modeled via their reactions.	1
+PV cells are one of the most promising technologies for conversion of incident solar radiation into electric power.	1
+However, this technology is still far from being able to compete with fossil fuel-based energy conversion technologies because of its relatively low efficiency and energy density.	1
+Theoretically, there are three unavoidable losses that limit the solar conversion efficiency of a device with a single absorption threshold or band gap Eg: (1) incomplete absorption, where photons with energies below Eg are not absorbed; (2) thermalization or carrier cooling, where solar photons with sufficient energy generate electron-hole pairs and then immediately lose almost all energy in excess of Eg in the form of heat; and (3) radiative recombination, where a small fraction of the excited states radioactively recombine with the ground state at the maximum power output (Hanna & Nozik, 2006; Henry, 1980).	1
+Note that the area under the outer curve is the solar power per unit area, and that only S4 can be delivered to the load.	1
+The viscoelastic behavior of elastomers containing small amounts of unattached chains has been investigated to characterize the dynamics of the polymer chains trapped in fixed networks [66–68].	1
+Polymer chains trapped in fixed networks constitute a simpler system for the study of the polymer chain dynamics than the corresponding uncrosslinked polymer melts.	1
+This is because the complicated effect of the motion of the surrounding chains on the dynamics of the probe chain – called “constraint release” [69] – is absent in the fixed network systems.	1
+Most of the earlier studies employed randomly crosslinked elastomers as host networks.	1
+In this case, precise control of the mesh size of the host networks is not possible, and the mesh size has a broad distribution.	1
+The end-linking systems give the host networks a more uniform mesh size, and they can control the mesh size by the size of the precursor chains.	1
+We investigated the dynamic viscoelasticity of end-linked PDMS elastomers containing unattached linear PDMS as functions of the size of the unattached chains (Mg) and the network mesh (Mx) (Fig.	1
+We employed two types of host networks with Mx>Me and Mx<Me where Me (≈10,000 for PDMS) is the molecular mass between adjacent entanglements in the molten state.	1
+The Mx>Me and Mx<Me networks (designated as NL and NS, respectively) were designed by end-linking the long (Mn=84,000) and short precursor chains (Mn=4,550), respectively.	1
+The mesh of the NL networks is dominated by trapped entanglements, while that of the NS network is governed by chemical cross-links.	1
+A principle of high-throughput materials science is that one does not know a priori where the value of the data lies for any specific application.	1
+This requires efficient interfaces to interrogate available data on various levels.	1
+We have developed a simple WEB-based API to greatly improve the accessibility and utility of the AFLOWLIB database [14] to the scientific community.	1
+Through it, the client can access calculated physical properties (thermodynamic, crystallographic, or mechanical properties), as well as simulation provenance and runtime properties of the included systems.	1
+The data may be used directly (e.g., to browse a class of materials with a desired property) or integrated into higher level work-flows.	1
+The interface also allows for the sharing of updates of data used in previous published works, e.g., previously calculated alloy phase diagrams [19–31], thus the database can be expanded systematically.	1
+Global optimisation algorithms are used in this study to solve the optimisation problem as they are known to be efficient in incorporating statistical information and dealing with complicated objective functions that have multiple local minima/maxima.	1
+The genetic algorithm (GA) is such a global optimisation technique that mimics biological evolution processes and is used in this particular study.	1
+The algorithm starts with a random selection of a population from the decision variable domain (X).	1
+The genetic algorithm repeatedly modifies this population.	1
+At each step, the algorithm selects a group of individual values from the population (parent) which are evolved through crossover or mutation to produce members of the next generation.	1
+See [19] for a fuller description of the GA.	1
+First results from RHIC on charged multiplicities, evolution of multiplicities with centrality, particle ratios and transverse momentum distributions in central and minimum bias collisions, are analyzed in a string model which includes hard collisions, collectivity in the initial state considered as string fusion, and rescattering of the produced secondaries.	1
+Multiplicities and their evolution with centrality are successfully reproduced.	1
+Transverse momentum distributions in the model show a larger pT-tail than experimental data, disagreement which grows with increasing centrality.	1
+Discrepancies with particle ratios appear and are examined comparing with previous features of the model at SPS.	1
+Using measured data from two arable sites in the UK we have shown that lags can have significant impact on model evaluation and can affect both the level of correlation between measured and simulated data and the magnitude of the sums of the residuals.	1
+Also, we used the division of MSE to three constituent statistics (SB, SDSD and LCS) to show how the level of correlation can affect the sum of residuals.	1
+This task becomes more difficult for model outputs such as soil N2O emissions that are driven by various interacting variables.	1
+Even more so, because the measured N2O datasets and the measured datasets of their drivers (e.g.	1
+soil moisture, soil N content) cover small time periods, they are not continuous and can vary widely in size.	1
+In this study we implemented the algorithm using measured and simulated data for soil moisture (first and second example) and soil mineral N (second example), and compared its results with the respective results for N2O.	1
+In our first example, we showed that the estimated lags in N2O prediction are related to the lags in soil moisture prediction in a way that changes gradually through time.	1
+In our second example, the lags in N2O prediction were explained by the lags in soil moisture and soil mineral N prediction, with which they had a positive relationship.	1
+Ultrasound (US) can initiate the release of drugs from liposomes via an event called inertial cavitation, whereby the rarefactional phase of an ultrasound wave causes the expansion of a gas bubble followed by a violent collapse due to the inertia of the surrounding media.	1
+To date, studies have concentrated on the use of low frequency or high intensity US to generate gas bubbles in situ, and most recently such parameters have been used to achieve a variable level of triggered drug release following an intratumoral injection of liposomes [14].	1
+However, concerns persist over the damage to non-target tissue that such US exposure parameters may cause and whether ultimately they will be widely clinically applicable.	1
+An alternative strategy is to utilise high-frequency US pulses at pressures in the diagnostic range in the presence of pre-existing gas bubbles.	1
+This provides an inertial cavitation stimulus for drug release using safe, clinically achievable US exposure conditions and approved US contrast agents [15].	1
+Indeed, in the context of improving the delivery of therapeutics such as oncolytic viruses, this approach has already shown great promise [16].	1
+A further advantage of this approach is that US-induced cavitation events produce distinct acoustic emissions that can be recorded and characterised providing non-invasive feedback, a feature which has proven useful in ablative US applications [17–19].	1
+An OPE of VQCD(r) was developed in [3].	1
+Within this framework, short-distance contributions are contained in the potentials, which are in fact the Wilson coefficients, while non-perturbative contributions are contained in the matrix elements that are organized in multipole expansion in r→ at r≪ΛQCD−1.	1
+The following relation was derived: (16)VQCD(r)=VS(r)+δEUS(r),(17)δEUS=−ig2TFNC∫0∞dte−iΔV(r)t×〈r→⋅E→a(t)φadj(t,0)abr→⋅E→b(0)〉+O(r3).	1
+δEUS(r) denotes the non-perturbative contribution to the QCD potential, which starts at O(ΛQCD3r2) in the multipole expansion.	1
+We adopt dimensional regularization in our analysis; we also refer to hard cutoff schemes when discussing conceptual aspects.	1
+While virtualization technologies certainly reduce the complexity of using a system, and especially when working across multiple heterogeneous computing environments, they are not widely deployed in high performance computing scenarios.	1
+As its name suggest, HPC seeks to obtain maximum performance from computing platforms.	1
+Extra software layers impact detrimentally on performance, meaning that in HPC scenarios users typically run the applications as close to the ‘bare metal’ as possible.	1
+In addition to the performance degradation introduced by virtualization technologies, choosing what details to abstract in a virtualized interface is itself very important.	1
+Grid and cloud computing support different interaction models.	1
+In grid computing, the user interacts with an individual resource (or sometimes a broker) in order to launch jobs into a queuing system.	1
+In cloud computing, users interact with a virtual server, in effect putting them in control of their own complete operating system.	1
+Both of these interaction models put the onus on the user to understand very specific details of the system that they are dealing with, making life difficult for the end user, typically a scientist who wants to progress his or her scientific investigations without any specific usability hurdles obstructing the pathway.	1
+SPS has been utilized in several studies to retain the nanostructure of aluminum alloy powders during consolidation.	1
+investigated the effect of processing of cryomilled Al 5083 powder via SPS [13].	1
+X-ray Diffraction (XRD) grain size calculations before and after SPS showed that the average grain size of the alloy only increased from 25nm to 50nm (from powder to bulk state).	1
+Subsequently, the hardness values obtained through nanoindentation for specimens of AA5083 produced via SPS were highly improved in comparison to conventional sintering methods were grain coarsening takes place on a larger scale.	1
+In another study the combination of cryomilling and SPS of AA-5356/B4C nanocomposites powder was found to largely improve the microhardness and flexural strengths of the bulk nanocomposite.	1
+[14] investigated the effect of SPS on mechanically milled AA6061 (Al–Mg–Si) micro-alloy powder.	1
+The average grain size after 20h of milling was ∼35nm and increased to only ∼85nm after processing with SPS at 500°C.	1
+Microhardness and compressive tests were carried out on the consolidated near full density specimens of both unmilled and milled powders and the results showed significant increase in both hardness and compressive strengths for the milled nanocrystalline powders as a result of the very fine grain size.	1
+The most widely used ion source in FIB instruments is a gallium (Ga) liquid metal ion source (LMIS) [1].	1
+Gallium is attractive as an ion source because of its low melting temperature (29.8°C at standard atmospheric pressure [4]) and its low volatility [1].	1
+However, some materials show sensitivity to the Ga ion beam.	1
+S4G), suggesting both mechanisms.	0
+The literature commonly uses either flooding or location awareness, however flooding creates large amounts of overhead and location determination schemes can often be inaccurate, power hungry and create the issue of the dead end problem.	0
+[32], and Matyjaszewski et al.	0
+The value of the fracture toughness of RH ceramics was calculated based on the reference data in other literature [22].	0
+1(b)).	0
+(1)).	0
+(1), where the constants b0, a1, a2, a3, a4 and n have the values 0.0328, 1.19×10−4, 3.57×10−6, 1.36, 0.000968 and 1.7 respectively.	0
+This can be attributed to their higher load-bearing capacity for high hardness.	0
+Since exchange between riparian wetlands and rivers can occur over the surface and/or through the subsurface, Restrepo et al.	0
+This reduction is usually achieved by approximating or neglecting less significant terms of the equations (Hunter et al., 2007; Yen and Tsai, 2001).	0
+In many cases, participants used double clicks for their interactions, while a single click would have been sufficient, a fact that was perhaps not communicated clearly enough to the participants.	0
+To minimize the distortion resulted from map projection on global datasets, we will choose an equal area projection by evaluating the options suggested in Steinwand et al.	0
+As has been pointed out in [9], this part is however not approximately independent of the pion distribution amplitude and not generically small.	0
+The Sc of RH ceramics was smaller than Sc,critical under all tested conditions during the initial stage of friction.	0
+This strategy was independently reported in early 2005 by van Hest and Opsteen [31], Lutz et al.	0
+The vulnerability (resp.	0
+However, the technique removes edges from the graph and it is not sufficiently sophisticated for arbitrary overlapping sets.	0
+Trends and insights are deduced a posteriori.	0
+2007) with 3-arcsecond (~90m resolution at the equator) resolution.	0
+3E and F).	0
+In the SU(3)F symmetric case, Eq.	0
+S4A-D,F).	0
+A few studies within the physiological domain are of special relevance to this work.	0
+1, with respect to a reference interface, which is typically a sample surface.	0
+In Refs.	0
+However, available systems may not have the ability to simplify care or improve efficiency where funding and human resources are scarce, infrastructure is unreliable and health data demands are opportunistic, not strategic.	0
+[33].	0
+It is shown that a very small source angle (i.e.	0
+The “resonant” region in the Sun where level jumping can take place is narrow, defined by A≃Δ [21].	0
+ΔV(r)=VO(r)−VS(r) denotes the difference between the octet and singlet potentials; see [3] for details.	0
+However, in regions characterised by widespread riparian wetlands that are hydraulically connected with adjacent rivers, wetland-river interaction is likely to be bidirectional.	0
+In the supersymmetric case, one has to replace the requirement of self-duality by that of relaxed super self-duality [16] in order to arrive at conclusions similar to those given in [15].	0
+Bates et al., 2010; Hess and Robson, 2010).	0
+In Hills et al.	0
+[8] describes the fundamentals of this method as applied by code developed in-house at Nottingham; since these are widely documented the details are not reproduced here, simply a summary.	0
+3(b) we have rounded to the nearest integer number of counts.)	0
+Our implementation consists of a number of functions in C that are available publicly [18].	0
+In part, this is due to their staggering complexity.	0
+Taking an air mass of 1.5 as an example, for different band gap Eg these three losses can be calculated and the results are indicated by areas S1, S2, and S3 in Fig.	0
+Note that a good agreement of the experimental and calculated spectra is attained in the whole measured photon energy range.	0
+Hallquist et al.	0
+A narrative provided by interviews with company personnel is thematised around the formal and informal characteristics of the organisation as defined in the literature.	0
+13.	0
+Each approach has its own strengths and weaknesses, and the choice is dependant on the required lateral (x, y) and axial (z) resolution, and the size of the structure of interest.	0
+Of particular interest, Hallquist et al.	0
+According to Fig.	0
+(In Fig.	0
+12(b).	0
+We emphasize that our results differ from the similar ones given in [5,22] in three important respects: (i) they are valid for all, not just small values of α (which is essential for our application), (ii) they include the angle φ, and (iii) the argument of the Θ function does not contain cos2θ, as follows from [21].	0
+3).	0
+The ensuing eigenfunctions fall into families with discrete orbital angular momentum ℏm along the optic axis where m is a magnetic quantum number.	0
+After the parameter values are determined, the rest of the process is automated.	0
+3C).	0
+However, they do not support visualizing set overlaps.	0
+Fujita et al.	0
+9a) [70].	0
+Full details are given in Asmar et al.	0
+To ignore the effects of these uncertainties on predictions may make interpretation of the results and subsequent decision making misleading since the likelihood and probabilities of predicted outcomes would be unknown.	0
+Average values for these were calculated for each test (the average coefficient of friction included values associated with the initial transients in the tests as suggested by Hirsch and Neu [18]).	0
+DCs in cervical LNs were identified according to their high expression of MHC class II (Fig.	0
+Furthermore, when the chain length difference is not so large, the array of junction points tends to be straight and long one.	0
+In this and the next paragraph, we review the content of that paper relevant to our analysis.	0
+We stress that for large values of α and φ≃π/2 adiabaticity is violated for large values of θ.	0
+In addition, voxel dimensions may only need to be half that of the smallest expected feature of interest (Briggman and Bock, 2012).	0
+This collapse creates shock waves which can disrupt the stability of co-localised liposomal drug carriers.	0
+7 shows the congestion at the decision point for 2 different runs.	0
+Yao et al.	0
+Some of the important applications are as fallows.	0
+On the other hand, if e.g.	0
+Furthermore, only a few schemes that were developed for defocus estimation provide an error analysis [23,24].	0
+The above results are universal for all systems with underlying conformal SU(1,1) symmetry.	0
+a very high coherence) is necessary so as to keep the volcano structure intact.	0
+In addition, refined and site-specific data are often not available requiring the use of regional data collected from literature and professional judgement in order to run the model.	0
+The properties of the different modes can be very useful, such as in thickness measurement [13], but in this case they are a complication.	0
+Defining a suitable parametrisation for the spatial coordinate in three-dimensions becomes much more difficult.	0
+Minimizing the sum of different objectives is problematic, since they may have different units and ranges.	0
+The loops were used to derive the contact slip amplitude and the energy coefficient of friction in each cycle according to the method suggested by Fouvry et al.	0
+7).	0
+In the work presented here, we work with schemes which keep p fixed.	0
+These last two models are commercial packages, and the code applied in the optimisation techniques is not in the public domain.	0
+3a).	0
+[8].	0
+These numbers increase to 210 and 55, respectively, in the case of a magnetic moment of 5×10−11μB.	0
+That is, their junction points cannot be aligned on two-dimensional planes but on one-dimensional lines, as schematically shown in Fig.	0
+The results shown are obtained for an intensity of 1015 ν/s (i.e., 1015  ions/s).	0
+Rather than to attempt to suppress the emergence of the informal organisation the company decided to channel the energies of staff involved in informal processes towards organisational goals.	0
+Therefore, if several clicks were performed directly one after another, only the first click was taken into account.	0
+Intuitively VS(r) corresponds to VUV(r;μf) and δEUS(r) to VIR(r;μf).	0
+The approach advocated here provides the opportunity for a further test.	0
+Uncertainty in elevation data layers have been considered by several modeling groups to various extents (Gesch, 2009; Gilmer and Ferdaña, 2012; Schmid et al., 2014).	0
+By dividing the algorithm-predicted series of lag values into monthly sets and examining the frequency distribution of the lags, certain patterns in these temporally patchy series have been identified.	0
+This process is repeated for several generations until an optimum solution is reached.	0
+12(a).	0
+The data covers the land area, nearly global from 56S to 60N latitudes.	0
+Itoh et al.	0
+Note that the z-position of all elements is zero (Fig.	0
+in press	0
+Indeed, the observation of the worn surfaces revealed that the catastrophic wear of RH ceramics accompanied by large brittle fracture was prevented overall, as shown in Fig.	0
+These processes are facilitated within an informal organisational structure and are based on human interactions undertaken within the formal organisation.	0
+9b).	0
+Such electronic structure calculations are still complex and time-consuming.	0
+If there is no magnetic moment, this intensity will produce about 170 events in the 0.1 MeV to 1 MeV range per year and 3 events in the 1 keV to 10 keV range per year.	0
+However, they were not able to use state-of-the-art methods for the surface electronic structure.	0
+VS(r) denotes the singlet potential.	0
+It should be remembered that both phases were present already from start of the exposure.	0
+Each set is hence represented using disconnected regions that are linked by having the same colour.	0
+Ye et al.	0
+3B, D–F).	0
+A challenging task in relation to time lags between observed and simulated daily data, is to determine their cause.	0
+Rana et al.	0
