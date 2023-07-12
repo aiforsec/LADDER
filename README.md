@@ -39,4 +39,4 @@ Open the notebook in `notebooks/malware-similarity.ipynb` in Google colab for ma
  
 
 ### Known Issues
-- [ ] Demo notebooks not working proprely due to trnasformer version issue
+- [ ] Demo notebooks not working proprely due to transformer/tokenizer version issue
