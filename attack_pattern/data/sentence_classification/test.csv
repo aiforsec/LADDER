@@ -1,221 +1,663 @@
 text	label
-We consider cosmological consequences of a conformal-invariant formulation of Einstein's General Relativity where instead of the scale factor of the spatial metrics in the action functional a massless scalar (dilaton) field occurs which scales all masses including the Planck mass.	1
-Instead of the expansion of the universe we obtain the Hoyle–Narlikar type of mass evolution, where the temperature history of the universe is replaced by the mass history.	1
-We show that this conformal-invariant cosmological model gives a satisfactory description of the new supernova Ia data for the effective magnitude–redshift relation without a cosmological constant and make a prediction for the high-redshift behavior which deviates from that of standard cosmology for z>1.7.	1
-Measuring and analysing the hold time of the CPA pill allows the thermal boundary resistance within the pill to be assessed; the thermal boundary dictates the actual temperature of the CPA crystals in comparison to the temperature of the cold finger, which is maintained at a constant temperature by a servo control program.	1
-17 shows the temperature profile during the recycling of the CPA pill and subsequent operation at 200mK.	1
-During the hold time, the servo control program maintained the CPA pill temperature to within a millikelvin.	1
-It is expected that microkelvin stability can be achieved with fast read-out thermometry (which was not available at the time of testing but which will be used for the mKCC), as this would allow for temperature control on much faster (millisecond) timescales than the current (approximately 1s) thermometry readout used.	1
-This figure demonstrates that changes in the measure of bitumen content create sizable differences in the stiffness modulus of asphaltic samples that include waste glass cullet.	1
-As the percentage of glass increases, the measure of the stiffness modulus of modified asphalt increases too.	1
-But with pass of optimum measure of glass the stiffness modulus of asphaltic samples decrease.	1
-This trend in total of percentages of bitumen content is existing.	1
-Due to that waste glass cullet has no suction; the trend does not extend to measuring the stiffness modulus of asphaltic samples including waste glass cullet with different percentage of bitumen content.	1
-Glass particles do not absorb any bituminous material, so it is necessary to decrease the bitumen content with the addition of glass cullet.	1
-2 and the results of the Marshall tests, the optimum bitumen measures decrease significantly in samples that include higher percentages of waste glass cullet.	1
-As the percentage of optimum bitumen content is 1% more in samples without waste glass cullet in comparison with saphaltic samples that include 20% waste glass cullet.	1
-The stiffness modulus of asphaltic samples that include waste glass cullet increased due to additional interlocking between the aggregate and the angularity of particles of glass cullet content.	1
-The increase in the intrusive friction angle because of the glass particles’ increased angularity is the main reason for the addition of the stiffness modulus of asphaltic samples that include waste glass cullet.	1
-But as the percentage of glass content reaches greater than 15%, the particles’ abundance cause slip these particles on together.	1
-The stiffness modulus of samples decreases as the percentage of glass cullet increases.	1
-The variations in the stiffness modulus of asphaltic samples that include different percentages of waste glass cullet at different temperature are shown in Fig.	1
-Myocardial electrical propagation can be simulated using the monodomain or bidomain PDEs [5,6].	1
-Due to its capacity to represent complex geometries with ease, approximations are often obtained using the finite element method (FEM) to discretise the PDEs in space on realistic cardiac geometry meshes; this results in very large (up to forty-million degrees of freedom (DOF) for human heart geometries) systems of linear equations which must be solved many thousands of times over the course of even a short simulation.	1
-Thus, they are extremely computationally demanding, presenting taxing problems even to high-end supercomputing resources.	1
-This computational demand means that effort has been invested in developing efficient solution techniques, including work on preconditioning, parallelisation and adaptivity in space and time [7–12].	1
-In this study, we investigate the potential of reducing the number of DOF by using a high-order polynomial FEM [13–15] to approximate the monodomain PDE in space, with the goal of significantly improving simulation efficiency over the piecewise-linear FEM approach commonly used in the field [16–19].	1
-For schemes where the polynomial degree p of the elements is adjusted according to the error in the approximation, this is known as the finite element p-version.	1
-In the Total Focusing Method (TFM) the beam is synthetically focused at every point in the target region [7] as follows.	1
-After obtaining the FMC data, the target region, which is in the x–z plane in 2D (Fig.	1
-1), is discretized into a grid.	1
-The signals from all elements in the array are then summed to synthesize a focus at every point in this grid.	1
-Linear interpolation of the time domain signals is necessary since they are discretely sampled.	1
-The intensity of the TFM image ITFM at any point (x,z) is given by:(10)ITFM(x,z)=|∑HTR(1c((xT−x)2+z2+(xR−x)2+z2))|forallT,Rwhere HTR(t) is the Hilbert transform of a signal uTR(t) in the FMC data, xT is the x-position of the transmitting element (T) and xR is the x-position of the receiving element (R).	1
-The summation is carried out for all possible transmitter–receiver pairs and therefore uses all the information captured with FMC.	1
-This algorithm is referred to as ‘conventional TFM’ in this paper.	1
-The measurements presented here provide evidence for the existence of di-cluster structures in 10–12,14Be.	1
-Certainly, if the breakup process samples the overlap between the wavefunctions of the ground state and the excited states, the first-chance cluster breakup cross-sections, shown in Fig.	1
-4(a), indicate that the xHe+A−xHe cluster structure does not decrease over the mass range A=10, 12 and 14.	1
-Given also that the decay energy threshold increases with mass number, the present data may even indicate a slight increase in clustering.	1
-The breakup cross-sections also appear to demonstrate that these nuclei possess a stronger structural overlap with an α–Xn–α configuration, although the reaction mechanics by which this final state is reached may be complex.	1
-That is to say that the dominant structural mode of the neutron rich isotopes may be identified with two alpha-particles plus valence neutrons.	1
-These comprehensive measurements of the neutron-removal and cluster breakup for the first time provide experimental data whereby the structure of the most neutron-rich Be isotopes can be modeled via their reactions.	1
-PV cells are one of the most promising technologies for conversion of incident solar radiation into electric power.	1
-However, this technology is still far from being able to compete with fossil fuel-based energy conversion technologies because of its relatively low efficiency and energy density.	1
-Theoretically, there are three unavoidable losses that limit the solar conversion efficiency of a device with a single absorption threshold or band gap Eg: (1) incomplete absorption, where photons with energies below Eg are not absorbed; (2) thermalization or carrier cooling, where solar photons with sufficient energy generate electron-hole pairs and then immediately lose almost all energy in excess of Eg in the form of heat; and (3) radiative recombination, where a small fraction of the excited states radioactively recombine with the ground state at the maximum power output (Hanna & Nozik, 2006; Henry, 1980).	1
-Note that the area under the outer curve is the solar power per unit area, and that only S4 can be delivered to the load.	1
-The viscoelastic behavior of elastomers containing small amounts of unattached chains has been investigated to characterize the dynamics of the polymer chains trapped in fixed networks [66–68].	1
-Polymer chains trapped in fixed networks constitute a simpler system for the study of the polymer chain dynamics than the corresponding uncrosslinked polymer melts.	1
-This is because the complicated effect of the motion of the surrounding chains on the dynamics of the probe chain – called “constraint release” [69] – is absent in the fixed network systems.	1
-Most of the earlier studies employed randomly crosslinked elastomers as host networks.	1
-In this case, precise control of the mesh size of the host networks is not possible, and the mesh size has a broad distribution.	1
-The end-linking systems give the host networks a more uniform mesh size, and they can control the mesh size by the size of the precursor chains.	1
-We investigated the dynamic viscoelasticity of end-linked PDMS elastomers containing unattached linear PDMS as functions of the size of the unattached chains (Mg) and the network mesh (Mx) (Fig.	1
-We employed two types of host networks with Mx>Me and Mx<Me where Me (≈10,000 for PDMS) is the molecular mass between adjacent entanglements in the molten state.	1
-The Mx>Me and Mx<Me networks (designated as NL and NS, respectively) were designed by end-linking the long (Mn=84,000) and short precursor chains (Mn=4,550), respectively.	1
-The mesh of the NL networks is dominated by trapped entanglements, while that of the NS network is governed by chemical cross-links.	1
-A principle of high-throughput materials science is that one does not know a priori where the value of the data lies for any specific application.	1
-This requires efficient interfaces to interrogate available data on various levels.	1
-We have developed a simple WEB-based API to greatly improve the accessibility and utility of the AFLOWLIB database [14] to the scientific community.	1
-Through it, the client can access calculated physical properties (thermodynamic, crystallographic, or mechanical properties), as well as simulation provenance and runtime properties of the included systems.	1
-The data may be used directly (e.g., to browse a class of materials with a desired property) or integrated into higher level work-flows.	1
-The interface also allows for the sharing of updates of data used in previous published works, e.g., previously calculated alloy phase diagrams [19–31], thus the database can be expanded systematically.	1
-Global optimisation algorithms are used in this study to solve the optimisation problem as they are known to be efficient in incorporating statistical information and dealing with complicated objective functions that have multiple local minima/maxima.	1
-The genetic algorithm (GA) is such a global optimisation technique that mimics biological evolution processes and is used in this particular study.	1
-The algorithm starts with a random selection of a population from the decision variable domain (X).	1
-The genetic algorithm repeatedly modifies this population.	1
-At each step, the algorithm selects a group of individual values from the population (parent) which are evolved through crossover or mutation to produce members of the next generation.	1
-See [19] for a fuller description of the GA.	1
-First results from RHIC on charged multiplicities, evolution of multiplicities with centrality, particle ratios and transverse momentum distributions in central and minimum bias collisions, are analyzed in a string model which includes hard collisions, collectivity in the initial state considered as string fusion, and rescattering of the produced secondaries.	1
-Multiplicities and their evolution with centrality are successfully reproduced.	1
-Transverse momentum distributions in the model show a larger pT-tail than experimental data, disagreement which grows with increasing centrality.	1
-Discrepancies with particle ratios appear and are examined comparing with previous features of the model at SPS.	1
-Using measured data from two arable sites in the UK we have shown that lags can have significant impact on model evaluation and can affect both the level of correlation between measured and simulated data and the magnitude of the sums of the residuals.	1
-Also, we used the division of MSE to three constituent statistics (SB, SDSD and LCS) to show how the level of correlation can affect the sum of residuals.	1
-This task becomes more difficult for model outputs such as soil N2O emissions that are driven by various interacting variables.	1
-Even more so, because the measured N2O datasets and the measured datasets of their drivers (e.g.	1
-soil moisture, soil N content) cover small time periods, they are not continuous and can vary widely in size.	1
-In this study we implemented the algorithm using measured and simulated data for soil moisture (first and second example) and soil mineral N (second example), and compared its results with the respective results for N2O.	1
-In our first example, we showed that the estimated lags in N2O prediction are related to the lags in soil moisture prediction in a way that changes gradually through time.	1
-In our second example, the lags in N2O prediction were explained by the lags in soil moisture and soil mineral N prediction, with which they had a positive relationship.	1
-Ultrasound (US) can initiate the release of drugs from liposomes via an event called inertial cavitation, whereby the rarefactional phase of an ultrasound wave causes the expansion of a gas bubble followed by a violent collapse due to the inertia of the surrounding media.	1
-To date, studies have concentrated on the use of low frequency or high intensity US to generate gas bubbles in situ, and most recently such parameters have been used to achieve a variable level of triggered drug release following an intratumoral injection of liposomes [14].	1
-However, concerns persist over the damage to non-target tissue that such US exposure parameters may cause and whether ultimately they will be widely clinically applicable.	1
-An alternative strategy is to utilise high-frequency US pulses at pressures in the diagnostic range in the presence of pre-existing gas bubbles.	1
-This provides an inertial cavitation stimulus for drug release using safe, clinically achievable US exposure conditions and approved US contrast agents [15].	1
-Indeed, in the context of improving the delivery of therapeutics such as oncolytic viruses, this approach has already shown great promise [16].	1
-A further advantage of this approach is that US-induced cavitation events produce distinct acoustic emissions that can be recorded and characterised providing non-invasive feedback, a feature which has proven useful in ablative US applications [17–19].	1
-An OPE of VQCD(r) was developed in [3].	1
-Within this framework, short-distance contributions are contained in the potentials, which are in fact the Wilson coefficients, while non-perturbative contributions are contained in the matrix elements that are organized in multipole expansion in r→ at r≪ΛQCD−1.	1
-The following relation was derived: (16)VQCD(r)=VS(r)+δEUS(r),(17)δEUS=−ig2TFNC∫0∞dte−iΔV(r)t×〈r→⋅E→a(t)φadj(t,0)abr→⋅E→b(0)〉+O(r3).	1
-δEUS(r) denotes the non-perturbative contribution to the QCD potential, which starts at O(ΛQCD3r2) in the multipole expansion.	1
-We adopt dimensional regularization in our analysis; we also refer to hard cutoff schemes when discussing conceptual aspects.	1
-While virtualization technologies certainly reduce the complexity of using a system, and especially when working across multiple heterogeneous computing environments, they are not widely deployed in high performance computing scenarios.	1
-As its name suggest, HPC seeks to obtain maximum performance from computing platforms.	1
-Extra software layers impact detrimentally on performance, meaning that in HPC scenarios users typically run the applications as close to the ‘bare metal’ as possible.	1
-In addition to the performance degradation introduced by virtualization technologies, choosing what details to abstract in a virtualized interface is itself very important.	1
-Grid and cloud computing support different interaction models.	1
-In grid computing, the user interacts with an individual resource (or sometimes a broker) in order to launch jobs into a queuing system.	1
-In cloud computing, users interact with a virtual server, in effect putting them in control of their own complete operating system.	1
-Both of these interaction models put the onus on the user to understand very specific details of the system that they are dealing with, making life difficult for the end user, typically a scientist who wants to progress his or her scientific investigations without any specific usability hurdles obstructing the pathway.	1
-SPS has been utilized in several studies to retain the nanostructure of aluminum alloy powders during consolidation.	1
-investigated the effect of processing of cryomilled Al 5083 powder via SPS [13].	1
-X-ray Diffraction (XRD) grain size calculations before and after SPS showed that the average grain size of the alloy only increased from 25nm to 50nm (from powder to bulk state).	1
-Subsequently, the hardness values obtained through nanoindentation for specimens of AA5083 produced via SPS were highly improved in comparison to conventional sintering methods were grain coarsening takes place on a larger scale.	1
-In another study the combination of cryomilling and SPS of AA-5356/B4C nanocomposites powder was found to largely improve the microhardness and flexural strengths of the bulk nanocomposite.	1
-[14] investigated the effect of SPS on mechanically milled AA6061 (Al–Mg–Si) micro-alloy powder.	1
-The average grain size after 20h of milling was ∼35nm and increased to only ∼85nm after processing with SPS at 500°C.	1
-Microhardness and compressive tests were carried out on the consolidated near full density specimens of both unmilled and milled powders and the results showed significant increase in both hardness and compressive strengths for the milled nanocrystalline powders as a result of the very fine grain size.	1
-The most widely used ion source in FIB instruments is a gallium (Ga) liquid metal ion source (LMIS) [1].	1
-Gallium is attractive as an ion source because of its low melting temperature (29.8°C at standard atmospheric pressure [4]) and its low volatility [1].	1
-However, some materials show sensitivity to the Ga ion beam.	1
-S4G), suggesting both mechanisms.	0
-The literature commonly uses either flooding or location awareness, however flooding creates large amounts of overhead and location determination schemes can often be inaccurate, power hungry and create the issue of the dead end problem.	0
-[32], and Matyjaszewski et al.	0
-The value of the fracture toughness of RH ceramics was calculated based on the reference data in other literature [22].	0
-1(b)).	0
-(1)).	0
-(1), where the constants b0, a1, a2, a3, a4 and n have the values 0.0328, 1.19×10−4, 3.57×10−6, 1.36, 0.000968 and 1.7 respectively.	0
-This can be attributed to their higher load-bearing capacity for high hardness.	0
-Since exchange between riparian wetlands and rivers can occur over the surface and/or through the subsurface, Restrepo et al.	0
-This reduction is usually achieved by approximating or neglecting less significant terms of the equations (Hunter et al., 2007; Yen and Tsai, 2001).	0
-In many cases, participants used double clicks for their interactions, while a single click would have been sufficient, a fact that was perhaps not communicated clearly enough to the participants.	0
-To minimize the distortion resulted from map projection on global datasets, we will choose an equal area projection by evaluating the options suggested in Steinwand et al.	0
-As has been pointed out in [9], this part is however not approximately independent of the pion distribution amplitude and not generically small.	0
-The Sc of RH ceramics was smaller than Sc,critical under all tested conditions during the initial stage of friction.	0
-This strategy was independently reported in early 2005 by van Hest and Opsteen [31], Lutz et al.	0
-The vulnerability (resp.	0
-However, the technique removes edges from the graph and it is not sufficiently sophisticated for arbitrary overlapping sets.	0
-Trends and insights are deduced a posteriori.	0
-2007) with 3-arcsecond (~90m resolution at the equator) resolution.	0
-3E and F).	0
-In the SU(3)F symmetric case, Eq.	0
-S4A-D,F).	0
-A few studies within the physiological domain are of special relevance to this work.	0
-1, with respect to a reference interface, which is typically a sample surface.	0
-In Refs.	0
-However, available systems may not have the ability to simplify care or improve efficiency where funding and human resources are scarce, infrastructure is unreliable and health data demands are opportunistic, not strategic.	0
-[33].	0
-It is shown that a very small source angle (i.e.	0
-The “resonant” region in the Sun where level jumping can take place is narrow, defined by A≃Δ [21].	0
-ΔV(r)=VO(r)−VS(r) denotes the difference between the octet and singlet potentials; see [3] for details.	0
-However, in regions characterised by widespread riparian wetlands that are hydraulically connected with adjacent rivers, wetland-river interaction is likely to be bidirectional.	0
-In the supersymmetric case, one has to replace the requirement of self-duality by that of relaxed super self-duality [16] in order to arrive at conclusions similar to those given in [15].	0
-Bates et al., 2010; Hess and Robson, 2010).	0
-In Hills et al.	0
-[8] describes the fundamentals of this method as applied by code developed in-house at Nottingham; since these are widely documented the details are not reproduced here, simply a summary.	0
-3(b) we have rounded to the nearest integer number of counts.)	0
-Our implementation consists of a number of functions in C that are available publicly [18].	0
-In part, this is due to their staggering complexity.	0
-Taking an air mass of 1.5 as an example, for different band gap Eg these three losses can be calculated and the results are indicated by areas S1, S2, and S3 in Fig.	0
-Note that a good agreement of the experimental and calculated spectra is attained in the whole measured photon energy range.	0
-Hallquist et al.	0
-A narrative provided by interviews with company personnel is thematised around the formal and informal characteristics of the organisation as defined in the literature.	0
-13.	0
-Each approach has its own strengths and weaknesses, and the choice is dependant on the required lateral (x, y) and axial (z) resolution, and the size of the structure of interest.	0
-Of particular interest, Hallquist et al.	0
-According to Fig.	0
-(In Fig.	0
-12(b).	0
-We emphasize that our results differ from the similar ones given in [5,22] in three important respects: (i) they are valid for all, not just small values of α (which is essential for our application), (ii) they include the angle φ, and (iii) the argument of the Θ function does not contain cos2θ, as follows from [21].	0
-3).	0
-The ensuing eigenfunctions fall into families with discrete orbital angular momentum ℏm along the optic axis where m is a magnetic quantum number.	0
-After the parameter values are determined, the rest of the process is automated.	0
-3C).	0
-However, they do not support visualizing set overlaps.	0
-Fujita et al.	0
-9a) [70].	0
-Full details are given in Asmar et al.	0
-To ignore the effects of these uncertainties on predictions may make interpretation of the results and subsequent decision making misleading since the likelihood and probabilities of predicted outcomes would be unknown.	0
-Average values for these were calculated for each test (the average coefficient of friction included values associated with the initial transients in the tests as suggested by Hirsch and Neu [18]).	0
-DCs in cervical LNs were identified according to their high expression of MHC class II (Fig.	0
-Furthermore, when the chain length difference is not so large, the array of junction points tends to be straight and long one.	0
-In this and the next paragraph, we review the content of that paper relevant to our analysis.	0
-We stress that for large values of α and φ≃π/2 adiabaticity is violated for large values of θ.	0
-In addition, voxel dimensions may only need to be half that of the smallest expected feature of interest (Briggman and Bock, 2012).	0
-This collapse creates shock waves which can disrupt the stability of co-localised liposomal drug carriers.	0
-7 shows the congestion at the decision point for 2 different runs.	0
-Yao et al.	0
-Some of the important applications are as fallows.	0
-On the other hand, if e.g.	0
-Furthermore, only a few schemes that were developed for defocus estimation provide an error analysis [23,24].	0
-The above results are universal for all systems with underlying conformal SU(1,1) symmetry.	0
-a very high coherence) is necessary so as to keep the volcano structure intact.	0
-In addition, refined and site-specific data are often not available requiring the use of regional data collected from literature and professional judgement in order to run the model.	0
-The properties of the different modes can be very useful, such as in thickness measurement [13], but in this case they are a complication.	0
-Defining a suitable parametrisation for the spatial coordinate in three-dimensions becomes much more difficult.	0
-Minimizing the sum of different objectives is problematic, since they may have different units and ranges.	0
-The loops were used to derive the contact slip amplitude and the energy coefficient of friction in each cycle according to the method suggested by Fouvry et al.	0
-7).	0
-In the work presented here, we work with schemes which keep p fixed.	0
-These last two models are commercial packages, and the code applied in the optimisation techniques is not in the public domain.	0
-3a).	0
-[8].	0
-These numbers increase to 210 and 55, respectively, in the case of a magnetic moment of 5×10−11μB.	0
-That is, their junction points cannot be aligned on two-dimensional planes but on one-dimensional lines, as schematically shown in Fig.	0
-The results shown are obtained for an intensity of 1015 ν/s (i.e., 1015  ions/s).	0
-Rather than to attempt to suppress the emergence of the informal organisation the company decided to channel the energies of staff involved in informal processes towards organisational goals.	0
-Therefore, if several clicks were performed directly one after another, only the first click was taken into account.	0
-Intuitively VS(r) corresponds to VUV(r;μf) and δEUS(r) to VIR(r;μf).	0
-The approach advocated here provides the opportunity for a further test.	0
-Uncertainty in elevation data layers have been considered by several modeling groups to various extents (Gesch, 2009; Gilmer and Ferdaña, 2012; Schmid et al., 2014).	0
-By dividing the algorithm-predicted series of lag values into monthly sets and examining the frequency distribution of the lags, certain patterns in these temporally patchy series have been identified.	0
-This process is repeated for several generations until an optimum solution is reached.	0
-12(a).	0
-The data covers the land area, nearly global from 56S to 60N latitudes.	0
-Itoh et al.	0
-Note that the z-position of all elements is zero (Fig.	0
-in press	0
-Indeed, the observation of the worn surfaces revealed that the catastrophic wear of RH ceramics accompanied by large brittle fracture was prevented overall, as shown in Fig.	0
-These processes are facilitated within an informal organisational structure and are based on human interactions undertaken within the formal organisation.	0
-9b).	0
-Such electronic structure calculations are still complex and time-consuming.	0
-If there is no magnetic moment, this intensity will produce about 170 events in the 0.1 MeV to 1 MeV range per year and 3 events in the 1 keV to 10 keV range per year.	0
-However, they were not able to use state-of-the-art methods for the surface electronic structure.	0
-VS(r) denotes the singlet potential.	0
-It should be remembered that both phases were present already from start of the exposure.	0
-Each set is hence represented using disconnected regions that are linked by having the same colour.	0
-Ye et al.	0
-3B, D–F).	0
-A challenging task in relation to time lags between observed and simulated daily data, is to determine their cause.	0
-Rana et al.	0
+Activating the device’s microphone and listening to live conversations	1
+Executing commands on the device	1
+Copying files from the device to a Command & Control (C&C) center	1
+Recording screen captures	1
+Viewing contacts	1
+Reading SMS messages	1
+As soon as the user clicks the spyware’s icon for the first time, nothing seems to happen and the icon disappears from the home screen.	1
+For contacting C&C, the spyware was found to be using free DNS services, as shown in the screenshot below:	1
+SpyNote RAT was able to take screen captures and, using the device’s microphone, listen to audio conversations.	1
+"SpyNote RAT captured the device’s screen activities along with audio using the  MediaProjectionCallback functionality (available with Lollipop, the Android 5.0 release, and later) and saved the output in a file named ""video.mp4"" as shown in the following screenshot:"	1
+SMS stealing 	1
+SpyNote RAT was also observed stealing SMS messages from the affected devices, as shown in screenshot below:	1
+Stealing contacts	1
+The ability to steal contacts is a favorite feature for spyware developers, as the stolen contacts can be used to further spread the spyware.	1
+Uninstalling apps	1
+Uninstalling apps is another function favored by developers of Android spyware and malware.	1
+They tend to target any antivirus protections on the device and uninstall them, which increases the possibility of their malware persisting on the device.	1
+The screenshot below shows SpyNote RAT scanning for Wi-Fi and enabling it if a known channel is found:	1
+- SpyNote RAT could click photos using the device's camera, based on commands from C&C.	1
+- SpyNote RAT was also collecting the device’s location to identify the exact location of the victim.	1
+View all messages	1
+Listen in on phone calls	1
+Activate a device’s camera or mic remotely	1
+Track the device via GPS	1
+Install APK files on its own and even update the malware	1
+Copy files from device to PC	1
+Gain access to the IMEI number, Wi-Fi MAC address, and cell phone carrier details	1
+Experts pointed out that the latest release of the RAT implements new features, including a bypass to the Facebook authentication mechanism.	1
+MobiHok supports several features, including access to files, access to the camera, keylogging, control over SMS and contacts, the ability to bypass both Samsung security mechanisms and Google Play mechanisms, and to bind itself to another APK app.	1
+New Trojan SpyNote Installs Backdoor on Android Devices	1
+A new SpyNote Trojan can give bad guys control over your phone from the camera, microphone to eavesdropping on phone calls.	1
+SpyNote has a wide range of backdoor features that include the ability to view all messages on a device, eavesdrop on phone calls, activate the phone’s camera or microphone remotely or track the phone’s GPS location.	1
+OmniRat is similar in function and was first spotted in Germany in November by researchers who said targeted victims received a text message asking them to download an app to view an image.	1
+Once installed, SpyNote is hard to get rid of; it removes the SpyNote application icon from the victim’s phone and install new APKs and update the malware.	1
+“The SpyNote APK requires victims to accept and give SpyNote many permissions, including the ability to edit text messages, read call logs and contacts, or modify or delete the contents of the SD card,” according to a technical description of malware.	1
+A new version of the SpyNote Trojan is designed to trick Android users into thinking it’s a legitimate Netflix application.	1
+Once installed, the remote access Trojan (RAT) essentially hands control of the device over to the hacker, enabling them to copy files, view contacts, and eavesdrop on the victim, among other capabilities.	1
+The most recent iteration, a product of the SpyNote Trojan builder, mimics a Netflix app and was discovered recently by researchers with Zscaler’s ThreatLabZ.	1
+According to the firm, after opening the malicious app, the icon disappears from the home screen but gets to work contacting its command and control server.	1
+It also uninstalls any antivirus protections a user may have set up on the device, in hopes of evading detection.	1
+Leveraging this feature, the malware developer can root the device using a range of vulnerabilities, well-known or zero-day,” Shivang Desai, a researcher with the firm wrote Tuesday.	1
+When it comes to surveillance, the RAT can take screen captures – and by taking advantage of the way the device handles audio – record conversations.	1
+According to researchers the malware hijacks the MediaProjection.Callback API, something first introduced in Android 5.0 Lollipop, to record audio.	1
+It saves the recorded content in a file, “video.mp4,” that can be sent back to the C2.	1
+Like other RATs, this version of SpyNote can also steal SMS messages and contacts from infected devices and funnel them back to the C2.	1
+The malware steals the contacts and writes them as a local array before they’re exfiltrated, Desai said.	1
+It also, for good measure, collects the device’s location and sends that along to attackers.	1
+While the app came bundled with a legitimate copy of the game, it also came with DroidJack, similar SpyNote, that let attackers view their victims WiFi connections, retrieve information on running apps, and change their network connectivity.	1
+Researchers uncovered a phishing campaign two weeks ago designed to dupe users into giving up their login information, credit card data and social security number.	1
+Recently, security researchers at Palo Alto’s Unit 42 discovered a Remote Access Trojan (RAT) that allow attackers to gain remote administrative control of an infected device.	1
+Once a device is infected, it can start stealing personal and financial data, however, that’s just a start; SpyNote has much more to do that includes installing new APKs and updating itself, copying files from device to computer, view all messages on the device, access the contact list, make and listen to your calls, record or listen to audio from the microphone of the device, collect Mac address from WI-FI, IMEI number and details about carrier, and track GPS location of the infected device.	1
+The SpyNote APK requires victims to accept and give SpyNote many permissions, including the ability to edit text messages, read call logs and contacts, or modify or delete the contents of the SD card.	1
+The common factor was that all of them had an additional functionality: allowing the adversary to spy on the users who installed them.	1
+A RAT is typically installed without the victim's knowledge, often as payload of a trojan horse program, and will try to hide its operation from the victim and from security software and other anti-virus software.	1
+control a device's camera, access its storage, intercept calls and text messages, etc.).	1
+After the application is installed, it is displayed as Android with the icon resembling the one of the built-in Android applications Settings.	1
+track location of the device (GPS and network-based)	1
+make and intercept calls	1
+access camera	1
+access external storage	1
+access contact list	1
+read SMS	1
+access microphone	1
+displaying content over other applications	1
+clickjacking via Accessibility Services	1
+Most likely, the malware was spread via other means like a spearphishing attachment or a link.	1
+A SpyNote client can masquerade as legitimate application.	1
+The adversary can pick a name of the application, service, its version, and the name of a victim to be able to differentiate them.	1
+SpyNote is able to discover installed applications, so that the attackers can tell which security appliances are deployed to a device.	1
+Other possibilities include enabling key logging, device administration, leveraging SuperSU if the device is rooted, and deactivating icons.	1
+SpyNote operators can use Device Administrator access to wipe data, lock it, or reset the password:	1
+SpyNote makes use of the accessibility API by overriding onAccessibilityEvent method to log keystrokes.	1
+SpyNote has a location tracking feature based on GPS and network data.	1
+Moreover, a remote command can be issued to capture audio or camera feed.	1
+The collected data exfiltration is achieved over the command and control channel.	1
+Instances of this spyware were found on the Google Play Store, disguised as service applications from mobile operators.	1
+Exodus is equipped with extensive collection and interception capabilities.	1
+Worryingly, some of the modifications enforced by the spyware might expose the infected devices to further compromise or data tampering.	1
+In most cases they would be crafted to appear as applications distributed by unspecified mobile operators in Italy.	1
+The purpose of Exodus One seems to be to collect some basic identifying information about the device (namely the IMEI code and the phone number) and send it to the Command & Control server.	1
+After download, Exodus One would dynamically load and execute the primary stage 2 payload mike.jar using the Android API DexClassLoader().	1
+"Similarly to another Android spyware made in Italy, originally discovered by Lukas Stefanko and later named Skygofree and analyzed in depth by Kaspersky Labs, Exodus also takes advantage of ""protectedapps"", a feature in Huawei phones that allows to configure power-saving options for running applications."	1
+By manipulating a SQLite database, Exodus is able to keep itself running even when the screen goes off and the application would otherwise be suspended to reduce battery consumption.	1
+Retrieve a list of installed applications.	1
+Record surroundings using the built-in microphone in 3gp format.	1
+Retrieve the browsing history and bookmarks from Chrome and SBrowser (the browser shipped with Samsung phones).	1
+Extract events from the Calendar app.	1
+Extract the calls log.	1
+Record phone calls audio in 3gp format.	1
+Take pictures with the embedded camera.	1
+Collect information on surrounding cellular towers (BTS).	1
+Extract the address book.	1
+Extract the contacts list from the Facebook app.	1
+Extract logs from Facebook Messenger conversations.	1
+Take a screenshot of any app in foreground.	1
+Extract information on pictures from the Gallery.	1
+Extract information from th GMail app.	1
+Dump data from the IMO messenger app.	1
+Extract call logs, contacts and messages from the Skype app.	1
+Retrieve all SMS messages.	1
+Extract messages and the encryption key from the Telegram app.	1
+Dump data from the Viber messenger app.	1
+Extract logs from WhatsApp.	1
+Retrieve media exchanged through WhatsApp.	1
+Extract the Wi-Fi network's password.	1
+Extract data from WeChat app.	1
+Extract current GPS coordinates of the phone.	1
+This local port is used by Exodus Two to execute various commands on the Android device, such as enabling or disabling certain services, or parsing app databases.	1
+Obviously, this inevitably leaves the device open not only to further compromise but to data tampering as well.	1
+Malware that stole contacts, audio, location and more was under development for years.	1
+Researchers recently discovered a well-funded mobile phone surveillance operation that was capable of surreptitiously stealing a variety of data from phones running both the iOS and Android operating systems.	1
+It was spread in apps disguised as service applications from Italian mobile operators.	1
+The first was a small dropper that collected basic identifying information about the device, such as the IMEI and phone number, and sent it to a command-and-control server.	1
+Some of the variants encrypted communications with self-signed certificates that were pinned to the apps.	1
+A third stage would attempt to let Exodus gain root control over an infected phone, typically though the use of an exploit dubbed DirtyCOW.	1
+Retrieve a list of installed applications	1
+Record surroundings using the built-in microphone in 3gp format	1
+Retrieve the browsing history and bookmarks from Chrome and SBrowser (the browser shipped with Samsung phones)	1
+Extract events from the Calendar app	1
+Extract the calls log	1
+Record phone calls audio in 3gp format	1
+Take pictures with the embedded camera	1
+Collect information on surrounding cellular towers (BTS)	1
+Extract the address book	1
+Extract the contacts list from the Facebook app	1
+Extract logs from Facebook Messenger conversations	1
+Take a screenshot of any app in foreground	1
+Extract information on pictures from the Gallery	1
+Extract information from the Gmail app	1
+Dump data from the IMO messenger app	1
+Extract call logs, contacts and messages from the Skype app	1
+Retrieve all SMS messages	1
+Extract messages and the encryption key from the Telegram app	1
+Dump data from the Viber messenger app	1
+Extract logs from WhatsApp	1
+Retrieve media exchanged through WhatsApp	1
+Extract the Wi-Fi network's password	1
+Extract data from WeChat app	1
+Extract current GPS coordinates of the phone	1
+The iPhone surveillance malware was distributed on phishing sites that masqueraded as Italian and Turkmenistani mobile carriers.	1
+The iOS version was installed using the Apple Developer Enterprise program, which allows organizations to distribute in-house apps to employees or members without using the iOS App Store.	1
+It was nonetheless able to exfiltrate a variety of sensitive data including:	1
+Exodus came to light when last month security researchers from Security Without Borders found the spyware hidden inside an app uploaded on the Play Store, targeted at the customers of a local Italian internet service provider (ISP).	1
+They said the spyware was capable of rooting Android devices and possessed an advanced set of spying features that gave attackers full control of infected devices.	1
+It could only collect and steal contacts, photos, videos, audio recordings, GPS information, and device location.	1
+It could also perform on-demand audio recording operations, however, it was nowhere near as intrusive and did not the same level of control of infected devices as the Android variant.	1
+Security researchers are warning owners of Android smartphones about a new malware attack, spreading via SMS text messages.	1
+As the team at Scandinavian security group CSIS describes, malware known as MazarBOT is being distributed via SMS in Denmark and is likely to also be encountered in other countries.	1
+Victims’ first encounter with the malware reportedly comes via an unsolicited text message that their Android smartphone receives.	1
+The txt message uses social engineering to dupe unsuspecting users into clicking on a link to a downloadable Android application.	1
+Once the APK package is downloaded, potential victims are urged to grant the malicious app a wide range of permissions on their Android device:	1
+SEND_SMS	1
+WRITE_SMS	1
+GET_TASKS	1
+CALL_PHONE	1
+RECEIVE_SMS	1
+READ_PHONE_STATE	1
+READ_SMS	1
+ERASE_PHONE	1
+Once installed, MazarBOT downloads a copy of Tor onto users’ Android smartphones and uses it to connect anonymously to the net before sending a text message containing the victim’s location to an Iranian mobile phone number.	1
+With the malware now in place, a number of actions can be performed, including allowing attackers to secretly monitor and control smartphones via a backdoor, send messages to premium-rate numbers, and intercept two-factor authentication codes sent by online banking apps and the like.	1
+In fact, with full access to the compromised Android smartphone, the opportunities for criminals to wreak havoc are significant – such as erasing infected phones or launching man-in-the-middle (MITM) attacks.	1
+If the APK (which is a program file for Android) is run on an Android-powered smartphone, then it will gain administrator rights on the victim’s device.	1
+The malicious packet (APK) retrieves TOR and installs it on the victim’s phone via the following harmless URLs: https: //f-droid.org/repository/browse/?fdid=org.torproject.android https: //play.google.com/store/apps/details?id=org.torproject.android In the next phase of the attack, the infection will unpack and run the TOR application, which will then be used to connect to the following server: http: // pc35hiptpcwqezgs [.]	1
+After that, an automated SMS will be sent to the number 9876543210 (+98 is the country code for Iran) with the text message: “Thank you”.	1
+The catch is that this SMS also includes the device’s location data.	1
+Send SMS messages to premium channel numbers, seriously increasing the victim’s phone bill;	1
+Read SMS messages, which means they can also read authentication codes sent as part of two-factor authentication mechanisms, used also by online banking apps and ecommerce websites;	1
+Polipo proxy and Man-in-the-Middle Attack	1
+As if it weren’t enough that it can stop calls and launch other aggressive commands on the victim’s phone, Mazar BOT is also capable of injecting itself into Chrome.	1
+Controlling the phone’s keys	1
+Enabling the sleep mode	1
+Save actions in the phone’s settings, etc.	1
+Mazar BOT will check the phone to identify the victim’s country and this will stop the malicious APK if the targeted phone turns out to be owned by a Russian user: locale.getCountry () equalsIgnoreCase ( “RU”)) Process.killProcess (Process.myPid ());	1
+The campaign sent out fake emails purporting to originate from PostNord and Post Denmark.	1
+When clicked on, the infected emails downloaded Cryptolocker2 ransomware onto users’ machines.	1
+The malware spread via SMS texts that asked users to click on a link in order to view a multimedia message.	1
+Once it has been fully downloaded onto a computer, MazarBOT has the ability to open, monitor and control backdoors on the victim’s Android device; send SMS messages to premium channel numbers, which will increase the victim’s mobile phone bill; read SMS messages, including two-step verification codes; use the “Polipo proxy” to launch man-in-the-middle (MitM) attacks; and inject itself in the mobile Google Chrome browser.	1
+In the wild, we found Web pages designed to (vaguely) resemble legitimate app market pages, hosting files for download that have been disguised as a legitimate mobile application of moderately broad appeal, such as a media player or social media app.	1
+Once installed, the malware requests Device Administrator privileges.	1
+If the malware obtains device administrator rights, it will be able to lock the screen by itself, expire the password, and resist being uninstalled through normal methods.	1
+The app then stays in the background listening to commands from the cybercrooks.	1
+The Trojan works by creating an overlay whenever the user launches the banking application.	1
+Banking Trojans that rely on the overlay mechanism to steal information need to know what application is in the foreground.	1
+This quest to determine the currently running application is a hallmark of overlay malware, so we thought we’d take a closer look at how it’s done.	1
+The author(s) of this malware wrote separate subroutines that identify the operating system version and fire off methods to obtain a list of currently running applications known to work on that particular version of Android.	1
+First, they use the built-in toolbox commands to determine what apps are running.	1
+The malware can execute a variety of arbitrary commands, including (for example) intercepting or sending text messages without the user’s knowledge, obtaining a copy of the victim’s Address Book, or call or text message logs, or sending phone network feature codes (also known as USSD codes).	1
+The malware also sends regular telemetry back to its C2 server about the infected device in the form of an HTTP POST to its C2 server.	1
+Red Alert 2.0: New Android banking trojan can block and log incoming calls from banks	1
+The most recent warning of Android malware relates to a new banking trojan called Red Alert 2.0 that has managed to infiltrate a number of third-party app stores using a variety of disguises including bogus WhatsApp and Viber apps as well as malicious Flash Player updates.	1
+When a potential victim opens one the targeted apps on their Android device, the malware overlays an appropriate dialog, enticing users to re-enter their login details.	1
+In this way, login credentials are stolen and passed to a remote server under the control of the hackers.	1
+Red Alert 2.0, which has been offered for sale on Russian-speaking hacking forums, is also capable of waltzing past two-factor authentication systems by intercepting SMS text messages that the smartphone receives and passing them onto hackers.	1
+Furthermore, according to researchers, Red Alert 2.0 continues to be updated with functionality recently added to block incoming calls from banks, including those which may be from financial fraud departments investigating potential malicious activity.	1
+Red Alert is capable of stealing tons of sensitive information from infected mobile devices including SMS messages, contact details, information about WiFi networks, call logs, and data about current or recently running tasks.	1
+It can also initiate a phone call without going through the Dialer user interface to confirm, block calls from banks and connect with bots via Twitter in case its command and control server (C&C) happens to go offline.	1
+“The malware sets itself up as a default telephony provider, mostly for intercepting SMS messages,” researchers said.	1
+This could be used for intercepting 2 factor authentication codes used by most services these days including online banking.”	1
+Once the malware has full access to the infected device, it can even wipe out all data from the device.	1
+Red Alert 2.0 Android Trojan Spreads Via Third Party App Stores	1
+Dubbed Red Alert 2.0 (Detected by Trend Micro as ANDROIDOS_BANKER) by its creators, this new malware tricks users into downloading it by hiding in third-party app stores as fake versions of legitimate applications such as WhatsApp, Viber, and updates for both Android and Flash Player.	1
+Once a user downloads one of these malicious apps into their devices and opens it, a popup overlay will appear prompting the user to enter their login credentials.	1
+The credentials are then sent to a Command and Control (C&C server) that the attackers control.	1
+Red Alert 2.0 will block incoming calls from banks, presumably to block verification attempts.	1
+The malware also intercepts SMS text messages, sending messages to the attackers for future use.	1
+It is also capable of stealing information from the infected devices, including SMS messages and contact details, can block calls from banks, and can also keep in touch with bots via Twitter in the event its command and control (C&C) server is taken online.	1
+When they detailed the threat in September last year, SfyLabs’ researchers said the malware included around 60 60 HTML overlays used to steal login credentials, but also revealed that the Trojan’s actor was constantly releasing updates for their malicious program.	1
+Red Alert 2.0 is also advertised as able to intercept and send SMS messages and launch APKs.	1
+As part of the analyzed Red Alert 2.0 attack, the malware was being distributed attached to spam messages.	1
+While analyzing the threat, the researchers discovered that it requests permissions to write, read, and receive SMS messages, make calls, and change network state, consistent with the advertised functionality.	1
+The Trojan also includes services such as a watchdog that ensures it is running, services that register the device bot and wait for commands from the command and control (C&C) server, one that ensures the device is connected to the C&C, one that ensures the malware runs at reboot, and a SMS interceptor.	1
+Another component is in charge of requesting permissions from the user and overlaying templates received from the C&C on top of legitimate apps.	1
+The malware also sets itself as the default telephony provider and requests device admin access (which allows it to completely wipe all data from the device).	1
+C&C communication is performed using HTTP POST requests to a specific URL.	1
+If the website is not available, the malware attempts to connect with the operator through a Twitter message.	1
+Anubis can completely hijack an Android mobile device, steal data, record phone calls, and even hold the device to ransom by encrypting the victim’s personal files.	1
+At first glance, the email shown in Figure 1 looks like any other phishing email that asks the user to download an invoice.	1
+However, this is not a genuine “Google Play Protect” screen; instead it gives the app all the permissions it needs while simultaneously disabling the actual Google Play Protect.	1
+A closer look at the code reveals the application gathers a list of installed applications to compare the results against a list of targeted applications (Figure 4).	1
+Once an application has been identified, Anubis overlays the original application with a fake login page to capture the user’s credentials.	1
+Capturing screenshots	1
+Enabling or changing administration settings	1
+Opening and visiting any URL	1
+Disabling Play Protect	1
+Recording audio	1
+Making phone calls	1
+Stealing the contact list	1
+Controlling the device via VNC	1
+Sending, receiving and deleting SMS	1
+Locking the device	1
+Encrypting files on the device and external drives	1
+Searching for files	1
+Retrieving the GPS location	1
+Capturing remote control commands from Twitter and Telegram	1
+Pushing overlays	1
+Reading the device ID	1
+The malware includes a keylogger that works in every app installed on the Android device.	1
+However, the keylogger needs to be specifically enabled by a command sent from the C2 server.	1
+The malware searches both internal and external storage and encrypts them using RC4.	1
+It adds the file extension .AnubisCrypt to each encrypted file and sends it to the C2.	1
+The Anubis banking Trojan is often found in social engineering and phishing campaigns, in which unwitting victims are lured to download malicious apps containing the malware.	1
+If a victim downloads and executes an Anubis app masquerading as a legitimate service, they are opening themselves up to the malware's wide variety of hijacking capabilities.	1
+Anubis is able to take screenshots, record audio, send, receive, and delete SMS messages, steal contact lists and account credentials, open URLs -- potentially to download additional payloads -- and is also able to disable Google Play Protect.	1
+In addition, the Trojan is able to plunder the deeper settings of a compromised device by enabling or tampering with device administration settings, to view running tasks, and to create a backdoor for remote control through virtual network computing (VNC).	1
+As the malware evolved, the developer also added a feature akin to ransomware; the ability to encrypt files stored on a mobile device and its SD card known as AnubisCrypt.	1
+Furthermore, Anubis is able to receive commands from social media platforms including Twitter and messaging apps such as Telegram.	1
+Once commands have been accepted, Anubis can hijack devices, steal data, and send information to command-and-control (C2) servers which have spread worldwide.	1
+The new variants are also able to detect if they are running on virtual machines (VMs), a common way for researchers to safely unpack and analyze malware.	1
+Recent variants of BianLian have a new screencast module which gives attackers the opportunity to monitor the screen of a compromised device and steal information, including usernames and passwords.	1
+Cybercriminals use these banking Trojans to facilitate financial fraud by stealing login credentials to banking apps, e-wallets and payment cards.	1
+Anubis Masquerades as Google Protect	1
+The BankBot Anubis malware then masquerades as an app called “Google Protect” and prompts the user to grant it accessibility rights.	1
+BankBot Anubis uses Android’s Accessibility services to perform keylogging as a way to obtain the infected user’s credentials when he or she accesses a targeted mobile banking app.	1
+In most Android banking Trojans, the malware launches a fake overlay screen when the user accesses a target app.	1
+The user then taps his or her account credentials into the fake overlay, which allows the malware to steal the data.	1
+By keylogging the user’s login information, the attacker can steal credentials from any app while avoiding the need to create custom overlays for each target.	1
+This malware is also able to take screen captures of the user’s screen, which it likely uses to steal credentials since the keyboard strokes are visible.	1
+AnubisSpy can steal messages (SMS), photos, videos, contacts, email accounts, calendar events, and browser histories (i.e., Chrome and Samsung Internet Browser).	1
+It can also take screenshots and record audio, including calls.	1
+It can spy on the victim through apps installed on the device, a list of which is in its configuration file that can be updated.	1
+After the data are collected, they are encrypted and sent to the (C&C) server.	1
+AnubisSpy can also self-destruct to cover its tracks.	1
+It can run commands and delete files on the device, as well as install and uninstall Android Application Packages (APKs).	1
+Sphinx reportedly uses the watering hole technique via social media sites to deliver its payloads — mainly a customized version of njRAT.	1
+The Sphinx campaign operators cloaked the malware with icons of legitimate applications to dupe recipients into clicking them.	1
+A simple WHOIS query of AnubisSpy’s C&C server showed it abused a legitimate managed hosting service provider in Belize.	1
+As banking malware, Anubis operates by tricking its victims into providing personal and sensitive information such as online banking credentials, banking security codes and even credit card details.	1
+Many victims do not realise that the malware application does not pretend to be the bank, it mostly hides as a third-party app and therefore remains under the radar of the average user.	1
+Razdel (2017) - a banking malware that primarily target Central European banks, introduced a novel trick to implement overlay attacks	1
+MysteryBot (2018) - another malware from the same actor that was behind “LokiBot”, introduced a novel keylogging approach and on-device fraud technique	1
+SMS blocking (hiding messages from the victim)	1
+SMS sending (capability to send messages from the infected device)	1
+SMS harvesting (possibility to send a copy of all message to the C2 server)	1
+Overlaying: Static (hardcoded in bot)	1
+Overlaying: Dynamic (C2 based)	1
+Screen streaming	1
+Sound recording	1
+SMS blocking	1
+SMS sending	1
+Files/pictures collection	1
+Ransomware: Cryptolocker	1
+Remote actions: Data-wiping	1
+Remote actions: Back-connect proxy	1
+For example, one added feature allows hackers to detect when the user is looking at the phone hence preventing them from performing any nefarious activities openly.	1
+Once the user downloads the Android banking trojan, the app monitors the device status to find the optimal time to execute attacks.	1
+The app can hijack two-factor authentication codes and hide the OTP SMS messages from the device user.	1
+In addition to stealing banking credentials, these permissions also allow the app to record audio, gain access to the contact list for spamming, send SMS messages, and make phone calls.	1
+The banking malware app also contains a ransomware component, called AnubisCrypt, able to encrypt files on both internal and SD storage.	1
+It can also receive commands from social media apps such as Twitter, which is the most common method of sending commands through shortened links.	1
+One recent addition to the banking malware web-based control panel is the eyeball icon.	1
+This functionality allows hackers to know when the device user is looking at the screen.	1
+On detecting user activity, the hackers can avoid performing malicious activity on the smartphone while under the prying eyes of the smartphone owner.	1
+The threat actors are also working on integrating Yandex maps into the banking malware to decipher the location of the infected phone.	1
+Like Anubis, EventBot is currently distributed through third-party rogue app stores and malicious URLs.	1
+Once downloaded, EventBot amasses a carte blanche of permissions, including starting at bootup and maintaining a persistent background process allowing the app to monitor the smartphone continuously.	1
+The trojan also prevents the phone from sleeping and ignores battery optimization settings.	1
+EventBot also obtains control of Android’s accessibility services to run a keylogger, receive notifications as well as retrieve the content of open windows.	1
+Once downloaded, the malware – a variant of banking trojan Anubis – steals the user’s personal data to rip them off, researchers at Lookout warned in a new report.	1
+“As a banking trojan malware, Anubis’ goal is to collect significant data about the victim from their mobile device for financial gain,” the Lookout report said.	1
+“This is done by intercepting SMSs, keylogging, file exfiltration, screen monitoring, GPS data collection and abuse of the device’s accessibility services.”	1
+Once downloaded on the device, the banking trojan makes a connection with the command-and-control (C2) server and downloads another application to initiate the SOCKS5 proxy.	1
+“This proxy allows the attacker to enforce authentication for clients communicating with their server and mask communications between the client and C2.	1
+A scam message then pops up asking the user to disable Google Play Protect, giving the attacker full control, the report said.	1
+Anubis Malware Upgrade Logs When Victims Look at Their Screens	1
+The Anubis malware, which threat actors use to persistently attack Google’s Android-based smartphones, is set to evolve once again, this time adding a feature that allows the malware to identify if a victim is looking at his or her screen.	1
+One key addition to the malware is a small eyeball icon included in the control panel that can be used to recognize whether a user of a device with Anubis installed is looking at the device or not.	1
+The idea is that an attacker won’t perform any nefarious activity on the device while the person is looking at it, he said.	1
+The threat actors behind Anubis also are developing a way to integrate Yandex maps into the malware to show the location of infected devices, according to the report.	1
+The most widespread campaign last seen using Anubis was in February, a new phishing campaign targeting more than 250 Android apps was aimed at using the trojan to steal user credentials, install a keylogger, and even hold a device’s data for ransom.	1
+Last year, researchers discovered two malicious apps, Currency Converter and BatterySaverMobo, that were infecting devices with Anubis to steal user credentials.	1
+Anubis is a mobile malware that affects Android smartphones and is spread using malicious apps listed on the legitimate Google Play store.	1
+In 2019, the malware introduced what seemed to be a nearly working ransomware component and spread using fraudulent apps on Google’s Play Store.	1
+When potential victims access apps for targeted platforms, Anubis malware will show bogus phishing login forms in order to steal their credentials.	1
+The overlay screen shown below will be displayed over the genuine app’s login screen to trick users into assuming it’s a valid login form when, in fact, the hackers are receiving their credentials.	1
+Records screen activity as well as audio from the microphone;	1
+Implements a SOCKS5 proxy for covert communication and package delivery;	1
+Captures screenshots;	1
+Sends mass text messages from the device to predefined receivers;	1
+Recovers contacts saved on the device;	1
+Sends, reads, deletes, and block notifications for SMS messages received by the device;	1
+Scans the device for files of interest to exfiltrate;	1
+Locks the device screen and shows a persistent ransom message;	1
+Submits USSD code requests to query bank balances;	1
+Captures GPS data and pedometer statistics;	1
+Implements a keylogger login information theft;	1
+Surveils active apps to imitate and execute overlay attacks;	1
+Stops malicious functionality and removes the virus from the device.	1
+The newest Anubis acts just like its previous variants meaning that it detects if the impacted device has Google Play Protected active and sends a bogus system warning to deceive the target into deactivating it.	1
+Following deactivation, the malware gains complete control of the device and is now able to send and receive data from the C2 without any interference.	1
+According to BleepingComputer, the fake Orange app is currently being distributed through malicious websites, direct messages on social media, smishing, and forum posts.	1
+As mentioned, mike.jar equips the spyware with extensive collection capabilities, including:	0
+But when the app is not free, some users will turn to sites that promise to hand out that same application, sans cost.	0
+It’s unclear when attackers will begin to circulate these apps in earnest but the researchers are urging Android users to remain vigilant and only use apps downloaded through official app stores.	0
+Recently, the ThreatLabZ research team came across a fake Netflix app, which turned out to be a new variant of SpyNote RAT (Remote Access Trojan).	0
+Although most actors reusing the original code changed the Trojan into something that suited their respective needs, all of them also kept the original features from the original shared code.	0
+011b6bcebd543d4eb227e840f04e188fb01f2335b0b81684b60e6b45388d3820	0
+Hash: b8a843bc06ee935059edf3637c717e2f2ef2f42698498df0dfe475bf944f1b08	0
+free-vpn.download 	0
+Finding new downloaders in the app store in connection with the BankBot Anubis malware could suggest that:	0
+Researchers discovered two apps, Currency Converter and BatterySaverMobo, used to spread Anubis.	0
+This piece of malware has a number of vicious backdoor features, which include the ability to:	0
+The APK (Android application package file) containing the remote access tool (RAT) SpyNote, gives an attacker complete access to a victim’s phone.	0
+In order to achieve this, mike.jar connects to rootdaemon through various TCP ports that the daemon binds on some extraction routines for supported applications:	0
+“You have received a multimedia message from +[country code] [sender number] Follow the link http://www.mmsforyou[.	0
+While such cybercrime services are rather popular with PC malware distributors, its rise in the mobile malware realm is an escalating risk factor users and organizations should be aware of.	0
+So when you are finished with the transaction, it will keep the tunnel open that has already passed the MFA requirements pop up a fake ‘transaction has ended jpeg’ for you to see.	0
+LESS-SOPHISTICATED EXODUS IOS VERSION ALSO DISCOVERED	0
+Our logs show a number of simultaneous Red Alert 2.0 campaigns in operation, many (but not all) hosted on dynamic DNS domains.	0
+Pornhub	0
+Users who have configured their Android mobile device to receive work-related emails and allow installation of unsigned applications face the most risk of compromise.	0
+India	0
+When we narrow this down to subregions we can see that the targets are in fact institutions active in Europe, West-Asia, North-America and Australia.	0
+Although there have been several different campaigns targeting different sets of applications, when considering the average Anubis sample, the number of targets is approximately 370 unique applications.	0
+Such cybercrime services are common in the fraud and malware black markets.	0
+Moreover, Device Administrator privilege should only be granted to, if any, trusted applications.	0
+Therefore, understand that although such malware is called banking malware its aim is to perform fraud and therefore targets more than only financial apps to achieve its goal.	0
+Use their full access to Android phones to basically manipulate the device to do whatever they want.	0
+In one case, the researchers fetched more than 1,000 new samples of BankBot Anubis from just one C&C server.	0
+Some however used the source code to build their own malware.	0
+Port 6210: SBrowser extraction service.	0
+Based on the application types provided by Google, we can see based on the targeted applications that although the Anubis Trojan is a banker and therefore mainly targets “Finance” apps, it also has interest in other types of apps.	0
+Exodus Two	0
+An in-depth technical analysis of AnubisSpy, along with indicators of compromise, is in this technical brief.	0
+The sophisticated malware originally was used for cyber-espionage and later repurposed as a banking trojan.	0
+b46f282f9a1bce3798faee3212e28924730a657eb93cda3824c449868b6ee2e7	0
+With the Android platform, you can install applications in the normal fashion (i.e., by finding them on the Google Play Store and tapping Install), or you can download the APK file (a file ending with .apk) and install it by tapping that file from within a file manager on your Android device.	0
+185.165.28.15:7878	0
+AnubisSpy has several modules, each of which has a separate role.	0
+He also frequently reviewed each new Android banking Trojan available for renting.	0
+Update Google Market	0
+While some of these acquisition are performed purely through code in mike.jar, some others that require access to, for example, SQLite databases or other files in the application's storage are performed through rootdaemon instead, which should be running with root privileges.	0
+Anubis malware has been active since late 2017.	0
+These include:	0
+The researchers at Unit 42 found an Android Remote Access Tool (RAT) called SpyNote.	0
+Security researchers discover iOS version of Exodus Android spyware	0
+The payload from a victim to the C2 server is always GZIP DEFLATE-compressed and, thus, starts with 0x1f8b08 bytes.	0
+Anubis, one of the most potent banking malware, has received additional features that will give hackers more control over infected devices.	0
+Spain	0
+The malware was heavily enhanced compared to its original version, adding modern overlaying techniques, device screen recording and streaming, a network proxy feature, keylogging and the ability to steal files from the infected device.	0
+For more detailed information about the threat, check out the blog post from CSIS.	0
+Hotstar	0
+That is when trouble occurs.	0
+In order to execute commands on the infected devices, as well as to provide a reverse shell to the Command & Control operators, Exodus Two immediately attempts to execute a payload it downloads with the name null.	0
+Miscreants can rent the Trojan starting at $200 for 7 days, $500 for a month, or $999 for 2 months.	0
+When the email link is opened from an Android device, an APK file (Fattura002873.apk), is downloaded.	0
+In short, your Android phone gets infected by Red Alert 2.0 banking malware, hackers start to plunder your account to make unauthorised purchases or money transfers, and your bank can’t get hold of you if they suspect something suspicious is occurring.	0
+If the mobile operator doesn't enforce proper client isolation, it is possible that the infected devices are also exposed to the rest of the cellular network.	0
+If you can’t find the app you’re looking for on the Google Play Store, then you should consider that app doesn’t exist.	0
+But the categories targeted by this group seem to be broadening with the inclusion of VPN software.	0
+The developer behind Red Alert 2.0 also claims the Trojan can target multiple payment systems, retail applications and social media apps such as PayPal, Airbnb, Amazon, eBay, WhatsApp, Viber, Skype, Uber and more.	0
+In 2016, the operations of another popular Android banking malware named Marcher were disrupted in a similar way to what happened to Anubis.	0
+Threat actors are cooking up new features for the sophisticated banking trojan that targets Google Android apps and devices.	0
+The attacker behind the development of Anubis has been active for at least 12 years, and in order to stay current, has retooled the malware for use in fresh attack waves, Trend Micro researchers said on Monday.	0
+What can AnubisSpy do?	0
+Taiwan	0
+While Google did not share with us the total number of infected devices, they confirmed that one of these malicious apps collected over 350 installations through the Play Store, while other variants collected few dozens each, and that all infections were located in Italy.	0
+Even now it sometimes happens that some new Marcher-based Trojans appear on the threat-landscape.	0
+Some of them resold the sources and some of them used them as a base for their own banking malware; therefore, although operations were disrupted the Trojan remained active for a while and new malware families emerged.	0
+Although the creator has vanished the threat is still real; the malware will continue to operate and provide its advanced features to ill-intentioned actors.	0
+Furthermore, we found that in just the first two weeks of 2017, there have been more than 120 such spyware variants already built using the same SpyNote Trojan builder as SpyNote RAT and roaming in the wild.	0
+As can be seen in following chart, it is clear that there is a strong interest in institutions providing services in Europe, Asia and the Americas:	0
+And it’s not just customers of big banks at risk, the researchers added: Virtual payment platforms and crypto wallets are also being targeted.	0
+Distribution	0
+browsing cookies,	0
+Until now, Mazar BOT has been advertised for sale on several websites on the Dark Web, but this is the first time we’ve seen this code be abused in active attacks.	0
+SkyTV	0
+Android malware like ransomware exemplify how the platform can be lucrative for cybercriminals.	0
+In English, the text message reads:	0
+Command execution can create havoc for victim if the malware developer decides to execute commands in the victim’s device.	0
+ad1.fbsba[.	0
+Stage 2: Exodus Two	0
+Japan	0
+The service is responsible for processing commands received from the C2 server and is also the class where most of the code resides.	0
+While the distribution channel for the application sample remains unknown, it was surely never available on the official Google Play Store.	0
+LokiBot (2017) - the actor behind this malware adapted the original code and introduced the ransomware and proxy capabilities	0
+06081ab7faa729e33b9397a0e47548e75cbec3d43c50e6368e81d737552150a5	0
+Updates were also made to Google Play Protect to take appropriate action against those apps that have been verified as in violation of Google Play policy.	0
+This is further corroborated by some older and unobfuscated samples from 2016, whose primary classes are named CheckValidTarget.	0
+Command execution	0
+It is worth noticing that this remote reverse shell does not employ any transport cryptography.	0
+The malware mainly targets banking and financial applications, but also looks for popular shopping apps such as eBay or Amazon.	0
+Therefore the statement “only download apps from the official app store” is not enough to remain safe from malware.	0
+You might think you’re installing Pokemon Go, but what you’re really installing is a version of that particular app with baked-in malicious code.	0
+The threat actors also lure users into downloading the infected apps through phishing campaigns after stealing contact information from infected devices.	0
+db59407f72666526fca23d31e3b4c5df86f25eff178e17221219216c6975c63f	0
+We correlated the AnubisSpy variants to Sphinx’s desktop/PC-targeting malware through the following:	0
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	0
+At the time, there was no indication any real-life malware campaigns were actively distributing MazarBOT.	0
+Stage two consisted of multiple binary packages that implemented the bulk of the advanced surveillance capabilities.	0
+audio	0
+Our team has identified the malicious APK to be the Mazar Android BOT, a threat also that Recorded Future spotted in November 2015.	0
+This is what the operators controlling the device see:	0
+Users are advised to avoid third party-app stores, as the lack of security regulations could expose them to malware.	0
+Port 6209: Telegram extraction service.	0
+By publishing the aforementioned article, maza-in earned himself a reputation of Android expert on underground forums.	0
+The fake Netflix app we are analyzing in this blog appears to be built using an updated version of SpyNote RAT builder, which was leaked last year.	0
+it.offertetelefonicheperte	0
+It’s not clear how many iPhones were infected by the iOS apps.	0
+The Most Potent Banking Malware Receives Updates Allowing Hackers More Control Over Infected Devices	0
+The analysis conducted by the experts suggests that the threat actor obtained SpyNote’s source code and made some minor changes to its code before reselling it online.	0
+5c4d666cef84abc2a1ffd3b1060ef28fa3c6c3bb4fad1fa26db99350b41bea4c	0
+a42a05bf9b412cd84ea92b166d790e8e72f1d01764f93b05ace62237fbabe40e	0
+And, of course, remember to always be wary of unsolicited, unusual text messages and installing apps from third-party sources on your Android smartphone.	0
+In general, a downloader app is more likely to survive security checks and recurring scans, and once it lands on a user’s device, it can fetch the intended malware app.	0
+185.126.200.12:7878	0
+The malware is a new twist on the SpyNote RAT, a Trojan first uncovered on the dark web last summer by Palo Alto Networks.	0
+The team recently reported that downloader apps in the store are being used as the first step in an infection routine that fetches the Marcher (aka Marcher ExoBot) and BankBot Anubis mobile banking Trojans.	0
+Exodus consisted of three distinct stages.	0
+com.phonecarrier.linecheck	0
+Over time, we’ve seen the code evolve.	0
+Tactic FlashLight or PROFlashLight	0
+Lookout researchers have recently discovered a surveillance campaign targeting Syrian citizens and it is believed that the actor behind the attack was state-sponsored.	0
+Anubis Android banking malware returns with extensive financial app hit list	0
+To circumvent ever-evolving app store defenses, mobile malware distributors rely on a strategy from the PC malware realms: Instead of uploading the actual malware to the store, which can result in sampling and detection at a very early stage in the distribution chain, they upload a downloader that may seem rather innocuous compared to actual malware.	0
+Bauer said that compared to the Android version, which had been under development for at least five years, the iOS variant was far less sophisticated, suggesting it was a newer project.	0
+This is a common trick played by malware developers, making the user think the app may have been removed.	0
+Austria	0
+Official App Stores: A Fraudster’s Holy Grail	0
+185.243.243.241:7878	0
+Once retrieved and decrypted, the APK is saved as ‘FR.apk’ in ‘/data/data/fr.orange.serviceapp/app_apk,'” the researchers wrote.	0
+Turkey	0
+Hash: db766146be531b813aecac731387dd38d710327b60a653a40b9fb28f22bf69eb	0
+For the purpose of this report we analyze here the Exodus One sample with hash 8453ce501fee1ca8a321f16b09969c517f92a24b058ac5b54549eabd58bf1884 which communicated with the Command & Control server at 54.71.249.137.	0
+A given malware distributor/cybercrime faction has shifted from using Marcher to distributing BankBot Anubis; or	0
+It can also be seen on the footage that the tool embedded in SpyNote's C2 can be used to generate APKs.	0
+Although being a generic name for banking malware, “BankBot” became the name attributed to all Trojans derived from the shared source code.	0
+Luxembourg	0
+His post gets removed by the admin quite quickly.	0
+OmniRat was detected in 2015 targeting MAC, Windows or Andriod operating system while DroidJack RAT was found also found in fake Pokémon Go apps on Android store.	0
+ws.my-local-weather[.	0
+Receiver was involved in receiving commands from the Server and the  main functionality of Sender was to send all the data collected to the C&C over Wi-Fi.	0
+ExoBot	0
+“Also, Google Play Protect was detecting this threat, so in order to get the malware installed on Android we also had to disable Play Protect.	0
+Additionally, during a period of several days, our infected test device was never remotely disinfected by the operators.	0
+Application discovery is achieved by using the PackageManager class:	0
+The new control panel will add features that provide even more insight so attackers can fully take advantage of a device, Alex Holden, founder and chief information security officer of Hold Security, told Bank Info Security.	0
+The author also claims new functionality is being developed, that injects can be built per customer request, and that updates are being released every two weeks.	0
+A sample Android application was chosen for analysis from a pool of 71 malicious ones reported by Lookout’s research.	0
+Security researchers have discovered the iOS counterpart of a dangerous Android spyware strain that was seen earlier this year on the official Google Play Store.	0
+It won’t be a surprise given mobile platform’s increasing ubiquity, especially in workplaces.	0
+It could lead to the distribution of company secrets and, in the end, your dismissal.	0
+Check out the video created by Unit 42 that illustrates the capabilities of SpyNote.	0
+Belarus	0
+The IP address and port are chosen during the APK building process:	0
+However, this particular email downloads an Android Package Kit (APK), which is the common format used by Android to distribute and install applications.	0
+What you can do	0
+The new feature is one of several that haven’t been released in the wild yet but are a part of an updated control panel for the malware that’s currently in development, researchers from security consulting firm Hold Security discovered, according to a report published online.	0
+In 2016, the eSurv software and brand was sold from Connexxa to eSurv S.R.L.	0
+Screen capture and audio recording 	0
+“While we can’t be certain whether the app has been used in a successful attack, we do know they are targeting U.S. banks including Bank of America, U.S. Bank, Capital One, Chase, SunTrust and Wells Fargo,” Balaam said.	0
+Domains	0
+Attackers may be testing this new type of Android malware to see how they can improve their tactics and reach their final goals, which probably is making more money (as always).	0
+Similar targets (highly concentrated in Middle Eastern countries)	0
+However, this new addition is just a convenience feature because the banking malware operators can detect the location of the infected device by using other means such as the mobile network connected the device is connected to.	0
+In February, news broke of a malware campaign infecting users with MazarBOT.	0
+RECEIVE_BOOT_COMPLETED	0
+Static analysis of the code reveals that the malware downloads the overlay template to use against any of the bank(s) it is targeting.	0
+The fake doesn’t quite nail the app name.	0
+And it gets worse.	0
+They found MazarBOT for sale on an underground web market.	0
+Georgia	0
+Researchers say this is just the beginning.	0
+Researchers with Proofpoint observed one version rigged with a RAT dubbed DroidJack.	0
+location	0
+In total, 17,490 new samples of the malware have been found on two related servers by Trend Micro.	0
+Take for instance several malicious apps we came across with cyberespionage capabilities, which were targeting Arabic-speaking users or Middle Eastern countries.	0
+13ec6cec511297ac3137cf7d6e4a7c4f5dd2b24478a06262a44f13a3d61070b6	0
+First identified in 2016, Anubis is widely available on underground forums as open-source code along with instructions for aspiring banking trojan cybercriminals, the report explained.	0
+Actors having access to relevant resources continue using Anubis in it’s actual state	0
+Security researchers have discovered the Red Alert 2.0 Android Trojan that first came to light last year is being advertised on underground sites for anyone to rent.	0
+Anubis is one of the most widespread malwares plaguing these apps and devices, mainly targeting financial and banking apps available for the platform.	0
+Most of the network traffic we’ve observed is HTTP.	0
+Of the various binaries downloaded, the most interesting are null, which serves as a local and reverse shell, and rootdaemon, which takes care of privilege escalation and data acquisition.	0
+Actors having access to relevant resources will start to modify and improve the existing code base to create their own malware	0
+The Most Recent Operations Affects Roughly 400 Targets.	0
+The Zip archive returned by the check-in performed by Exodus One is a collection of files including the primary payload mike.jar and several compiled utilities that serve different functions.	0
+In a blog post expected to be published Monday, researchers from mobile security provider said their analysis of Exodus led to the discovery of servers that, in addition to Exodux, hosted an iOS version of the malware.	0
+Trump Dash	0
+The campaign seeks to deliver Anubis, a particularly nasty piece of malware that was originally used for cyber espionage and retooled as a banking trojan.	0
+Because they were cautious enough to conceal their C2 infrastructure registration trace, there is no clear information on the cybercriminals who are now delivering the Anubis malware.	0
+Security researchers from Trustwave who identified the malware said in a report, “Out of 59 anti-virus products, only 25 of them flagged the application.”	0
+On February 25 2019 some complaints from Anubis customers appear in underground forums stating that maza-in and Anubis support no longer reply to messages.	0
+This is especially true when the device you use holds sensitive company information.	0
+Build date: Mar 18 2019 App name: YouTube Package name: com.dtimrfrfmlek.umvkez	0
+By removing all the key instances (**pE2**) from the string, we produced the same string from the January sample:	0
+Beyond its effects, AnubisSpy also highlights the significance of proactively securing mobile devices, particularly if they’re on BYOD programs and used to access sensitive data.	0
+Insidious mobile malware with crippling options	0
+assistenza.linea.riattiva	0
+These were published on Google Play — but have since been taken down — and third-party app marketplaces.	0
+Hong Kong	0
+On March 04 2019, the admin of one underground forum states maza-in got arrested.	0
+Android malware, especially those capable of leveraging SMS texts as a distribution vector, are a persistent threat to mobile users’ security.	0
+Following screenshot shows this functionality in action:	0
+All of the victims are located in Italy.	0
+operatore.italia	0
+According to Google, whom we have contacted to alert about our discoveries, nearly 25 variants of this spyware were uploaded on Google Play Store.	0
+“A list of phone numbers to be intercepted can be controlled by the C&C server.	0
+Malware source Web hosts on 167.99.176.61:	0
+The one that was found had zero detections by antivirus engines.	0
+The malware infects users’ mobile devices by tricking them to download Anubis apps disguised as other popular applications, such as a game.	0
+Red Alert 2.0: Android Trojan targets security-seekers	0
+Activities are key building blocks, central to an app’s navigation, for example.	0
+Oman	0
+The apps masqueraded as mobile carrier assistance apps that instructed users to “keep the app installed on your device and stay under Wi-Fi coverage to be contacted by one of our operators.”	0
+In order for the RAT to work, the infected device has to be connected to WiFi.	0
+Both the Google Play Store pages and the decoys of the malicious apps are in Italian.	0
+As researchers from SfyLabs detail, RedAlert 2.0 targets over 60 Android banking and social apps.	0
+"Researchers believe the malware is so-called ""lawful intercept"" software sold to law-enforcement and governments."	0
+They differ in type and visual style — from online shopping to financial services and even an automotive app — and are designed to look legitimate and enticing to users.	0
+Later, a review by maza-in almost became a de facto step to start rental of Android banking malware, as users of forums were asking for the review before they would buy/rent a new Trojan.	0
+We construe AnubisSpy to be linked to the cyberespionage campaign Sphinx (APT-C-15) based on shared file structures and command-and-control (C&C) server as well as targets.	0
+At that point, it will contact the C2 server and act as a proxy gateway allowing the attacker to access your financial information.”	0
+We have collected numerous samples spanning from 2016 to early 2019.	0
+SpyNote RAT was designed to function only over Wi-Fi, which is the preferable mode for Android malware to send files to C&C.	0
+In the current campaign, according to X-Force researchers, the downloader apps target Turkish-speaking users.	0
+We couldn't complete the reverse-engineering of some of the commands due to some issues, including no traffic observed, heavily obfuscated code, but also extremely buggy malware that crashed several times when we sent it a command,” the researchers note.	0
+However, if you are into downloading apps from a third party website just stop, download apps from Google Play Store and keep your Android devices updated to the latest OS version.	0
+Only choose apps on Google Play	0
+The Apple-issued digital certificate used to distribute the malicious iOS apps was associated with an Italy-based company called Connexxa S.R.L.	0
+c228a534535b22a316a97908595a2d793d0fecabadc32846c6d1bfb08ca9a658	0
+The new trojan, known as EventBot, targets over 200 apps such as PayPal Business, banking apps belonging to financial institutions such as Revolut and Barclays, and other financial apps such as TransferWise and CoinBase among others.	0
+During March 2019, actor Aldesa (who shares a connection with maza-in) creates a post to sell the so-called “Anubis 3” malware on an underground forum.	0
+The missing iOS link discovered	0
+AirDroid	0
+Within the Google Play Store, there are over two million apps.	0
+A Connexxa engineer who appears to own equity in the company also digitally signed some versions of Exodus.	0
+But there are also other threats stirring up as of late: attacks that spy on and steal data from specific targets, crossing over between desktops and mobile devices.	0
+MobiHok is written in Visual Basic .NET and Android Studio, it allows to fully control the infected device.	0
+Build date: Mar 19 2019 App name: FlashPlayer Package name: com.qfoqzju.yrcapztuywyu	0
+Heimdal explains in a blog post that the campaign begins with the following SMS message:	0
+Here is a video presentation demonstrating how SpyNote RAT works:	0
+Through this blog post ThreatFabric experts revisit major stages of Anubis’ evolution and explain what changes can be expected on the threat landscape.	0
+This results in many different campaigns with different objectives.	0
+]com.”	0
+Other samples communicated with other servers listed at the bottom of this report.	0
+Open a backdoor into Android smartphones, to monitor and control them as they please;	0
+Below is a visualization of the modules:	0
+Exodus: New Android Spyware Made in Italy	0
+Infostealer, Keylogger, and Ransomware in One: Anubis Targets More than 250 Android Applications	0
+SpyNote RAT uses an unusual trick to make sure that it remains up and running and that the spying does not stop.	0
+According to publicly available statistics, as well as confirmation from Google, most of these apps collected a few dozens installations each, with one case reaching over 350.	0
+Android applications, including malware, can listen for the BOOT_COMPLETED broadcast event to ensure the application will be activated upon device start up, and this is the technique that SpyNote utilizes to achieve its persistence mechanism.	0
+Port 6211: Calendar extraction service.	0
+These features are staples of PC banking malware and are evolving in Android malware as well.	0
+The malware was rented privately to a limited number of “customers”; criminals willing to use such malware to perform fraud.	0
+Not only does this piece of malware have considerable features, but it is also highly customizable to evade detection and deceive victims into downloading, installing, and providing full access to their devices.	0
+“The coolest feature, though, is that once you connect to your bank, complete your MFA and finish your bank business, it will activate.	0
+Each sample has a different MD5 signature, few of which were documented by any antivirus engine when tested against VirusTotal.	0
+They, therefore, abstain from executing attacks on the infected device.	0
+- There were two interesting sub-classes found inside Main Activity: Receiver and Sender.	0
+In July 2016, experts from Palo Alto Networks a RAT offered for free called Spynote, much like OmniRat and DroidJack, today the malware can be purchased from a website on the surface web, or downloaded for free from a forum.	0
+However, step outside of the secure confines of that heavily-vetted location and there’s no guarantee that app you’re about to install wasn’t compiled by the SpyNote builder.	0
+A malicious, counterfeit version of a VPN client for mobile devices targets security-minded victims with a RAT.	0
+Apple eventually revoked these certificates.	0
+No app is worth that.	0
+This campaign uses spam SMS messages to distribute a form of Android malware known as MazarBOT.	0
+So far, legitimate app stores appear to be this malware’s Achilles heel; disabling the installation of third-party apps has been an effective prevention measure.	0
+Web in Jan 2017 and was dubbed “Android.BankBot.149.origin”.	0
+While details would vary, all of the identified copies of this spyware shared a similar disguise.	0
+Anubis reappeared last year with large-scale phishing attacks that targeted 250 shopping and financial applications.	0
+After some time he started to privately rent it.	0
+Malware authors in the past have often coded a “safety net” into their malware to prevent them from accidentally infecting their own computers and devices.	0
+Droidjack made news earlier this month when researchers at Proofpoint found a rigged version of the massively popular game Pokémon Go with the Trojan.	0
+It’s also possible that while AnubisSpy’s operators may also be Sphinx’s, they could be running separate but similar campaigns.	0
+Ladies and gents, introducing SpyNote	0
+We believe this spyware platform is developed by an Italian company called eSurv, which primarily operates in the business of video surveillance.	0
+BankBot Anubis streamlines this process.	0
+No versions of the malicious apps carrying the malware have been detected on the official Google Play Store as of the time of publication.	0
+Exodus was hidden inside apps available on phishing websites and nearly 25 apps available in Google Play.	0
+In the Appendix you can find a full list of apps targeted by Anubis (437 applications in total).	0
+Connexxa’s appearance in the Apple-issued digital certificate, its role in the server infrastructure used by both Exodus and the iOS apps, and servers that hosted both Exodus and the iOS apps give researchers a high degree of confidence that both malware packages are the work of the same developers.	0
+You won’t find SpyNote-infected apps on the Google Play Store.	0
+The list of these original features is very limited compared to recent banking Trojans but enough to steal personal information from the victims:	0
+With that in mind, Heimdal recommends that users adhere to the following security guidelines:	0
+This is not the first time that malware is being spread via third party app stores, as seen in last year’s Fobus attack involving Super Mario Run.	0
+This is all done via an easy-to-use application hosted on a command and control server.	0
+Most infection occurs when Android users download dodgy apps from third-party stores where security is lax.	0
+Marcher	0
+]com on port 22011.	0
+They entail a proven ability to infiltrate Google Play and plant malicious downloaders under the guise of benign-looking apps.	0
+Information from forums shows that at the same time he shared the code of the Trojan in the tutorial article, he was developing a “full” version of the Trojan privately.	0
+Figure 6 shows one of the most noteworthy functions of Anubis: its ransomware module.	0
+]fhsinsaat.com/apk/post.apk, a URL which downloads the infected Android installation application file for MazarBOT.	0
+The encrypted body is composed of various identifiers which are joined together:	0
+The following screenshot shows the contacts being stolen and written in a local array, which is  then sent to C&C:	0
+Apps designed to mimic Instagram, WhatsApp, Facebook, Super Mario Run, and Pokemon Go are all making the rounds in the hacking community.	0
+With different botnets and configurations, BankBot Anubis itself also targets users in the following countries:	0
+As always, you would be wise to be cautious of what apps you install on your Android device – particularly if they are sourced from unofficial app marketplaces.	0
+The researchers also found SpyNote’s sample scanned on VirusTotal.	0
+Build date: Mar 18 2019 App name: Flash_Player_2019 Package name: com.ewsazh.txmypalqtgn	0
+Currently, this particular MazarBOT campaign is believed to have affected 400 Android devices in Denmark and 1,500 in Italy.	0
+Lookout researchers reported their findings to Apple, and the company revoked the enterprise certificate.	0
+According to X-Force’s analysis, these changes suggest that the downloader app is being maintained on an ongoing basis — another sign that it is a commodity offered to cybercriminals or a specific group that’s focused on defrauding Turkish mobile banking users.	0
+With many more to come.	0
+Canada	0
+SEE: Securing Your Mobile Enterprise (ZDNet/TechRepublic special feature)	0
+Anubis samples	0
+8453ce501fee1ca8a321f16b09969c517f92a24b058ac5b54549eabd58bf1884	0
+Enforcing the principle of least privilege and implementing an app reputation system are just some of the best practices that can help mitigate threats.	0
+X-Force researchers suspect that the cybercrime services spreading mobile Trojans have mastered it as a malware campaign channel and may be monetizing it.	0
+Within some of the first of those commands, the bot typically receives a list of banks it will target.	0
+The first malware based on the code from this article was spotted by Dr.	0
+Once fully installed, Exodus was able to carry out an extensive amount of surveillance, including:	0
+What does AnubisSpy mean to the mobile landscape?	0
+Avoid the use of public or open Wi-Fi hotspots.	0
+Many times those applications found on less-than-reputable sites can even seem like the same versions of legitimate apps.	0
+Cybercriminals have discovered a lucrative target in the Android mobile banking and shopping industry.	0
+mike.jar implements most of the data collection and exfiltration capabilities of this spyware.	0
+Investigation of this domain led to additional domains that appear to have been registered for use with the campaign, but are not in use yet.	0
+Sphinx was active between June 2014 and November 2015, but timestamps of the malware indicate the attacks started as early as 2011.	0
+Build date: Mar 18 2019 App name: FlashPlayer Package name: com.smijezbmbslg.dsznlnztlydj	0
+On February 14 2019 for the first time an Anubis sample seen targeting Russian banks only is spotted (indicating a new campaign / new operator).	0
+As visible in following chart, the application types in second and third position of interest are “Shopping” and “Business” apps, which can be explained by the fact that is shouldn’t look suspicious to the victim when such applications are requesting update of payment details or other sensitive information.	0
+Another feature allows the banking malware to detect whether the device is in motion by tapping into the motion sensor.	0
+3c9f08b3280851f54414dfa5a57f40d3b7be7b73736fa0ba21b078e75ce54d33	0
+Red Alert 2.0 Android Trojan spotted for rent at $500 per month	0
+A spate of new attacks targeting the Android operating system have been discovered using a banking trojan named after a video game.	0
+A second stage was installed almost immediately after the researchers’ test phone was infected with the first stage and also reported to a control server.	0
+33a9da16d096426c82f150e39fc4f9172677885cfeaedcff10c86414e88be802	0
+Backdoor Commands	0
+These apps were all written in Arabic and, in one way or another, related to something in Egypt (i.e., spoofing an Egypt-based TV program and using news/stories in the Middle East) regardless of the labels and objects in the apps.	0

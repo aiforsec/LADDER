@@ -1,121 +1,569 @@
 text	label
-The control of the RP re-encounter probability finds a direct application to improve the performance of chemical devices.	1
-Here, we show how a simple-to-implement control scheme highly enhances the sensitivity of a model chemical magnetometer by up to two orders of magnitude.	1
-The basic idea behind a chemical magnetometer is that, since a change in the magnetic field modifies the amount of singlet products, one can reverse the reasoning and measure the chemical yield to estimate B.	1
-Intuitively, the magnetic sensitivity is high when a small change in the magnetic field intensity produces large effects on the singlet yield.	1
-Formally, it is defined as:(2)Λs(B)≡∂Φs(B)∂B=∫0∞pre(t)gs(B,t)dt,with gs(B,t)≡∂fs(B,t)∂B being the instantaneous magnetic sensitivity.	1
-The functional form of fs(B,t)=Sρel(t)S strongly depends on the specific realization of the radical pair, in particular on the number of the surrounding nuclear spins.	1
-Here, we consider a radical pair in which the first electron spin is devoid of hyperfine interactions, while the second electron spin interacts isotropically with one spin-1 nucleus, e.g.	1
-nitrogen.	1
-In the context of the chemical compass (i.e.	1
-when the task is determining the magnetic field direction through anisotropic hyperfine interactions), an analogous configuration (with only one spin-1/2 nucleus) has been proposed [3], and numerically characterized [8], as being optimal: Additional nuclear spins would perturb the intuitive ‘reference and probe’ picture.	1
-The Hamiltonian then simplifies to H=-γeB(S1(z)+S2(z))+|γe|αS→2·I→, where α is the isotropic hyperfine coupling.	1
-Half metallic ferromagnets (HMF) have attracted enormous interest due to their applications in spintronic devices [1].	1
-Dilute magnetic semiconductors (DMSs) are considered to be the best materials to show half metallicity.	1
-These materials have two components, one being a semiconducting material with diamagnetic properties while the other is a magnetic dopant such as transition metal having un-paired d electrons [2].	1
-The major advantage of these materials is utilization of electron's spin as information carrier since advanced functionalities in spintronic devices can be viable by the use of spin degree of freedom along with the charge of electrons [3].	1
-The major issue regarding the applicability of these materials is to enhance the Curie temperature above room temperature.	1
-That's why the research interest shifted towards large band gap materials.	1
-A lot of work has been reported on DMSs with different II–VI and III–V semiconductors as host material such as, ZnS, CdS, GaN, ZnO, ZnSe, ZnTe, TiO2, SnO2 [4–12].	1
-It has been known [9,14,18,22] that the fragmentation processes in polyatomic molecules induced by an intense ultrafast laser field can sometimes exhibit sensitive dependence on the instantaneous phase characteristics of the laser field.	1
-Depending on the change in sign the chirped laser pulses, fragmentation could be either enhanced or suppressed [14,18,22].	1
-Controlling the outcome of such laser induced molecular fragmentation with chirped femtosecond laser pulses has brought forth a number of experimental and theoretical effects in the recent years.	1
-However, efforts are continuing for a specific fragment channel enhancement, which is difficult since it also is a function of the molecular system under study [20,22–24].	1
-Here we report the observation of a coherently enhanced fragmentation pathway of n-propyl benzene, which seems to have such specific fragmentation channel available.	1
-We found that for n-propyl benzene, the relative yield of C3H3+ is extremely sensitive to the phase of the laser pulse as compared to any of the other possible channels.	1
-In fact, there is almost an order of magnitude enhancement in the yield of C3H3+ when negatively chirped pulses are used, while there is no effect with the positive chirp.	1
-Moreover, the relative yield of all the other heavier fragment ions resulting from interaction of the strong field with the molecule is not sensitive to the sign of the chirp, within the noise level.	1
-The dynamics of various physical phenomena, such as the movement of pendulums, planets, or water waves can be described in a variational framework.	1
-The development of variational principles for classical mechanics traces back to Euler, Lagrange, and Hamilton; an overview of this history can be found in [1,19].	1
-This approach allows to express all the dynamics of a system in a single functional – the Lagrangian – which is an action integral.	1
-Hamiltonian mechanics is a reformulation of Lagrangian mechanics which provides a convenient framework to study the symmetry properties of a system.	1
-This is expressed by Noether's theorem which establishes the direct connection between the symmetry properties of Hamiltonian systems and conservation laws.	1
-When one approximates the system numerically, it is advantageous to preserve the Hamiltonian structure also at the discrete level.	1
-Given that Hamiltonian systems are abundant in nature, their numerical approximation is therefore a topic of significant relevance.	1
-The formulation in Table 1 was derived by an empirical approach and led to a non-classical glass matrix.	1
-[4] took a more systematic approach to such glass-ceramic wasteforms.	1
-These wasteforms were targeted at Hanford K-basin sludges and the immobilisation of the primary waste stream from production of molybdenum-99 at the Australian Nuclear Science and Technology Organisation site in Sydney respectively.	1
-the intended crystalline phase was the closely related titanate pyrochlore, CaUTi2O7.	1
-The glass matrix was formulated such that the trivalent species in the glass network, boron and aluminium, were charge compensated on a molar basis by sodium.	1
-The stoichiometric composition of the glass in this wasteform was Na2AlBSi6O16.	1
-This glass provides a method by which the glass composition can be varied systematically.	1
-Given that the initial observations inferred an important role played by alumina, it was decided to prepare a suite of zirconolite glass-ceramics in which the glass matrix was defined by Na2Al1+xB1–xSi6O16 to investigate the role played by glass composition in controlling crystalline phase stability.	1
-The x=1 end member gives the mineral albite, NaAlSi3O8.	1
-The melting point of albite is 1120°C [5] and the composition cools to a glass at the cooling rates that occur during a HIP cycle.	1
-From the available phase diagrams, [6] no boron analogue for albite was shown, and the liquidus estimated from the relevant phase diagram is 1100–1200°C.	1
-No phase diagrams for the quaternary system Na2O–Al2O3–B2O3–SiO2 could be found.	1
-The Statistical Associating Fluid Theory (SAFT) is a well-developed perturbation theory used to describe quantitatively the volumetric properties of fluids.	1
-The fundamental difference between the versions is in the underlying intermolecular potential employed to describe the unbounded constituent particles.	1
-Hard spheres, square well fluids, LJ fluids, argon, alkanes have all been employed as reference fluids in the different incarnations of SAFT.	1
-For the purpose of this work we will center on a particular version of the SAFT EoS, i.e.	1
-the SAFT-VR Mie recently proposed by Laffitte et al.	1
-[54] and expanded into a group contribution approach, SAFT-γ, by Papaioannou et al.	1
-This particular version of SAFT provides a closed form EoS that describes the macroscopical properties of the Mie potential [56], also known as the (m,n) potential; a generalized form of the LJ potential (albeit predating it by decades).	1
-The Mie potential has the form(1)ϕ(r)=Cεσrλr−σrλawhere C is an analytical function of the repulsive and attractive exponents, λa and λr, respectively, σ is a parameter that defines the length scale and is loosely related to the average diameter of a Mie bead; ɛ defines the energy scale and corresponds to the minimum potential energy between two isolated beads; expressed here as a ratio to the Boltzmann constant, kB.	1
-The Mie function, as written above, deceivingly suggests that four parameters are needed to characterize the behaviour of an isotropic molecule, however the exponents λa and λr are intimately related, and for fluid phase equilibria, one needs not consider them as independent parameters [57].	1
-Accordingly, we choose herein to fix the attractive exponent to λa=6 which would be expected to be representative of the dispersion scaling of most simple fluids and refer from here on to the repulsive parameter as λ=λr.	1
-In addition, the prediction of solar cell’s temperature is very important for the electrical characterisation of CPV modules.	1
-(2014) reviewed various methods for the calculation of the cell temperature in High Concentrator PV (HCPV) modules.	1
-The first two categories are based on direct measurements of CPV modules in indoor or outdoor experimental setups and presented the highest degree of accuracy (Root Mean Square Error (RMSE) 1.7–2.5K).	1
-(2014) calculate the cell temperature at open-circuit conditions.	1
-Methods that predict the cell temperature at maximum power point (MPP) operation offer a more realistic approach since they include the electrical energy generation of the solar cells (i.e.	1
-The temperatures used in this work are not very different from the ones achievable in present devices, such that the results can be extrapolated to them.	0
-Carter et al.	0
-However, as has been known since shortly after its inception, correct results are not guaranteed  [11–16].	0
-5h represents 5 okta transitions and is considered an appropriate duration for the slight propensity to shift towards an increased okta to be represented, Fig.	0
-[55].	0
-However, Edeling et al.	0
-Information is disseminated in real time and contains global details about how congested the roads are.	0
-Most of the methods reviewed by Rodrigo et al.	0
-We remark that the accuracy of the approximation deteriorate if the transformation composition TQ−1∘TR is not smooth [34].	0
-Human factor induced defects proved to have little impact – less than 10% of the cases could be attributed to operation errors.	0
-and Zhang et al.	0
-Whittle et al.	0
-[3] and Zhang et al.	0
-Historically, the interest in accurate measurement of DNI started decades ago.	0
-Refs.	0
-Also, {Φn}n∈IN is constructed to be orthogonal with respect to LR, not LQ.	0
-However, Fig.	0
-Fernández et al.	0
-Most connections are welded.	0
-With reference to Fig.	0
-These situations are illustrated in Fig.	0
-14 compares the mean velocity obtained from both models with the experimental data.	0
-8 demonstrates the diurnal transition differences.	0
-It is sensitive to any kind of surface defects, chemical variations, and residual stress [13,17].	0
-At high burn-ups, i.e.	0
-One category of studies look at how either local information (only about the neighbours) or global information (about the entire network) affects the global network performance.	0
-[23,25]).	0
-The whole issue of instrument geometry vs. circumsolar irradiance was complex and confusing at the time because different makes and models of instruments had differing geometries.	0
-The remainder of our discussion proceeds as follows.	0
-The process occurs over an extended period of time under a continuously applied load that is below the yield stress of the material [5,41,42].	0
-This is a challenging but attractive venue for future research.	0
-Ångström (1961) and Ångström and Rohde (1966) later contributed to the same topic, followed years later by Major (1973, 1980).	0
-[9,10]).	0
-Similarly, Ratti et al.	0
-16 and 17.	0
-The potential simplifies to(2)ϕ(r)=λλ−6λ66/(λ−6)εσrλ−σr6	0
-Moreover, in Ref.	0
-Manufacturing defects mostly dealt with welding related problems and deviation from the design documentation during post-weld heat treatment.	0
-In the work of Carter et al.	0
-9 was performed.	0
-(2012), are performed.	0
-5am is considered the cut-off because it is a typical sunrise in the summer for the applied study locations.	0
-The chosen mapping is by no means unique, as one can postulate parameter sets that fulfil other requisites, such as being “universal” across the entire homologous series [119] or correlated to the critical properties [125].	0
-A certain degree of parameter degeneracy in terms of overall performance is expected as a consequence of the conformal nature of the EOS description [132].	0
-Rodrigo et al.	0
-real operating conditions); Yandt et al.	0
-The methods were categorised based on: (1) heat sink temperature, (2) electrical parameters and (3) atmospheric parameters.	0
-40 to ca.	0
-The reader is referred to several reviews on the topic which describe the various stages of its development and the multiple versions available [50–53].	0
-The analysed chemical composition is given in Table 3.	0
-400μm.	0
-For instance, Poxson et al.	0
-The experimental issues related to the measurement of DNI are discussed in Section 3.2.	0
-Finally in Section 5 we present some conclusions of our study and discuss future extensions and applications of the work.	0
-Structural properties are well reproduced by all models (Table 2), but the significant improvement of our potential stands in the elastic constants which relate to how the system responds to stress.	0
-(9)), for a system of finite number of particles.	0
-11.	0
-(2014b) based on heat sink temperature with absolute RMSE 0.55–1.44K.	0
-Three main causes for failure were identified, namely, fatigue, corrosion and the presence of manufacturing defects.	0
-Li et al.	0
+Since then, the implant’s functionality has been improving and remarkable new features implemented, such as the ability to record audio surroundings via the microphone when an infected device is in a specified location; the stealing of WhatsApp messages via Accessibility Services; and the ability to connect an infected device to Wi-Fi networks controlled by cybercriminals.	1
+Moreover, as we dived deeper into the investigation, we discovered several spyware tools for Windows that form an implant for exfiltrating sensitive data on a targeted machine.	1
+The implant provides the ability to grab a lot of exfiltrated data, like call records, text messages, geolocation, surrounding audio, calendar events, and other memory information stored on the device.	1
+After manual launch, it shows a fake welcome notification to the user:	1
+At the same time, it hides an icon and starts background services to hide further actions from the user.	1
+AndroidAlarmManager Uploading last recorded .amr audio	1
+AndroidSystemService Audio recording	1
+AndroidSystemQueues Location tracking with movement detection	1
+ClearSystems GSM tracking (CID, LAC, PSC)	1
+ClipService Clipboard stealing	1
+AndroidFileManager Uploading all exfiltrated data	1
+‘geofence’ – this command adds a specified location to the implant’s internal database and when it matches a device’s current location the malware triggers and begins to record surrounding audio.	1
+”social” – this command that starts the ‘AndroidMDMSupport’ service – this allows the files of any other installed application to be grabbed.	1
+‘wifi’ – this command creates a new Wi-Fi connection with specified configurations from the command and enable Wi-Fi if it is disabled.	1
+This command is used to connect the victim to a Wi-Fi network controlled by the cybercriminals to perform traffic sniffing and man-in-the-middle (MitM) attacks.	1
+‘camera’ – this command records a video/capture a photo using the front-facing camera when someone next unlocks the device.	1
+The Skygofree Trojan comes with a powerful array of spyware features, some unique — like turning on audio recording by geolocation and stealing private messages.	1
+For example, it can track the location of a device it is installed on and turn on audio recording when the owner is in a certain place.	1
+In practice, this means that attackers can start listening in on victims when, say, they enter the office or visit the CEO’s home.	1
+Another interesting technique Skygofree employs is surreptitiously connecting an infected smartphone or tablet to a Wi-Fi network controlled by the attackers — even if the owner of the device has disabled all Wi-Fi connections on the device.	1
+For example, the latest version of Android can automatically stop inactive processes to save battery power, but Skygofree is able to bypass this by periodically sending system notifications.	1
+The malware can also monitor popular apps such as Facebook Messenger, Skype, Viber, and WhatsApp.	1
+In the latter case, the developers again showed savvy — the Trojan reads WhatsApp messages through Accessibility Services.	1
+It’s a kind of “digital eye” that reads what’s displayed on the screen, and in the case of Skygofree, it collects messages from WhatsApp.	1
+Last but not least, Skygofree can secretly turn on the front-facing camera and take a shot when the user unlocks the device — one can only guess how the criminals will use these photos.	1
+Skygofree can also to intercept calls, SMS messages, calendar entries, and other user data.	1
+The malware is distributed through fake mobile operator websites, where Skygofree is disguised as an update to improve mobile Internet speed.	1
+If a user swallows the bait and downloads the Trojan, it displays a notification that setup is supposedly in progress, conceals itself from the user, and requests further instructions from the command server.	1
+Researchers have identified a powerful new Android malware strain called Skygofree capable of eavesdropping on WhatsApp messages, siphoning private data off phones and allowing adversaries to open reverse shell modules on targeted devices, giving attackers ultimate remote control.	1
+“The implant’s functionality has been improving and remarkable new features implemented, such as the ability to record audio surroundings via the microphone when an infected device is in a specified location; the stealing of WhatsApp messages via Accessibility Services; and the ability to connect an infected device to Wi-Fi networks controlled by cybercriminals,” wrote researchers Nikita Buchka and Alexey Firsh in a technical breakdown of their research.	1
+Kaspersky Lab said Skygofree victims were likely infected via malicious redirects or man-in-the-middle attacks driving users to landing pages that mimic mobile carrier web sites.	1
+Researchers describe Skygofree  as a complex system capable of a wide range of spying, similar to Pegasus discovered in August 2016. Pegasus was part of a spy platform traced back to a cyber arms-dealing outfit in Israel known as the NSO Group.	1
+Pegasus consisted of three Apple iOS zero days that were used to spy on a political dissident.	1
+Kaspersky Lab researchers said Skygofree’s advanced spy features also included recording Skype conversations and the unique ability to capture WhatsApp end-to-end encrypted conversations via exploiting Android Accessibility Services designed to assist users with disabilities.	1
+“The payload uses the Android Accessibility Service to get information directly from the displayed elements on the screen, so it waits for the targeted application to be launched and then parses all nodes to find text messages,” researchers wrote regarding capturing WhatsApp conversations.	1
+“As a result of the long-term development process, there are multiple, exceptional capabilities: usage of multiple exploits for gaining root privileges, a complex payload structure, never-before-seen surveillance features such as recording surrounding audio in specified locations,” researchers wrote.	1
+A newly discovered form of Android malware, called Skygofree, can record device audio, video, and photos, steal data from device memory, read geolocation data, and even steal WhatsApp messages.	1
+Skygofree is dangerous, but it’s spreading using the same old methods: compromised websites.	1
+Dubbed Skygofree, the total spyware package is capable of performing 48 different remote commands, including capturing photos and video, recording audio, automatically connecting to compromised Wi-Fi networks, reading WhatsApp messages, stealing data from the device’s memory, reading geolocation data, and more.	1
+Skygofree is even capable of activating geofences that trigger audio recording once the infected device enters a certain area.	1
+“Usage of multiple exploits for gaining root privileges, a complex payload structure, never-before-seen surveillance features such as recording surrounding audio in specified locations,” are all capabilities of the surveillance kit.	1
+It also has built-in process protection to stop Android’s idle process killing feature (in Android 8.0 and above) from killing its various functions: Skygofree processes will tell Android that they’re updating, so they can’t be disabled.	1
+Skygofree is definitely a complicated piece of malware, but it’s getting installed on Android devices using the same old tricks: It’s hosted on malicious websites designed to mimic legitimate ones.	1
+Android spyware has advanced surveillance capabilities, including turning on the mic when the victim enters specific geolocations.	1
+Dubbed Skygofree, due to the word being used in one of its domains, Kaseprsky said the malware has “multiple, exceptional capabilities: usage of multiple exploits for gaining root privileges, a complex payload structure, never-before-seen surveillance features such as recording surrounding audio in specified locations.”	1
+The “social” command allows files from any other installed app to be captured.	1
+The payload targeting WhatsApp messenger uses the Android Accessibility Service to grab WhatsApp text messages.	1
+The Android implant has a camera command that is triggered to record video or capture a photo when the device is unlocked.	1
+It includes other spyware capabilities such as grabbing call records, text messages, tracking location, snatching calendar events, recording surrounding audio and snagging other information stored on the device; there’s also a command to create a new Wi-Fi connection to connect to the attackers’ network.	1
+There were even components “that form an entire spyware system for the Windows platform.” The malware modifies a registry key to enable “autostart.” The main module is for reverse shell.	1
+One module is used to exfiltrate Skype call recordings, but other capabilities include keylogging, turning on the mic to record audio, capturing screenshots and exfiltrating data.	1
+Victims are infected after being lured to visit specific malicious sites meant to look like those of mobile operators.	1
+Once there, the target is infected with “sophisticated multi-stage spyware that gives attackers full remote control of the infected device.”	1
+Recently, we discovered another Windows Trojan we named “DualToy” which side loads malicious or risky apps to both Android and iOS devices via a USB connection.	1
+In addition to found in traditional Windows PC malware such as process injection, modifying browser settings, displaying advertisements et al, DualToy also performs the following activities on Android and iOS devices:	1
+Downloads and installs Android Debug Bridge (ADB) and iTunes drivers for Windows	1
+Uses existing pairing/authorization records on infected PCs to interact with Android and/or iOS devices via USB cable	1
+Downloads Android apps and installs them on any connected Android devices in the background, where the apps are mostly Riskware or Adware	1
+Copies native code to a connected Android device and directly executes it, and activates another custom to obtain root privilege and to download and install more Android apps in the background	1
+Steals connected iOS device’s information including IMEI, IMSI, ICCID, serial number and phone number	1
+Downloads an iOS app and installs it to connected iOS devices in the background; the app will ask for an Apple ID with password and send them to a server without user’s knowledge (just like AceDeceiver)	1
+DualToy tries to reuse existing pairing records to directly interact with mobile devices in the background.	1
+Almost all samples of DualToy are capable of infecting Android devices connected with the compromised Windows PC via USB cable.	1
+Once loaded, the module will first download universal Windows ADB drivers from its C2 server (e.g., from http[:]//www.zaccl.com/tool/new_tool.zip) and install them.	1
+Download and install apps	1
+Once connected, it will fetch a list of URLs from the C2 server, download the apps, and install them on Android device in the background via the “adb.exe install” command.	1
+Install and execute binary code	1
+It will also connect with its C2 server, download more Android apps and install them in background through “pm install” command.	1
+Download and install iTunes	1
+As it does with Android devices, DualToy will check whether the iOS device was previously paired so that it can reuse existing pairing record (Figure 10).	1
+Steal iOS device information	1
+After successfully connecting with an iOS device, DualToy will collect device and system information, encrypt them and send to its C2 server.	1
+In addition to collecting device information, DualToy also tries to download IPA file(s) from the C2 server and install them on the connected iOS device.	1
+Note that, since the C2 traffic was HTTP instead of HTTPS, and the credential payload was just encrypted by DES with a fixed key, an attacker could sniff network traffic to capture the payload and steal the Apple ID and password in the payload.	1
+Researchers have found a malware family called DualToy that infects Windows PCs and sideloads malware onto connected Android and iOS devices.	1
+A Windows Trojan called DualToy has been discovered that can side load malicious apps onto Android and iOS devices via a USB connection from an infected computer.	1
+Researchers from Palo Alto Networks said DualToy has been in existence since January 2015, and it originally was limited to installing unwanted apps and displaying mobile ads on Android devices.	1
+About six months later, the Trojan morphed and began targeting iOS devices by installing a third-party App Store in hopes of nabbing iTunes usernames and passwords.	1
+Researchers said once DualToy infects a Windows machine, it looks for the Android Debug Bridge (ADB) and iTunes, and downloads drivers for both if they’re missing in order to infect mobile devices once connected.	1
+“Although this attack vector’s capability can be further limited by additional mechanisms (e.g., ADB enabling, iOS sandbox) which make this threat not so severe, DualToy reminds us again how attackers can use USB sideloading against mobile devices and how malware can be spread between platforms,” Xiao wrote.	1
+The HackingTeam’s RCS delivered its spyware from infected PCs and Macs to jailbroken iOS devices and BlackBerry phones,” Xiao said.	1
+On iOS devices, DualToy installs a fake iOS App Store used to try to trick users into divulging their iTunes username and password.	1
+Last but not least, all the overlay screens (injects) for the banks include two steps; first stealing the victim’s login credentials, then their credit card details.	1
+At that time, Ginp was a simple SMS stealer whose purpose was only to send a copy of incoming and outgoing SMS messages to the C2 server.	1
+The malware was able to perform overlay attacks and become the default SMS app through the abuse of the Accessibility Service.	1
+Although early versions had some basic code and string obfuscation, protection of the third version of the malware was enhanced with the use of payload obfuscation.	1
+The capabilities remained unchanged, but a new endpoint was added to the Trojan C2 allowing it to handle the generic card grabber overlay and specific target overlays (banking apps) separately.	1
+The author has introduced the capability to grant the app the device admin permission.	1
+When the malware is first started on the device it will begin by removing its icon from the app drawer, hiding from the end user.	1
+In the second step it asks the victim for the Accessibility Service privilege as visible in following screenshot:	1
+Once the user grants the requested Accessibility Service privilege, Ginp starts by granting itself additional permissions, such as (dynamic) permissions required in order to be able to send messages and make calls, without requiring any further action from the victim.	1
+When done, the bot is functional and ready to receive commands and perform overlay attacks.	1
+SEND_SMS Send an SMS from the bot to a specific number	1
+NEW_URL Update the C2 URL	1
+KILL Disable the bot	1
+PING_DELAY Update interval between each ping request	1
+CLEAN_IGNORE_PKG Empty list of overlayed apps	1
+WRITE_INJECTS Update target list	1
+READ_INJECTS Get current target list	1
+START_ADMIN Request Device Admin privileges	1
+ALL_SMS Get all SMS messages	1
+DISABLE_ACCESSIBILITY Stop preventing user from disabling the accessibility service	1
+ENABLE_ACCESSIBILITY Prevent user from disabling the accessibility service	1
+ENABLE_HIDDEN_SMS Set malware as default SMS app	1
+DISABLE_HIDDEN_SMS Remove malware as default SMS app	1
+ENABLE_EXTENDED_INJECT Enable overlay attacks	1
+DISABLE_EXTENDED_INJECT Disable overlay attacks	1
+ENABLE_CC_GRABBER Enable the Google Play overlay	1
+DISABLE_CC_GRABBER Disable the Google Play overlay	1
+START_DEBUG Enable debugging	1
+GET_LOGCAT Get logs from the device	1
+STOP_DEBUG Disable debugging	1
+GET_APPS Get installed applications	1
+GET_CONTACTS Get contacts	1
+SEND_BULK_SMS Send SMS to multiple numbers	1
+INJECT_PACKAGE Add new overlay target	1
+CALL_FORWARD Enable/disable call forwarding	1
+START_PERMISSIONS Starts request for additional permissions(Accessibility privileges, battery optimizations bypass, dynamic permissions)	1
+The most recent version of Ginp has the same capabilities as most other Android banking Trojans, such as the use of overlay attacks, SMS control and contact list harvesting.	1
+Since Ginp is already using some code from the Anubis Trojan, it is quite likely that other, more advanced features from Anubis or other malware, such as a back-connect proxy, screen-streaming and RAT will also be added in the future.	1
+Overlaying: Dynamic (local overlays obtained from the C2)	1
+At the end of February the actors behind Ginp added screen capture capabilities to their Trojan.	1
+It enables the bot to stream screenshots and send them to the C2 so that actors can see what is happening on the screen of the infected device.	1
+Ginp uses the Accessibility Service to check which application runs is the foreground.	1
+Something that makes Ginp special is that all of its overlay screens for banking apps are consist of multiple steps, first stealing the victim’s login credentials, then stealing the credit card details (to “validate” the user identity), as shown in the screenshots hereafter:	1
+In a 5-month timespan, actor managed to create a Trojan from scratch which will presumably continue evolving offering new features such as keylogging, back-connect proxy or RAT capabilities.	1
+Ginp mobile Trojan fakes incoming SMS messages	1
+Having infiltrated a phone, most mobile banking Trojans try to gain access to SMS messages.	1
+They do so to intercept one-time confirmation codes from banks.	1
+Armed with such a code, the malware owners can make a payment or siphon off funds without the victim noticing.	1
+At the same time, many mobile Trojans use text messages to infect more devices by sending the victim’s contacts a bad download link.	1
+The Ginp malware, which we first detected last fall, can even create incoming texts on the victim’s phone that no one actually sent — and not only texts.	1
+It sent all the victim’s contacts to its creators, intercepted text messages, stole bank card data, and overlaid banking apps with phishing windows.	1
+For the latter, the malware exploited Accessibility, a set of Android features for users with visual impairments.	1
+That is not uncommon; banking Trojans and many other types of malware use these features because through them they get visual access to everything on the screen and can even “tap” buttons or links — in effect, they can take charge of your phone completely.	1
+For instance, the malware started using push notifications and pop-up messages to get the victim to open certain apps — those that it can overlay with phishing windows.	1
+But if you look into the “suspicious transactions” before calling the bank, the malware overlays the banking app with a fake window and asks for your card details.	1
+In early February, our Botnet Attack Tracking system detected another new feature in Ginp: the ability to create fake incoming texts.	1
+The purpose is the same as before — to get the user to open an app — but now, the Trojan can generate SMS messages with any text and seemingly from any sender.	1
+It started as a SMS stealer and rapidly evolved into one of the most advanced actors in the financial fraud landscape.	1
+Specifically, our team discovered new Ginp overlay pages intended for overlay attacks on mobile devices residing on the malware’s command-and-control (C&C) servers (see Figure 2).	1
+When Ginp starts running, it first obtains information from the victim’s device, such as the state of the device and the currently installed applications, and sends it to the server.	1
+In most cases, the malware will prompt the victim to click on his or her banking application and then pop a fake overlay onto the screen.	1
+One of the recent features added to Ginp is the ability to make it appear as if a legitimate SMS message is being received on a device.	1
+The server sends a command called “INSERT_SMS,” which triggers the malware to effectively mimic the process of receiving a new SMS message.	1
+An additional technique the malware uses is generating fake push notifications.	1
+Fake SMS Push Notifications	1
+It is used for faking an incoming SMS message or push notification from the victim’s bank.	1
+A few months ago, Ginp developers introduced a new feature that allows the malware to block all push notifications from legitimate applications.	1
+This is particularly helpful to attackers, as it can block notifications about the fraudulent transaction taking place, thus avoiding arousing suspicion from the victim.	1
+Additionally, the content of the blocked notification is sent to the C&C server, allowing malware operators to steal second-factor authentication codes or collect social media and instant messaging notifications to spy on the target.	1
+This feature allows attackers to exfiltrate valuable information that can enable them to circumvent security controls.	1
+The RAT also allows malware operators to take control of and conduct transactions from the victim’s device, reducing the risk of being detected by security countermeasures.	1
+These overlay pages are similar to the regular ones, but persist on the screen and keep reappearing.	1
+This feature blocks the victim from using his or her phone, even after entering their credentials, until their device is released by the malware operator.	1
+This feature creates advantages for the attacker by persuading a victim to enter and reveal credentials to unlock the phone, and preventing a victim from accessing a legitimate banking application, which may have security countermeasures.	1
+Ginp malware was first discovered in 2019 and started as an SMS stealer.	1
+The third version was enhanced with payload obfuscation, with the credit card grabber extended with Viber and Snapchat.	1
+By the end of February 2020, the operators had added screen capture capabilities, and the malware code seemed to be borrowed from the Anubis trojan source code.	1
+Notifications blockers service	1
+RAT capabilities	1
+Injections locker	1
+The malware works by accessing the target device in the disguise of an authentic app.	1
+As soon as the malware gains access to the device, it hides the app icon and asks for Accessibility Service permissions.	1
+When the user grants permission, it automatically gets dynamic permissions.	1
+Using these permissions, the malware can send messages, make calls and perform overlay attacks easily without alerting the user.	1
+In June 2019, the Ginp malware appeared first on the Play Store as the Google Play Verificator app; initially, its main function was to steal SMS messages.	1
+This time, according to ThreatFabric’s blog post, the malware could perform many other functions such as abusing Accessibility Service to become the default SMS app and performing overlay attacks.	1
+Ginp Trojan Targets Android Banking App Users, Steals Login Credentials and Credit Card Details	1
+Upon execution in a victim device, Ginp removes its icon from the app drawer before asking the user for Accessibility Service privilege.	1
+Once it receives the said privilege, it grants itself additional permissions for sending messages and making calls.	1
+Ginp is capable of sending or harvesting SMS messages based on received commands.	1
+It can also request admin privileges, enable overlay attacks, update the command-and-control (C&C) URL, update the target list, set itself as the default SMS app, prevent the user from disabling Accessibility Services, get installed apps or contacts, enable call forwarding, and hide itself and prevent removal, among other capabilities.	1
+Notably, Ginp can trick the victim into giving out login credentials and credit card details by claiming that these pieces of information are a prerequisite to validate user identity.	1
+"In its first iteration, Ginp disguised itself as a ""Google Play Verificator"" app, primarily stealing SMS messages."	1
+In August, it posed as fake “Adobe Flash Player” apps targeting credit card information.	1
+The next version was enhanced with payload obfuscation and started targeting Snapchat and Viber users as well as specific banking apps.	1
+The said version notably switched to a new overlay target list and predominantly went after banking app users.	1
+Ginp’s use of deceptive overlay screens to steal login credentials and credit card details should prompt users to be more vigilant when installing apps on their devices.	1
+FakeSpy is an information stealer used to steal SMS messages, send SMS messages, steal financial data, read account information and contact lists, steal application data, and do much more.	1
+FakeSpy masquerades as legitimate postal service apps and transportation services in order to gain the users' trust.	1
+Once installed, the application requests permissions so that it may control SMS messages and steal sensitive data on the device, as well as proliferate to other devices in the target device’s contact list.	1
+FakeSpy is an information stealer that exfiltrates and sends SMS messages, steals financial and application data, reads account information and contact lists, and more.	1
+The malware uses smishing, or SMS phishing, to infiltrate target devices, which is a technique that relies on social engineering.	1
+The attackers send fake text messages to lure the victims to click on a malicious link.	1
+Thus far, FakeSpy campaigns are characterized by SMS phishing (a.k.a.	1
+Once the user clicks on the malicious link from the SMS message, the app asks them to approve installation from unknown resources.	1
+READ_PHONE_STATE - Allows read-only access to the phone state, including the current cellular network information, the status of any ongoing calls, and a list of any PhoneAccounts registered on the device.	1
+READ_SMS - Allows the application to read text messages.	1
+RECEIVE_SMS - Allows the application to receive SMS messages.	1
+WRITE_SMS - Allows the application to write to SMS messages stored on the device or SIM card, including y deleting messages.	1
+SEND_SMS - Allows the application to send SMS messages.	1
+INTERNET - Allows the application to open network sockets.	1
+WRITE_EXTERNAL_STORAGE - Allows the application to write to external storage.	1
+READ_EXTERNAL_STORAGE - Allows the application to read from external storage.	1
+RECEIVE_BOOT_COMPLETED - Allows the application to receive a broadcast after the system finishes booting.	1
+GET_TASKS - Allows the application to get information about current or recently run tasks.	1
+SYSTEM_ALERT_WINDOW - Allows the application to create windows shown on top of all other apps.	1
+WAKE_LOCK - Allows the application to use PowerManager WakeLocks to keep the processor from sleeping or the screen from dimming.	1
+ACCESS_NETWORK_STATE - Allows the application to access information about networks.	1
+REQUEST_IGNORE_BATTERY_OPTIMIZATIONS - Whitelists the application to allow it to ignore battery optimizations.	1
+READ_CONTACTS - Allows the application to read the user's contacts data.	1
+Change SMS App: This sets permissions to intercept every SMS received on the device and send a copy of these messages to the C2 server.	1
+Ignore Battery Optimization: This sets permissions to continue to operate at full capacity while the phone's screen is turned off and the phone locked.	1
+The first function is used for contact information stealing: the function upCon steals all contacts in the contact list and their information.	1
+The second stealing function is the onStartCommand, which steals infected device data and additional information.	1
+Bank - Checks if there are any banking-related or cryptocurrency trading apps	1
+npki - Checks if the folder named NPKI (National Public Key Infrastructure) might contain authentication certificates related to financial transactions	1
+It sends a smishing message to the entire contact list of the infected device along with the malicious link to the FakeSpy installation page.	1
+Another interesting feature in FakeSpy’s code is the collection of the device's IMEI (International Mobile Station Equipment Identity) number and all installed applications using the function upAppinfos.	1
+It shows that the malware can detect whether it’s running in an emulated environment or a real mobile device, and can change its code pattern accordingly.	1
+Another example of FakeSpy’s anti-emulation techniques is how it uses the getMachine function, which uses the TelephonyManager class to check for the deviceID, phone number, IMEI, and IMSI.	1
+The function main uses a DES encryption algorithm to encode these addresses.	1
+This mobile malware masquerades as legitimate, trusted postal service applications so that it can gain the users trust.	1
+Once it has been installed, it requests permissions from the user so that it can steal sensitive data, manipulate SMS messages, and potentially infect contacts of the user.	1
+The malware now targets more countries all over the world by masquerading as official post office and transportation services apps.	1
+Spoofing legitimate mobile applications is a common cybercriminal modus that banks on their popularity and relies on their users’ trust to steal information or deliver payloads.	1
+Case in point: a campaign we recently observed that uses SMS as an entry point to deliver an information stealer we called FakeSpy (Trend Micro detects this threat ANDROIDOS_FAKESPY.HRX).	1
+FakeSpy is capable of stealing text messages, as well as account information, contacts, and call records stored in the infected device.	1
+Would-be victims will first receive a mobile text message masquerading as a legitimate message from a Japanese logistics and transportation company urging recipients to click the link in the SMS, as shown in Figure 1.	1
+When targeting Japanese users, it poses as apps for transportation, logistics, courier, and e-commerce companies, a mobile telecommunications service, and a clothing retailer.	1
+Once launched, FakeSpy will start monitoring for text messages that the affected device receives.	1
+These SMS messages are stolen and uploaded to the C&C server.	1
+FakeSpy’s commands include adding contacts to the device, setting it to mute, resetting the device, stealing stored SMS messages and device information, and updating its own configurations.	1
+Apart from information theft, FakeSpy can also check for banking-related applications installed in the device.	1
+It abuses social media by writing the IP address on a Twitter profile whose handles are regularly modified.	1
+When FakeSpy launches, it will access the Twitter page and parse its contents to retrieve the C&C IP address.	1
+SMiShing is not a novel attack vector, but with social engineering, it can lure or compel victims into handing out personal or corporate data, or direct them to malware-hosting websites.	1
+FakeSpy Android Malware Spread Via ‘Postal-Service’ Apps	1
+The malware, which is disguised as legitimate global postal-service apps, steals SMS messages, financial data and more from the victims’ devices.	1
+The attacker uses text messages as an initial infection vector, prompting the Android recipients to click on a malicious link, in a practice known as SMS phishing or “smishing.”	1
+One example of a message used in the latest FakeSpy campaign is an alert from the postal service local to the region of the victim, informing them that the service tried to send a package, but the receiver was not at home, for instance.	1
+Then, “the link directs them to a malicious web page, which prompts them to download an Android application package (APK),” according to a report on the campaign, by Ofir Almkias, mobile analyst with Cybereason.	1
+That APK downloads an app that appears to be from the local region’s legitimate postal service—such as the United States Postal Service (USPS)–but actually executes FakeSpy, an infostealer that requests permissions to take over SMS messages and steal sensitive data on devices.	1
+The malware, which has been a threat since 2017, also can access and use a target device’s contact list to infect other devices.	1
+Disguising malware as a legitimate mobile app is a hallmark of Roaming Mantis.	1
+During installation, researchers observed FakeSpy gaining access to numerous permissions, including the ability to: read, write, send and receive SMS messages; open network sockets and access the internet; write to external storage; read from internal storage; and access information about networks to which the device is connected, among others.	1
+After installation, the app begins its “real malicious activity” by downloading a set of dynamic libraries from the libmsy.so file, which executes the packed mycode.jar file to load various insidious information-stealing capabilities into FakeSpy’s process onto the device, Almkias said.	1
+Once FakeSpy is on the device, it steals all contacts in the device’s contact list and their information, as well as the infected device’s data.	1
+It also asks to be the device’s default SMS app so the malware can spread to other devices.	1
+“FakeSpy uses this view to redirect users to the original post office carrier webpage on launch of the application, continuing the deception,” he wrote in his report.	1
+“This allows the application to appear legitimate, especially given these applications icons and user interface.”	1
+FakeSpy Android Malware Disguised as Postal Service Messages	1
+The operators behind an updated version of the FakeSpy malware are targeting Android devices using SMS phishing messages to spread the info stealer, according to the security firm Cybereason.	1
+The SMS messages are designed to appear to come from legitimate postal and delivery services, including the U.S.	1
+The information stealer is capable of exfiltrating data, including financial and contact details, from the device, according to the research report released Wednesday.	1
+The attacks associated with the latest FakeSpy campaign start with malicious SMS messages, or smishing messages, which notify victims of an undelivered package, the report notes.	1
+"""Once the user clicks on the malicious link, the app asks them to approve installation from unknown resources,"" according to the Cybereason report."	1
+During the installation process, the FakeSpy malware asks for a number of permissions, including the ability to read the phone's network status; compose and send SMS texts; access contact and external storage; connect to the internet; and reboot the device, the Cybereason report notes.	1
+This includes stealing the victim's device information, contact details and SMS messages as well as data from banking or cryptocurrency apps, the report notes.	1
+The malware uses a mobile device feature called sendAll to send SMS messages to the victim's other contacts, which helps to spread the information stealer, according to the report.	1
+The Cybereason researchers note that the malware comes with anti-emulator capability to help evade security tools.	1
+"It shows that the malware can detect whether it’s running on an emulated environment or a real mobile device, and can change its code pattern accordingly,"" the report notes."	1
+FakeSpy, which was first discovered by security researchers nearly three years ago, is a particularly nasty piece of malware designed to steal a user’s text messages, financial data, bank login information, app data, contact lists, and more.	1
+The manner by which FakeSpy spreads is quite clever and begins with an SMS message that claims to be from a local post office.	1
+It then provides a link users can click which directs them to download an app disguised as a legitimate postal service app.	1
+Once installed on a device, the app will then send the fake text, along with the malicious link, to a user’s entire contact list.	1
+Once an unsuspecting user downloads the fake app, the malware essentially has full access to a user’s device.	1
+Among other things, it can read text messages, send text messages, access contact information, and read from external storage.	1
+Beyond that, the app also makes a point to look for any banking or cryptocurrency-related apps so that it can steal login information.	1
+This ransomware family is known for being hosted on arbitrary websites and circulated on online forums using various social engineering lures, including masquerading as popular apps, cracked games, or video players.	1
+Instead, it blocks access to devices by displaying a screen that appears over every other window, such that the user can’t do anything else.	1
+The “call” notification, among several categories of notifications that Android supports, which requires immediate user attention.	1
+The malware connects the dots and uses these two components to create a special type of notification that triggers the ransom screen via the callback.	1
+setCategory(“call”) – This means that the notification is built as a very important notification that needs special privilege.	1
+setFullScreenIntent() – This API wires the notification to a GUI so that it pops up when the user taps on it.	1
+As the code snippet shows, the malware overrides the onUserLeaveHint() callback function of Activity class.	1
+The function onUserLeaveHint() is called whenever the malware screen is pushed to background, causing the in-call Activity to be automatically brought to the foreground.	1
+This creates a chain of events that triggers the automatic pop-up of the ransomware screen without doing infinite redraw or posing as system window.	1
+The knowledge graph below shows the various techniques this ransomware family has been seen using, including abusing the system alert window, abusing accessibility features, and, more recently, abusing notification services.	1
+In fact, recent variants contain code forked from an open-source machine learning module used by developers to automatically resize and crop images based on screen size, a valuable function given the variety of Android devices.	1
+On top of recreating ransomware behavior in ways we haven’t seen before, the Android malware variant uses a new obfuscation technique unique to the Android platform.	1
+As is characteristic for obfuscated threats, the malware has encrypted binary code stored in the Assets folder:	1
+Instead, it uses several new tricks to render the phone unusable, making it one of the most advanced mobile malware programs around.	1
+Like its predecessors, MalLocker.B displays a ransom note that covers the entire screen of infected devices.	1
+Everything underneath it cannot be seen or accessed, preventing victims from using their phones.	1
+Specifically, MalLocker.B misuses Android’s notification services to create a call notification that displays the ransom note full screen.	1
+It then overrides an Android function that moves activities to the background.	1
+This is done to keep the ransom note in the foreground.	1
+Uses a new obfuscation technique.	1
+To help the ransomware avoid detection by security solutions, part of the ransomware’s code is encrypted and stored in a folder.	1
+Includes code from an open-source machine-learning module.	1
+The machine learning module automatically resizes and crops images based on screen size.	1
+Cybercriminals typically hide it in video players, pirated versions of popular commercial apps, and cracked games, which they hawk in online forums and host on third-party websites.	1
+The new variant caught our attention because it’s an advanced malware with unmistakable malicious characteristic and behavior and yet manages to evade many available protections, registering a low detection rate against security solutions.	0
+In the course of further research, we found a number of related samples that point to a long-term development process.	0
+The fields it collects are:	0
+"These messages appear reliable because the consumers are already waiting for updates from their postal service or transportation service carrier."""	0
+If the banking app is targeted by Ginp, the server will respond with a command of “START_INJ” for the malware to start the overlay attack.	0
+This spyware is being used for targeted surveillance; all known targets have been located in Italy.	0
+Since the kuaiyong.ipa has an expired certificate, we resigned it with a personal development certificate and then installed it on our testing device.	0
+Some emulators build their phone number out of the default number created in the emulator software and the port number: 5554.	0
+Evidence that points to China includes command-and-control servers based in that country as well as Chinese characters and language found in some of the malicious code, according to the report.	0
+The malicious application da.hao.pao.bin (Chunghwa Post) loads a library file libmsy.so used to execute the packed mycode.jar file.	0
+The notification was intended to be used for system alerts or errors, but Android threats misused it to force the attacker-controlled UI to fully occupy the screen, blocking access to the device.	0
+Firewalls should also be configured to block known bad websites that host malicious APKs.	0
+The mobile ransomware, detected by Microsoft Defender for Endpoint as AndroidOS/MalLocker.B, is the latest variant of a ransomware family that’s been in the wild for a while but has been evolving non-stop.	0
+For example, some strains of ransomware abuse accessibility features, a method that could easily alarm users because accessibility is a special permission that requires users to go through several screens and accept a warning that the app will be able to monitor activity via accessibility services.	0
+It is interesting to see that the group has expanded their operation to other regions, such as the United States and Europe.	0
+Whereas users often push notifications aside without a glance, they tend to read their incoming SMS messages sooner or later.	0
+Threat data from endpoints are combined with signals from email and data, identities, and apps in Microsoft 365 Defender (previously Microsoft Threat Protection), which orchestrates detection, prevention, investigation, and response across domains, providing coordinated defense.	0
+Researchers further claim that there are striking similarities between the codes of both Trojans but it cannot be said that Ginp is the replica of Anubis rather it is inspired by Anubis.	0
+A Family History Only Hackers Would Be Proud Of	0
+Trend Micro mobile threat analyst Tony Bao discovered a variant of Anubis (detected by Trend Micro as AndroidOS_AnubisDropper) of the same type a few months ago.	0
+As the code snippet shows, the malware creates a notification builder and then does the following:	0
+Main payload	0
+Over the past three years, it has grown from a rather simple piece of malware into full-fledged, multifunctional spyware.	0
+This ransomware family’s long history tells us that its evolution is far from over.	0
+Researchers at ThreatFabric, the cybersecurity firm based in Amsterdam, have been following an “interesting new strain of banking malware” dubbed Ginp distributed as Adobe Flash Player.	0
+That way, it can detect and block known malware.	0
+Some of the latest Ginp samples found in the wild:	0
+Update 10/03/2020	0
+When the malware runs for the first time, the static block of the main class is run.	0
+It is still under active development, with at least 5 different versions of the Trojan released within the last 5 months (June - November 2019).	0
+For example, cybercriminals can control Skygofree using HTTP, XMPP, binary SMS, and Firebase Cloud Messaging, giving the attacker multiple fallbacks and a high degree of flexibility in accomplishing their goals.	0
+So, when a device connects to the established network, this process will be in silent and automatic mode.	0
+Some malicious apps are more creative, using SMS access to distribute other things in your name, such as offensive text messages.	0
+To date, our cloud protection service has logged only a few infections, all in Italy.	0
+One of the most significant findings is that new versions of FakeSpy target not only Korean and Japanese speakers, but also almost any postal service company around the world.	0
+These requests rely on the end user accepting the permission changes and points to the importance of healthy skepticism when giving applications permissions.	0
+The library that uses tinyML is not yet wired to the malware’s functionalities, but its presence in the malware code indicates the intention to do so in future variants.	0
+Royal Mail - British postal service and courier company.	0
+The malware saves this configuration to the shared preferences of the app data and then it sets up all the Broadcast Receivers.	0
+Ginp Malware Operations are on the Rise, Aiming to Expand in Turkey	0
+Below is an example (in Spanish):	0
+It’s a messaging object that can be used to request an action from another app component.	0
+Interestingly, a self-protection feature was implemented in almost every service.	0
+Italian company behind Skygofree	0
+Time - The time the message was received	0
+The activities continue: the most recently observed domain was registered on October 31, 2017.	0
+In some cases, the malware operators will spy on the target before deciding the best avenue of attack to bypass security countermeasures.	0
+Adobe Flash Player solution.rail.forward 7eb239cc86e80e6e1866e2b3a132b5af94a13d0d24f92068a6d2e66cfe5c2cea	0
+Among them, insapp.dll is the module used to infect an iOS device.	0
+FakeSpy asks to be the default SMS app because it uses the function onReceive to intercept incoming SMS messages.	0
+Several of those features have never been seen before in Android malware, according to researchers at Kaspersky Lab who discovered the Skygofree strain last year and disclosed its findings Tuesday.	0
+Facebook	0
+Once the application has finished the installation process, the malware starts its real malicious activity.	0
+Previous versions were storing config values within the variables of a class, while the latest version is using SharedPreferences with some of the keys being identical to those used by Anubis:	0
+Be wary of any app that asks for permissions that seem excessive for what the program does.	0
+Ginp has primarily targeted Spanish banks, but recent evidence suggests the malware has changed or may change its targeting strategy in the near future to focus on Turkey.	0
+Provider - The telecommunication provider (IMSI value in device settings)	0
+However, the authors of the innovative Trojan did not dispense with more mundane features.	0
+Its name is AndroidOS/MalLocker.B.	0
+Kaspersky discovered it in October 2017 and noted that one of the domains used to spread the spyware was registered by the attackers that same month.	0
+It’s also worth noting that the cybercriminals behind FakeSpy are active, at least based on their activities on forums and the related URLs they register to host their malware.	0
+Dear Customer, we’re updating your configuration and it will be ready as soon as possible.	0
+An almost identical function is mentioned in an earlier research, that ties FakeSpy and other malware to the Roaming Mantis group.	0
+Sender - The contact name who sent the message	0
+United States Postal Service - An independent agency of the executive branch of the United States federal government.	0
+When the target opens the link within the message, a FakeSpy APK - the file format used by Android to install applications – appears.	0
+We have examined all the detected versions, including the latest one that is signed by a certificate valid from September 14, 2017.	0
+Yamato Transport - One of Japan's largest door-to-door delivery service companies, also in Tokyo.	0
+Research the app.	0
+It saves the messages’ metadata and content, filters the information by fields, and sends them to the C2 server using the URL /servlet/SendMassage2.	0
+Adobe Flash Player ethics.unknown.during 5ac6901b232c629bc246227b783867a0122f62f9e087ceb86d83d991e92dba2f	0
+Various artifacts in the code referenced “negg;” Forbes’ sources claimed the Rome-based Negg is “working with the police now” to fill “the gap left behind by Hacking Team.”	0
+FakeSpy is able to check the network connectivity status by using the function isNetworkAvailable.	0
+Our analysis below focuses primarily on the first variant.	0
+A helper class that has definition for custom encryption and decryption	0
+This new feature was added December 2019.	0
+The initial version of the malware dates back to early June 2019, masquerading as a “Google Play Verificator” app.	0
+The promise of fast Internet	0
+DualToy reuses these key files to bypass the intended security check.	0
+Some versions of the Skygofree feature the self-protection ability exclusively for Huawei devices.	0
+FakeSpy Masquerades as Postal Service Apps Around the World	0
+Google Pay: Nos faltan los detalles de su tarjeta de crédito o débito.	0
+FAKESPY CODE ANALYSIS	0
+The operator can specify a path with the database of any targeted application and server-side PHP script name for uploading.	0
+In the case of this ransomware, using the model would ensure that its ransom note—typically fake police notice or explicit images supposedly found on the device—would appear less contrived and more believable, increasing the chances of the user paying for the ransom.	0
+The app is yet another third party iOS App Store just like “ZergHelper”.	0
+Notifications Listener (Blocker) Service	0
+Our research shows fresh developments in the malware’s code and sophistication, as well as an expansion to target Europe and North America.	0
+HackingTeam is known for selling surveillance and intrusion software products designed to help law enforcement agencies and other customers perform remote penetration and control of target systems.	0
+Although the code is not being used yet, the researchers believe it will be in the future.	0
+But more recent variants of DualToy drop a custom ADB client, tadb.exe, onto a victim’s PC.	0
+===状态=== (===Status===) - Checks whether the device is connected to a network	0
+Here are some of the most notable:	0
+Snapchat	0
+Researchers say they have observed 8,000 unique samples of the DualToy variant to date, and add they can’t be sure how many mobile devices have been infected by the malware.	0
+A couple of months later, in August 2019, a new version was released with additional banking-specific features.	0
+In a recent variant, DualToy will download a PE executable named “appdata.exe” as well as an ELF executable file named “guardmb” from the C2 server.	0
+Other variants have compiled the ADB client’s source code into the module so that they could also perform ADB operations.	0
+FakeSpy Targets Japanese and Korean-Speaking Users	0
+After that, DualToy will execute “msiexec.exe” to install the installers shown in Figure 8 in background via the “/qn” parameter.	0
+Here’s what you need to know to keep your phone safe from the malevolent MalLocker.B.	0
+"""And one of the main communication methods of these companies - postal services and transportation services - is by SMS."	0
+Cybereason concludes:	0
+ThreatFabric analysts claim that Ginp is unique because its codebase was developed from scratch and is being expanded continuously through updates.	0
+Protecting organizations from threats across domains and platforms	0
+The Ginp malware continues to evolve rapidly, with developers frequently releasing new features.	0
+Ginp malware has become one of the most notorious Android banking malware family.	0
+Infecting iOS Devices	0
+On Android devices, DualToy installs several Chinese language apps that researchers suspect attackers are getting paid per install by game developers.	0
+Roaming Mantis is believed to be a Chinese threat actor group first discovered in April 2018 that has continuously evolved.	0
+“This new mobile ransomware variant is an important discovery because the malware exhibits behaviors that have not been seen before and could open doors for other malware to follow,” according to the researchers.	0
+However, by August 2019, another version of the malware appeared posing as the Adobe Flash Player app.	0
+After being loaded, the insapp.dll will check whether iTunes is installed on the infected computer.	0
+Skygofree: Following in the footsteps of HackingTeam	0
+es.bancosantander.apps Santander	0
+Its operators have been refining the information stealer’s code over the last three years and adding capabilities, according to Cybereason.	0
+Researchers opine that the Trojan was actually launched in June 2019 and is yet under the active development phase.	0
+The FakeSpy malware has been found to masquerade as any of the following companies:	0
+It may have hit the internet in 2015, but Kaspersky Lab says its code indicates that Skygofree had been in development since 2014.	0
+After being decrypted, the asset turns into the .dex file.	0
+The messages reference documents that need to be signed or suspicious activity on a banking account—among other ploys—in an attempt to invoke a sense of urgency and persuade the victim to open his or her mobile banking application.	0
+To avoid being duped by the new FakeSpy campaign, McQuiggan recommended that users ignore text messages from unknown users and verify any messages about deliveries or other postal services through trusted links to local delivery carriers before clicking on a link sent via SMS.	0
+For example, one of MalLocker.B’s predecessors needs a special permission.	0
+If not, it will download two MSI format installers from its C2 server.	0
+"""However, we do not consider the group to be an advanced persistent threat group or nation-state hacking group,"" Dahan says."	0
+===类型=== (===Type===) - Checks whether the device sees available nearby Wifi networks 	0
+As mentioned, this ransomware is the latest variant of a malware family that has undergone several stages of evolution.	0
+Viber	0
+“The app is yet another third party iOS App Store just like ZergHelper.	0
+This most recent FakeSpy campaign appears to target users of postal services around the world.	0
+At first, Ginp had a fairly standard skill set for a banking Trojan.	0
+AceDeceiver-like behavior	0
+DualToy will watch for USB connections.	0
+Once targets were lured to landing page sites they were prompted to update their phone’s software.	0
+The latest version has a larger target list that includes the U.S. and Europe.	0
+es.caixabank.mobile.android.tablet CaixaBank Tablet	0
+Skygofree has been in development for years, and that makes it dangerous	0
+While the malware is currently limited to infecting Japanese and Korean-speaking users, we won't be surprised if it expands its reach given the way FakeSpy’s authors actively fine-tune the malware’s configurations.	0
+The following screenshot shows the generic card grabber overlay screen:	0
+More carefully, they can tailor an attack on a victim to increase their chances for success.	0
+It allows attackers to use an aggressive version of an overlay attack.	0
+That includes the mobile number, the device model, the OS version, and banking and cryptocurrency app information.	0
+The link will redirect them to the malicious webpage, and clicking any button will prompt users to download an Android application package (APK).	0
+Finally, when you are installing a program, pay attention to the permissions.	0
+Apps not selected as protected apps stop working once the screen is off and await re-activation, so the implant is able to determine that it is running on a Huawei device and add itself to this list.	0
+Those Italian links have also prompted comparison between Skygofree and Italy-based intrusion software vendor HackingTeam.	0
+FakeSpy first targeted South Korean and Japanese speakers.	0
+Identified firstly by Kaspersky’s Android malware analyst Tatyana Shishkova in late October; Ginp is currently targeting users in the UK and Spain.	0
+WHO IS BEHIND FAKESPY’S SMISHING CAMPAIGNS?	0
+Based on the evolution of Ginp it is clear that it isn’t based on Anubis, but rather reuses some of its code.	0
+com.bankinter.coincwallet COINC Wallet	0
+Malware, phishing, and other threats detected by Microsoft Defender for Endpoint are reported to the Microsoft Defender Security Center, allowing SecOps to investigate mobile threats along with endpoint signals from Windows and other platforms using Microsoft Defender for Endpoint’s rich set of tools for detection, investigation, and response.	0
+Utilice Play Store para agregarlos de manera segura.	0
+It resembles a local postal service or delivery app.	0
+Mobile Phishing Campaign	0
+Researchers believe that Chinese-speaking group known as “Roaming Mantis” is behind the campaign.	0
+Although the current target list is limited to Spanish apps, it seems that the actor is taking into account that the bot should also be able to target other countries, seeing that the path used in the inject requests contains the country code of the targeted institution.	0
+In August 2019, a new variant was launched with banking-specific capabilities, disguised as fake Adobe Flash Player apps.	0
+Make sure your security solution is updated.	0
+In a previous campaign reported by JPCERT, mobile users were alerted by phishy messages containing “delivery updates” purportedly from Sagawa Express.	0
+During the analysis, we weren't able to find the “com.home.micorsoft” app.	0
+This could indicate that actor already has plans in expanding the targets to applications from different countries and regions.	0
+We observed many web landing pages that mimic the sites of mobile operators and which are used to spread the Android implants.	0
+Researchers analyzed code from a campaign in April 2020 that downloaded the Fakespy version impersonating Taiwan’s Chungwha Post app.	0
+es.redsys.walletmb.app.kutxa.pro KutxabankPay	0
+From this point on, the malware execution is driven by callback functions that are triggered on system events like connectivity change, unlocking the phone, elapsed time interval, and others.	0
+It’s wise to disable installation of apps from third-party sources, which you can do in your smartphone settings.	0
+We believe the initial versions of this malware were created at least three years ago – at the end of 2014.	0
+The app embedded a modified SU daemon program which was re-compiled from SuperSU project’s source code.	0
+The version we found was built at the beginning of 2017, and at the moment we are not sure whether this implant has been used in the wild.	0
+La Poste - La Poste is a public limited postal service company in France.	0
+By performing a deep analysis of the malware, we were able to extract the unpacked JAR file mycode.jar and reveal some very interesting code.	0
+The guardmb file is an ELF executable for ARM architecture.	0
+Later, two new versions of the malware surfaced that primarily targeted social media and banking apps.	0
+Adobe Flash Player com.pubhny.hekzhgjty 14a1b1dce69b742f7e258805594f07e0c5148b6963c12a8429d6e15ace3a503c	0
+Due to this feature, it is clear that the developers paid special attention to the work of the implant on Huawei devices.	0
+UNDER ACTIVE DEVELOPMENT	0
+The code of Gino has been copied from the code of another infamous Trojan called Anubis.	0
+During the installation, the malware asks for the following permissions:	0
+Ask yourself “Do I really need it?” Every program you install presents a security risk, so the number of apps should be kept to a minimum.	0
+Service Name Purpose	0
+The current list of apps observed to be targeted by Ginp contains a total of 24 unique applications as seen below.	0
+After the service is started by guardmb, and install the SU daemon.	0
+A total of 24 apps are targeted and infected with Ginp, all of which belong to 7 Spanish banks including Bankinter, Bankia, BBVA, Caixa Bank, EVO Banco, Santander, and Kutxabank.	0
+Still included in the last versions, this screen is only used to overlay the official Google Play Store app.	0
+(“Google Pay: We are missing your credit or debit card details.	0
+Then, it sends it to the C2 server using the URL that ends with /servlet/ContactUpload.	0
+It then decrypts a hardcoded encrypted value and sets the “action” parameter of the Intent using the setAction API.	0
+com.kutxabank.android Kutxabank	0
+They should only download apps from official sources to minimize the chances of downloading a malicious app.	0
+And on smartphones made by one of the tech majors, where all apps except for favorites are stopped when the screen is turned off, Skygofree adds itself automatically to the favorites list.	0
+This command will trigger the malware to open a WebView on top of the screen and fetch the overlay attack pages.	0
+Cybercriminals have the ability to control the implant via HTTP, XMPP, binary SMS and FirebaseCloudMessaging (or GoogleCloudMessaging in older versions) protocols.	0
+When launched for the first time, the app will ask the user to input his or her Apple ID and password (Figure 15).	0
+The new Android ransomware variant overcomes these barriers by evolving further than any Android malware we’ve seen before.	0
+Warnings like this should raise a red flag.	0
+This list is expected to grow in the future.	0
+In its original incarnation, the app targeted users in South Korea and Japan.	0
+Ginp’s newest feature is the injections locker.	0
+However, if a user has authorized his PC in the past, the related key files will be stored in the %HOME%/.android directory on the PC.	0
+Just because surveillance features haven’t been seen before doesn’t mean the Android spyware is new.	0
+It’s actually the open nature of Android platform that invites threat actors to target them so persistently, since they have the ability to exploit its source code to create campaigns like this one, noted James McQuiggan, security awareness advocate at KnowBe4.	0
+Below are some of the elements showing the relation.	0
+The initial version of Ginp had a generic credit card grabber overlay screen used for all targeted applications.	0
+During our analysis in April and in August 2016, this URL always returned a single file, “kuaiyong.ipa”.	0
+The app is a popular extension of Android’s View class that lets the developer show a webpage on a device.	0
+This feature was introduced just in the past few weeks and is activated by the “START_LOCK” command.	0
+The code is heavily obfuscated and made unreadable through name mangling and use of meaningless variable names:	0
+These artifacts indicate that FakeSpy's campaign is still live and under development.	0
+In October 2020, a new MalLocker.B variant appeared.	0
+Since in Android 8.0 (SDK API 26) the system is able to kill idle services, this code raises a fake update notification to prevent it:	0
+For most of its history it operated as a government department or public corporation.	0
+Please use the Play Store app to add them securely.”)	0
+Very convincing fake SMS messages	0
+Palo Alto notes, during the past two years there have been similar cases of Windows and Apple iOS malware designed to attack mobile devices via side-loading techniques.	0
+es.lacaixa.app.multiestrella Family	0
+In other words, someone somewhere will know exactly what sites were looked at and what logins, passwords, and card numbers were entered.	0
+A remarkable fact is that all the targeted apps relate to Spanish banks, including targets never seen before in any other Android banking Trojan.	0
+Instagram	0
+We recommend that business users deploy Kaspersky Security for Mobile — a component of Kaspersky Endpoint Security for Business — to protect the phones and tablets employees use at work.	0
+Install a reliable security solution — for example, Kaspersky Internet Security for Android.	0
+Then, PackageInstaller shows the app's permission access and asks for the user's approval.	0
+Another major change that indicated that the actor copied code from the Anubis Trojan is the way of handling configuration values.	0
+Those landing pages included similar domain names and web page content to wireless carriers.	0
+However, through our reverse engineering and debugging, we discovered the Apple ID and password will be encrypted by DES algorithm by a fixed key of “HBSMY4yF” and 4 of “\x12\x34\x56\x78\x90\xab\xcd\xef”, and sent to the server proxy.mysjzs[.	0
+Adobe Flash Player sentence.fancy.humble 78557094dbabecdc17fb0edb4e3a94bae184e97b1b92801e4f8eb0f0626d6212	0
+Like previously added functionality, the code is borrowed from the leaked Anubis Trojan source code.	0
+INTRODUCTION	0
+Although malicious programs sometimes find their way into these stores, the risk is much greater if you download apps from other sites.	0
+In the Play Store app, users see a form for entering card data as expected.	0
+In the beginning, this threat group mainly targeted Asian countries.	0
+At this stage, half the job is done for the malware.	0
+During execution, the sample will drop some PE and .ini files.	0
+For the past several weeks, Cybereason has been investigating a new version of Android malware dubbed FakeSpy, which was first identified in October 2017 and reported again in October 2018.	0
+The server can send a “PUSH_NOTIFY” command to generate a fake “push” notification and make it appear as if it’s coming from the banking app.	0
+time_work	0
+How does the malware work without code for these key components?	0
+After downloading it, DualToy will copy the IPA file via the AFC service to the iOS device’s /var/mobile/Media/PublicStaging directory, and then install it via the installation_proxy service.	0
+All of these domains are registered to ‘Li Jun Biao’ on Bizcn, Inc, a Chinese Internet application service provider.	0
+At the beginning of October 2017, we discovered new Android spyware with several features previously unseen in the wild.	0
+Kaspersky gives examples of how it steals Facebook data, Facebook messenger, WhatsApp, Viber and LINE for free calls and messages.	0
+Skygofree wasn’t created from scratch as Kaspersky noted “it looks like the attackers created this exploit payload based on android-rooting-tools project source code.” In another instance, the researchers “found some code similarities between the implant for Windows and other public accessible projects.	0
+Dubbed Ginp; the trojan keeps coming back with new capabilities.	0
+Users are told that they should update their device configuration to ensure faster service, and the APK they’re downloading is actually Skygofree.	0
+Roaming Mantis used the Android developer tool WebView to build the fake applications, which is what gives them their authenticity, Almkias said.	0
+Learn more about our mobile threat defense capabilities in Microsoft Defender for Endpoint on Android.	0
+Although this attack vector’s capability can be further limited by additional mechanisms (e.g., ADB enabling, iOS sandbox) which make this threat not so severe, DualToy reminds us again how attackers can use USB sideloading against mobile devices and how malware can be spread between platforms.	0
+When executed the second time by clicking on the app on the physical device, FakeSpy redirects to the app settings.	0
+Check for telltale signs of phishing, such as grammar errors or certain characters used to spoof a legitimate URL, and more importantly, beware of unsolicited messages that seem to give a sense of unwanted urgency.	0
+Ginp’s unusual target selection is not just about its focus on Spanish banks but also the wide selection of targeted apps per bank.	0
+es.banconsantander.app.tablet Santander Tablet	0
+"Cybereason's investigation shows that the threat actor behind the FakeSpy campaign is a Chinese-speaking group dubbed ""Roaming Mantis"", a group that has led similar campaigns."	0
+Sophisticated new Android malware marks the latest evolution of mobile ransomware	0
+It informs the victims that they committed a crime and must pay a fine, after which it provides instruction on how to do so.	0
+Kaspersky Lab said in the case of Skygofree, it was only aware of a handful of users in Italy being targeted with the malware.	0
+DYNAMIC LIBRARY LOADING	0
+We anticipate this malware to continue to evolve with additional new features; the only question now is when we will see the next wave.	0
+One of the tell-tale signs of an obfuscated malware is the absence of code that defines the classes declared in the manifest file.	0
+"""Our analysis observed multiple pieces of anti-emulator code."	0
+According to our telemetry, that was the year the distribution campaign was at its most active.	0
+To catch these threats, security solutions used heuristics that focused on detecting this behavior.	0
+It allows the attackers to easily infiltrate this type of open door.	0
+The Ginp mobile banking malware, which emerged in late 2019, is one of the top most prevalent Android banking malware families today.	0
+Skygofree is overflowing with functions, some of which we haven’t encountered elsewhere.	0
+What’s innovative about this ransomware is how it displays its ransom note.	0
+Once the FakeSpy installation process is complete, the malware begins the data exfiltration process, the report notes.	0
+For example, we found several suspicious strings written in the Chinese language in a function called isNetworkAvailable, previously discussed in this blog:	0
+Guardmb also specified the same service was implemented in a third party app with package name of “com.home.micorsoft”.	0
+Also, we found a debug version of the implant (70a937b2504b3ad6c623581424c7e53d) that contains interesting constants, including the version of the spyware.	0
+A location can be specified so that when the victim’s device matches that location, “the malware triggers and begins to record surrounding audio.”	0
+This lets the victim’s traffic be collected and analyzed.	0
+Some observers have attributed this to obsolete systems and widespread poor security management.	0
+Best Practices	0
+Ginp’s trojan functions	0
+We named this specific Android Trojan “RootAngel”.	0
+New versions of FakeSpy masquerade as government post office apps and transportation services apps.	0
+These fake overlays have not previously been noted in the security community.	0
+The specific apps can be found in the target list in the appendix.	0
+The service name makes it clear that by applications the attackers mean MDM solutions that are business-specific tools.	0
+Besides looking at the program’s reviews and user ratings in the app store, perform Internet searches on the app and its developer.	0
+Cybercriminals appear to be finding this geographical region fruitful for cyber operations.	0
+api – The API key	0
+Device IMEI	0
+"The Cybereason analysts believe that the operators behind the FakeSpy malware are likely a group known as ""Roaming Mantis,"" which appears to be based in China."	0
