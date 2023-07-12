@@ -1,6 +1,7 @@
 # LADDER
 
-This repository contains implementation for the paper "Looking Beyond IoCs: Automatically Extracting Attack Patterns from External CTI" accepted at RAID, 2023
+This repository contains implementation for the paper "Looking Beyond IoCs: Automatically Extracting Attack Patterns from External CTI" accepted at RAID, 2023.  
+Author version of the paper can be found at: https://arxiv.org/abs/2211.01753
 
 
 ### How to Run
