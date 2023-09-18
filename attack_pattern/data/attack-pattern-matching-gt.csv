@@ -1,0 +1,82 @@
+text,malware,label
+use of payload obfuscation,Ginp,T1406
+"manipulate users into leaving positive ratings, in some cases unknowingly",Judy,T1643
+Communicating with the C2 server for new instructions,RuMMS,T1481
+abusing Accessibility Service to become the default SMS app,Ginp,T1582
+Retrieve the browsing history and bookmarks from Chrome and SBrowser,Exodus,T1634
+Exfiltrate all call logs,ViceLeaker,T1636
+resetting the user’s PIN,RuMMS,T1461
+stealing private messages,Skygofree,T1636
+use of dynamic code loading,Zen,T1407
+covertly send and steal SMS codes,Cerberus,T1582
+connects the dots and uses these two components to create a special type of notification that triggers the ransom screen via the callback,AndroidOS/MalLocker.B,T1629
+spreads by SMS or via malicious URLs.,Twitoor,T1636
+Locking and unlocking the screen (without user interaction),Cerberus,T1461
+infecting Android devices connected with the compromised Windows PC via USB cable,DualToy,T1458
+starts by granting itself additional permissions,Ginp,T1404
+server will respond with a command of “START_INJ” for the malware to start the overlay attac,Ginp,T1629
+Capture screenshot,SpyDealer,T1513
+"if it has root access, it can execute commands",Monokle,T1623
+uses ELF string obfuscator,RCSAndroid,T1406
+record audio files,ViceLeaker,T1429
+Send an SMS from the bot to a specific number,Ginp,T1582
+overlay attack mechanism,Cerberus,T1417
+creates a new Wi-Fi connection with specified configurations from the command and enable Wi-Fi if it is disabled,Skygofree,T1623
+send out text messages to certain numbers,ViceLeaker,T1582
+Record you calls or what is being said around your device,RCSAndroid,T1636
+authenticator-based 2FA theft capabilities,Cerberus,T1517
+"creates hooks to prevent the phone from rebooting, going to sleep or allowing the user from pressing hardware buttons",Zen,T1629
+overlay with phishing windows,Ginp,T1417
+switch to another command-and-control Twitter account,Twitoor,T1640
+"gain access to their Gmail, Docs, Drive, Photos and other data,",Gooligan,T1636
+hiding its icon from the application drawer,Cerberus,T1628
+Disable network,RCSAndroid,T1629
+update it with a malicious version for short period of time,Dvmap,T1577
+TeamViewer based remote control of the infected device,Cerberus,T1428
+preventing victims from using their phones,AndroidOS/MalLocker.B,T1629
+notification sniffer (stealer),Cerberus,T1517
+Spy on the compromised user,SpyDealer,T1417
+download new payloads,RCSAndroid,T1407
+Get current running apps,SpyDealer,T1418
+spread between platforms,DualToy,T1458
+installs its modules into the system,Dvmap,T1407
+"Gather SMS messages which are created later than a given date in the inbox, outbox and draft box, and then send back via SMS",SpyDealer,T1636
+recording surrounding audio,Skygofree,T1429
+download and install more Android apps in the background,DualToy,T1407
+running an affiliate program to sell the victims' information or access to others,Mandrake,T1541
+performing overlay attacks,Ginp,T1417
+"disable the network, root access",RCSAndroid,T1629
+gain access to root permissions from a rooting trojan in its infection chain,Zen,T1404
+allows the malware to block all push notifications from legitimate applications,Ginp,T1517
+broadcasting all of that to an attacker-controlled C&C (command and control) server,ViceLeaker,T1646
+read the phone's network status,FakeSpy,T1423
+can even “tap” buttons or links,Ginp,T1517
+installs the necessary modules to read the user’s messages and mail,Pegasus,T1636
+Delete specified file,ViceLeaker,T1630
+give itself more permissions without user interaction,Cerberus,T1404
+"steals call recordings, photos, videos & texts",ViceLeaker,T1636
+hides its icon from the application drawer,Cerberus,T1628
+contains overlay attack templates for a total of 30 unique targets,Cerberus,T1417
+modifying browser settings,DualToy,T1629
+giving attackers ultimate remote control,Skygofree,T1428
+abuses Instagram and Tumblr profiles to hide its C&C server,FakeSpy,T1635
+record audio surroundings via the microphone when an infected device is in a specified location,Skygofree,T1429
+"steal photos and videos, recordings, location records, communications, web searches, passwords, call logs and social media posts",Pegasus,T1636
+Capture photos using the front and back cameras,RCSAndroid,T1512
+control the camera,ViceLeaker,T1512
+infected through compromised wireless networks,SpyDealer,T1456
+avoid detection from desk-based malware analysts by delaying activation until it can confirm the device belongs to a genuine victim,Cerberus,T1628
+Get GPS location,SpyDealer,T1430
+Using the device accelerometer sensor it implements a simple pedometer that is used to measure movements of the victim,Cerberus,T1430
+try to gain access to SMS messages,Ginp,T1636
+never-before-seen surveillance features such as recording surrounding audio in specified locations,Skygofree,T1429
+retrieving accounts and associated passwords,Monokle,T1634
+steal account credentials for accounts including banking applications,Mandrake,T1635
+forces infected devices to leave positive reviews and a high rating on Google Play,Gooligan,T1643
+capture and exfiltrate information,Monokle,T1641
+Extract information from the Gmail app,Exodus,T1409
+Intercept incoming SMS messages,SpyDealer,T1636
+malware will prompt the victim to click on his or her banking application and then pop a fake overlay onto the screen,Ginp,T1417
+check whether the iOS device was previously paired so that it can reuse existing pairing record,DualToy,T1634
+steal 2FA-codes including from Google Authenticator,Cerberus,T1635
+asks the victim for the Accessibility Service privilege as visible in following screenshot,Ginp,T1404
