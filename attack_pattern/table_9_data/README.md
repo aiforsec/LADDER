@@ -1,0 +1,3 @@
+The authors provided a spreadsheet of their manually annotated ground truth on reports linked to malware documentation on MITRE. They provided guidance on interpreting the spreadsheet which we used to convert it to the per-report jsons. The jsons include all the details contained in the spreadsheet. 
+
+We reference the mitre link provided to find the reports. The raw LADDER predictions included in the spreadsheet contain substrings, which we use to verify we have found the correct reports. Where possible, we use the ORKL.eu version of the report. Otherwise, we parse the report ourselves. 

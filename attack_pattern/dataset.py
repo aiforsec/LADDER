@@ -1,6 +1,5 @@
 import torch
-import spacy
-from torchtext.vocab import vocab
+# import spacy
 import numpy as np
 import pandas as pd
 
