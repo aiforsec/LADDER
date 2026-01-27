@@ -138,15 +138,25 @@ def infer():
     # print(device)
     
     entity_model = EntityRecognition(args.entity_extraction_model).to(device)
-    entity_model.load_state_dict(torch.load(args.entity_extraction_weight, map_location=device))
-
+    #entity_model.load_state_dict(torch.load(args.entity_extraction_weight, map_location=device))
+    sd = torch.load(args.entity_extraction_weight, map_location=device)
+    sd.pop("bert_layer.embeddings.position_ids", None)
+    missing, unexpected = entity_model.load_state_dict(sd, strict=False)
+    print("missing:", missing)
+    print("unexpected:", unexpected)
 
     if MODELS[args.sentence_classification_model][3] == 'bert':
         sentence_model = SentenceClassificationBERT(args.sentence_classification_model, num_class=2).to(device)
         sentence_model.load_state_dict(torch.load(args.sentence_classification_weight, map_location=device))
     elif MODELS[args.sentence_classification_model][3] == 'roberta':
         sentence_model = SentenceClassificationRoBERTa(args.sentence_classification_model, num_class=2).to(device)
-        sentence_model.load_state_dict(torch.load(args.sentence_classification_weight, map_location=device))
+
+        sd = torch.load(args.sentence_classification_weight, map_location=device)
+        sd.pop("bert.roberta.embeddings.position_ids", None)
+
+        missing, unexpected = sentence_model.load_state_dict(sd, strict=False)
+        print("sentence missing:", missing)
+        print("sentence unexpected:", unexpected)
     else:
         raise ValueError('Unknown sentence classification model')
 

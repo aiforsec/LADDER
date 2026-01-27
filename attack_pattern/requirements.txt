@@ -1,10 +1,11 @@
 numpy
-transformers==v3.1.0
 tqdm
-torch
-sklearn
-spacy
-torchtext
 pandas
 nltk
-sentence_transformers
+scikit-learn
+scipy
+
+torch
+
+transformers>=4.41.0
+sentence-transformers>=3.0.0
